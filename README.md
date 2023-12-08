@@ -1,11 +1,13 @@
 # RSS feeds
 
+[![reload-feeds](https://github.com/wittymonkey/rss-feeds/actions/workflows/main.yml/badge.svg)](https://github.com/wittymonkey/rss-feeds/actions/workflows/main.yml)
+
 <!--
 [!] Use:
 ```
 git config --local credential.helper ""
-git config --local user.name ""
-git config --local user.email ""
+git config --local user.name "wittymonkey"
+git config --local user.email "random@email.com"
 ```
 to avoid pushing with your main account and remove your personal information from commits
 -->
