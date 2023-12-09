@@ -20,5 +20,9 @@ jobs:
   
       - name: Check change
         run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
           pip install -r requirements.txt
           python main.py
+          git commit -am "update feed" || true
+          git push
