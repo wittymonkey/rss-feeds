@@ -6,102 +6,12 @@
     <description>This is a cool feed!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Dec 2023 08:30:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2023 08:30:29 +0000</lastBuildDate>
     <item>
-      <title>¡Por fin un famoso ha escrito un buen libro!</title>
-      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-12-10/por-fin-un-famoso-ha-escrito-un-buen-libro_3787558/</link>
-      <description>El actor Ethan Hawke se revela como un escritor solvente y desacomplejado en su estupenda novela 'Un brillante rayo de oscuridad'</description>
-      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Los delincuentes': en el campo no crecen árboles, sino cultura</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-08/los-delincuentes-campo-arboles-cultura_3787664/</link>
-      <description>La representante argentina en los Oscar despista con su trama criminal hasta acabar convertida en otra égloga pastoril</description>
-      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿A ti te sigue dando vergüenza algo?</title>
-      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-11-08/verguenza_3769194/</link>
-      <description>La vergüenza, en su vertiente moral, nos hace mejores; pero también nos pone en desventaja</description>
-      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ante la dictadura, buenos modales</title>
-      <link>https://www.elconfidencial.com/espana/2023-11-12/manifestacion-amnistia-mitin-buenos-modales_3772357/</link>
-      <description>La concentración promovida por el PP en la Puerta del Sol no respondió a la gravedad de la situación que decía motivarla</description>
-      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sánchez: ganar pisoteando la razón</title>
-      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-11-15/sanchez-ganar-pisoteando-razon_3773588/</link>
-      <description>No poner los límites de lo que puede hacerse para que no gobierne la derecha nos ha llevado a las puertas de la más siniestra arbitrariedad</description>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¡La revolución de la crítica! (Es broma)</title>
-      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-11-20/la-revolucion-de-la-critica-es-broma_3775960/</link>
-      <description>De vez en cuando, parece que la crítica va a empezar a hacer su trabajo, pero es solo un espejismo</description>
-      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Napoleón': un loco llamado el Joker se cree Bonaparte</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-24/napoleon-loco-llamado-joker-bonaparte-curiosidades_3779964/</link>
-      <description>Ridley Scott recrea con frivolidad e inconsistencia la vida del militar y estadista francés</description>
-      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La cultura explicada al ministro de Cultura</title>
-      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-11-27/la-cultura-explicada-al-ministro-de-cultura_3781003/</link>
-      <description>Ernest Urtasun entiende la creación como un simple instrumento al servicio del poder</description>
-      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'El ADN del delito': viaje guiado por Brasil con Netflix</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-01/adn-delito-viaje-guiado-brasil-netflix_3784745/</link>
-      <description>La serie más cara de la historia del audiovisual brasileño trata la delincuencia organizada en la frontera con Paraguay</description>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Luis Mateo Díez, la resistencia de una generación casi olvidada</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-07/luis-mateo-diez-premio-cervantes-resistencia-generacion-olvidada_3769914/</link>
-      <description>El nuevo premio Cervantes dirige nuestra atención hacia los narradores nacidos en los años 40, que nunca lograron una gran popularidad</description>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Una vida Bárbara': érase una vez el destape</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-10/vida-barbara-destape_3770194/</link>
-      <description>La antigua vedette sigue dando material a las plataformas de vídeo, esta vez en primera persona</description>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sobran libros, pero no sabemos cuáles</title>
-      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-11-13/sobran-libros-pero-no-sabemos-cuales_3771520/</link>
-      <description>El misterioso Xavier Nueno publica el excelente ensayo 'El arte del saber ligero'</description>
-      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'El juicio': silencio, soledad y tortura</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-17/juicio-silencio-soledad-tortura-dictadura-militar-argentina_3775347/</link>
-      <description>Ulises de la Orden construye un escalofriante documental de tres horas con las 530 horas de grabaciones públicas del “juicio a las Juntas”</description>
-      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El régimen de Rufián: 'bullying' de Estado</title>
-      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-11-22/regimen-rufian-bullying-estado_3778206/</link>
-      <description>Si algo garantiza la vigilancia de ERC y Junts sobre el gobierno es el mantenimiento estricto de la desigualdad</description>
-      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Usted no tiene una vida, sino una aspiración en la vida</title>
-      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-11-25/no-tiene-vida-sino-aspiracion-vida-resena-esteban-hernandez-corazon-presente_3780335/</link>
-      <description>Esteban Hernández toma el pulso a la disolución de todas las verdades en 'El corazón del presente'</description>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Muface, ¿qué broma es esta?</title>
-      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-11-29/muface-sanidad-funcionarios_3783265/</link>
-      <description>La iniciativa de Sumar para eliminar este privilegio —que ahora retoma Mónica García como ministra— parece lo más sensato</description>
-      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <title>Pedro Sánchez y la invisibilidad de las mujeres</title>
+      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-12-06/pedro-sanchez-y-la-invisibilidad-de-las-mujeres_3786969/</link>
+      <description>¿No deberíamos considerar retrógrado que Pedro Sánchez firme libros que le escribe la talentosa Irene Lozano?</description>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Siempre se puede hacer el ridículo un poco más</title>
@@ -110,10 +20,100 @@
       <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pedro Sánchez y la invisibilidad de las mujeres</title>
-      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-12-06/pedro-sanchez-y-la-invisibilidad-de-las-mujeres_3786969/</link>
-      <description>¿No deberíamos considerar retrógrado que Pedro Sánchez firme libros que le escribe la talentosa Irene Lozano?</description>
-      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      <title>Muface, ¿qué broma es esta?</title>
+      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-11-29/muface-sanidad-funcionarios_3783265/</link>
+      <description>La iniciativa de Sumar para eliminar este privilegio —que ahora retoma Mónica García como ministra— parece lo más sensato</description>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Usted no tiene una vida, sino una aspiración en la vida</title>
+      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-11-25/no-tiene-vida-sino-aspiracion-vida-resena-esteban-hernandez-corazon-presente_3780335/</link>
+      <description>Esteban Hernández toma el pulso a la disolución de todas las verdades en 'El corazón del presente'</description>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El régimen de Rufián: 'bullying' de Estado</title>
+      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-11-22/regimen-rufian-bullying-estado_3778206/</link>
+      <description>Si algo garantiza la vigilancia de ERC y Junts sobre el gobierno es el mantenimiento estricto de la desigualdad</description>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>'El juicio': silencio, soledad y tortura</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-17/juicio-silencio-soledad-tortura-dictadura-militar-argentina_3775347/</link>
+      <description>Ulises de la Orden construye un escalofriante documental de tres horas con las 530 horas de grabaciones públicas del “juicio a las Juntas”</description>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sobran libros, pero no sabemos cuáles</title>
+      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-11-13/sobran-libros-pero-no-sabemos-cuales_3771520/</link>
+      <description>El misterioso Xavier Nueno publica el excelente ensayo 'El arte del saber ligero'</description>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Una vida Bárbara': érase una vez el destape</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-10/vida-barbara-destape_3770194/</link>
+      <description>La antigua vedette sigue dando material a las plataformas de vídeo, esta vez en primera persona</description>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Luis Mateo Díez, la resistencia de una generación casi olvidada</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-07/luis-mateo-diez-premio-cervantes-resistencia-generacion-olvidada_3769914/</link>
+      <description>El nuevo premio Cervantes dirige nuestra atención hacia los narradores nacidos en los años 40, que nunca lograron una gran popularidad</description>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>'El ADN del delito': viaje guiado por Brasil con Netflix</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-01/adn-delito-viaje-guiado-brasil-netflix_3784745/</link>
+      <description>La serie más cara de la historia del audiovisual brasileño trata la delincuencia organizada en la frontera con Paraguay</description>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La cultura explicada al ministro de Cultura</title>
+      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-11-27/la-cultura-explicada-al-ministro-de-cultura_3781003/</link>
+      <description>Ernest Urtasun entiende la creación como un simple instrumento al servicio del poder</description>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Napoleón': un loco llamado el Joker se cree Bonaparte</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-24/napoleon-loco-llamado-joker-bonaparte-curiosidades_3779964/</link>
+      <description>Ridley Scott recrea con frivolidad e inconsistencia la vida del militar y estadista francés</description>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¡La revolución de la crítica! (Es broma)</title>
+      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-11-20/la-revolucion-de-la-critica-es-broma_3775960/</link>
+      <description>De vez en cuando, parece que la crítica va a empezar a hacer su trabajo, pero es solo un espejismo</description>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sánchez: ganar pisoteando la razón</title>
+      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-11-15/sanchez-ganar-pisoteando-razon_3773588/</link>
+      <description>No poner los límites de lo que puede hacerse para que no gobierne la derecha nos ha llevado a las puertas de la más siniestra arbitrariedad</description>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ante la dictadura, buenos modales</title>
+      <link>https://www.elconfidencial.com/espana/2023-11-12/manifestacion-amnistia-mitin-buenos-modales_3772357/</link>
+      <description>La concentración promovida por el PP en la Puerta del Sol no respondió a la gravedad de la situación que decía motivarla</description>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿A ti te sigue dando vergüenza algo?</title>
+      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-11-08/verguenza_3769194/</link>
+      <description>La vergüenza, en su vertiente moral, nos hace mejores; pero también nos pone en desventaja</description>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Los delincuentes': en el campo no crecen árboles, sino cultura</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-08/los-delincuentes-campo-arboles-cultura_3787664/</link>
+      <description>La representante argentina en los Oscar despista con su trama criminal hasta acabar convertida en otra égloga pastoril</description>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¡Por fin un famoso ha escrito un buen libro!</title>
+      <link>https://blogs.elconfidencial.com/cultura/mala-fama/2023-12-10/por-fin-un-famoso-ha-escrito-un-buen-libro_3787558/</link>
+      <description>El actor Ethan Hawke se revela como un escritor solvente y desacomplejado en su estupenda novela 'Un brillante rayo de oscuridad'</description>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
