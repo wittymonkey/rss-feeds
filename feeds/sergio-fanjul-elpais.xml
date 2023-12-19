@@ -6,7 +6,7 @@
     <description>This is a cool feed!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Dec 2023 08:31:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2023 08:30:18 +0000</lastBuildDate>
     <item>
       <title>Mankiewicz, ‘La que se avecina’, la gala del Balón de Oro y otras sugerencias para ver hoy en televisión  </title>
       <link>https://elpais.com/television/2023-10-30/mankiewicz-el-final-de-la-que-se-avecina-la-gala-del-balon-de-oro-y-otras-sugerencias-para-ver-hoy-en-television.html</link>
@@ -26,6 +26,12 @@
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>El heavy metal como terapia: larga vida a los ‘metaleros’ cuarentones</title>
+      <link>https://elpais.com/cultura/2023-12-19/el-heavy-metal-como-terapia-larga-vida-a-los-metaleros-cuarentones.html</link>
+      <description>La novela ‘La Armada Invencible’ (Seix Barral), del mexicano Antonio Ortuño, recrea con humor, ácido y cierta melancolía la reunión de una banda de viejos ‘heavies’ que no acaban de encajar en el mundo actual</description>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Mankiewicz, ‘La que se avecina’, la gala del Balón de Oro y otras sugerencias para ver hoy en televisión</title>
       <link>https://elpais.com/television/2023-10-30/mankiewicz-el-final-de-la-que-se-avecina-la-gala-del-balon-de-oro-y-otras-sugerencias-para-ver-hoy-en-television.html</link>
       <description>Las recomendaciones televisivas se reparten entre la película ‘El día de los tramposos’, programas como ‘Late Xou con Marc Giró o ‘Conquistadores’, el fin de temporada de una de las series más populares de la pantalla o la gala del Balón de Oro 2023</description>
@@ -44,12 +50,42 @@
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El carpintero metálico que bucea en el archivo de la Biblioteca Nacional en busca de textos olvidados</title>
-      <link>https://elpais.com/cultura/2023-12-16/el-carpintero-metalico-que-bucea-en-el-archivo-de-la-biblioteca-nacional-en-busca-de-textos-olvidados.html</link>
-      <description>Francisco García Castro espiga piezas olvidadas: desde artículos de Picasso o Emilia Pardo Bazán a un poema traducido al euskera de Rafael Alberti</description>
+      <title>Toni Negri: el pensador de la autonomía y la multitud</title>
+      <link>https://elpais.com/cultura/2023-12-16/toni-negri-el-pensador-de-la-autonomia-y-la-multitud.html</link>
+      <description>El polémico filósofo italiano fue uno de los ideólogos del operaísmo y el movimiento autónomo, además de creador de conceptos como ‘Imperio’ y ‘Multitud’</description>
       <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Egoísmo de náufragos: por qué somos cada vez más individualistas</title>
+      <link>https://elpais.com/ideas/2023-12-17/egoismo-de-naufragos-por-que-somos-cada-vez-mas-individualistas.html</link>
+      <description>Abuso de la palabra libertad, culto al éxito personal, relaciones líquidas: florecen las filosofías individualistas extremas al tiempo que ‘influencers’ ultraliberales despliegan sus ideas contra lo comunitario, ¿cómo hemos llegado hasta aquí?</description>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La belleza de presenciar cómo tu hija aprende a hablar</title>
+      <link>https://elpais.com/mamas-papas/2023-12-17/la-belleza-de-presenciar-como-tu-hija-aprende-a-hablar.html</link>
+      <description>Llama la atención cómo un niño aprende palabras de los cuentos y cómo luego su cerebro sabe pasar del dibujo bidimensional sobre la página al objeto tridimensional en la realidad, aunque no siempre correctamente</description>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mankiewicz, ‘La que se avecina’, la gala del Balón de Oro y otras sugerencias para ver hoy en televisión</title>
+      <link>https://elpais.com/television/2023-10-30/mankiewicz-el-final-de-la-que-se-avecina-la-gala-del-balon-de-oro-y-otras-sugerencias-para-ver-hoy-en-television.html</link>
+      <description>Las recomendaciones televisivas se reparten entre la película ‘El día de los tramposos’, programas como ‘Late Xou con Marc Giró o ‘Conquistadores’, el fin de temporada de una de las series más populares de la pantalla o la gala del Balón de Oro 2023</description>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cambios en el trabajo, ética en la empresa, geopolítica incierta, presión en las redes: claves para entender el futuro</title>
+      <link>https://elpais.com/proyecto-tendencias/2023-11-21/cambios-en-el-trabajo-etica-en-la-empresa-geopolitica-incierta-presion-en-las-redes-claves-para-entender-el-futuro.html</link>
+      <description>La segunda jornada del foro del proyecto Tendencias de EL PAÍS reúne en la reflexión a la filósofa Adela Cortina, los cineastas Los Javis, científicos, analistas y empresarios</description>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jon Fosse, premio Nobel de Literatura: “Prefiero vivir de la manera más aburrida posible”</title>
+      <link>https://elpais.com/cultura/2023-12-06/jon-fosse-premio-nobel-de-literatura-prefiero-vivir-de-la-manera-mas-aburrida-posible.html</link>
+      <description>El autor, que recibirá el galardón de la Academia Sueca el próximo domingo en Estocolmo, relata en una entrevista exclusiva en Oslo: “Hay gente que ama mi escritura y gente que la odia”</description>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Mankiewicz, ‘La que se avecina’, la gala del Balón de Oro y otras sugerencias para ver hoy en televisión</title>
       <link>https://elpais.com/television/2023-10-30/mankiewicz-el-final-de-la-que-se-avecina-la-gala-del-balon-de-oro-y-otras-sugerencias-para-ver-hoy-en-television.html</link>
       <description>Las recomendaciones televisivas se reparten entre la película ‘El día de los tramposos’, programas como ‘Late Xou con Marc Giró o ‘Conquistadores’, el fin de temporada de una de las series más populares de la pantalla o la gala del Balón de Oro 2023</description>
@@ -86,36 +122,6 @@
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>¿Puede (o debe) la ciencia probar la existencia de Dios?</title>
-      <link>https://elpais.com/cultura/2023-12-12/puede-o-debe-la-ciencia-probar-la-existencia-de-dios.html</link>
-      <description>Un libro superventas en Francia  afirma ofrecer pruebas de la presencia de un ser supremo creador del universo y reaviva el debate sobre las relaciones entre la ciencia y la religión</description>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mankiewicz, ‘La que se avecina’, la gala del Balón de Oro y otras sugerencias para ver hoy en televisión</title>
-      <link>https://elpais.com/television/2023-10-30/mankiewicz-el-final-de-la-que-se-avecina-la-gala-del-balon-de-oro-y-otras-sugerencias-para-ver-hoy-en-television.html</link>
-      <description>Las recomendaciones televisivas se reparten entre la película ‘El día de los tramposos’, programas como ‘Late Xou con Marc Giró o ‘Conquistadores’, el fin de temporada de una de las series más populares de la pantalla o la gala del Balón de Oro 2023</description>
-      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cambios en el trabajo, ética en la empresa, geopolítica incierta, presión en las redes: claves para entender el futuro</title>
-      <link>https://elpais.com/proyecto-tendencias/2023-11-21/cambios-en-el-trabajo-etica-en-la-empresa-geopolitica-incierta-presion-en-las-redes-claves-para-entender-el-futuro.html</link>
-      <description>La segunda jornada del foro del proyecto Tendencias de EL PAÍS reúne en la reflexión a la filósofa Adela Cortina, los cineastas Los Javis, científicos, analistas y empresarios</description>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jon Fosse, premio Nobel de Literatura: “Prefiero vivir de la manera más aburrida posible”</title>
-      <link>https://elpais.com/cultura/2023-12-06/jon-fosse-premio-nobel-de-literatura-prefiero-vivir-de-la-manera-mas-aburrida-posible.html</link>
-      <description>El autor, que recibirá el galardón de la Academia Sueca el próximo domingo en Estocolmo, relata en una entrevista exclusiva en Oslo: “Hay gente que ama mi escritura y gente que la odia”</description>
-      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Nynorsk’, la lengua noruega minoritaria en la que escribe el Nobel Jon Fosse</title>
-      <link>https://elpais.com/cultura/2023-12-10/nynorsk-la-lengua-noruega-minoritaria-en-la-que-escribe-el-nobel-jon-fosse.html</link>
-      <description>El autor, que recoge este domingo el galardón, reivindica el idioma creado en el siglo XIX a partir de dialectos rurales, utilizado solo por un 12% de la población, frente al mayoritario ‘bokmål’</description>
-      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Mankiewicz, ‘La que se avecina’, la gala del Balón de Oro y otras sugerencias para ver hoy en televisión</title>
       <link>https://elpais.com/television/2023-10-30/mankiewicz-el-final-de-la-que-se-avecina-la-gala-del-balon-de-oro-y-otras-sugerencias-para-ver-hoy-en-television.html</link>
       <description>Las recomendaciones televisivas se reparten entre la película ‘El día de los tramposos’, programas como ‘Late Xou con Marc Giró o ‘Conquistadores’, el fin de temporada de una de las series más populares de la pantalla o la gala del Balón de Oro 2023</description>
@@ -144,6 +150,168 @@
       <link>https://elpais.com/proyecto-tendencias/2023-11-21/cambios-en-el-trabajo-etica-en-la-empresa-geopolitica-incierta-presion-en-las-redes-claves-para-entender-el-futuro.html</link>
       <description>La segunda jornada del foro del proyecto Tendencias de EL PAÍS reúne en la reflexión a la filósofa Adela Cortina, los cineastas Los Javis, científicos, analistas y empresarios</description>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jon Fosse, premio Nobel de Literatura: “Prefiero vivir de la manera más aburrida posible”</title>
+      <link>https://elpais.com/cultura/2023-12-06/jon-fosse-premio-nobel-de-literatura-prefiero-vivir-de-la-manera-mas-aburrida-posible.html</link>
+      <description>El autor, que recibirá el galardón de la Academia Sueca el próximo domingo en Estocolmo, relata en una entrevista exclusiva en Oslo: “Hay gente que ama mi escritura y gente que la odia”</description>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guy Debord, el teórico revolucionario que inspiró las barricadas y diseccionó la sociedad del espectáculo</title>
+      <link>https://elpais.com/cultura/2023-09-12/guy-debord-el-teorico-revolucionario-que-inspiro-las-barricadas-y-disecciono-la-sociedad-del-espectaculo.html</link>
+      <description>La reedición de una biografía canónica obra del filósofo Anselm Jappe recupera la figura del que fuera líder de la Internacional Situacionista</description>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eloy Tizón, maestro (en todos los sentidos) del relato contemporáneo</title>
+      <link>https://elpais.com/cultura/2023-09-13/eloy-tizon-maestro-en-todos-los-sentidos-del-relato-contemporaneo.html</link>
+      <description>Cada decenio el autor ofrece un libro de relatos, destilado con mucho trabajo y paciencia, donde huye de convencionalismos e implica al lector en el acto creativo. Su nueva entrega se titula ‘Plegaria para pirómanos’</description>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Juan Gallego Benot, el escritor que no reconoce las caras y percibe la ciudad como un laberinto</title>
+      <link>https://elpais.com/cultura/2023-09-19/juan-gallego-benot-el-escritor-que-no-reconoce-las-caras-y-percibe-la-ciudad-como-un-laberinto.html</link>
+      <description>Después de publicar dos poemarios, el autor escribe sobre sus experiencias en Madrid, Sevilla o Londres, ciudades que, debido a su condición, le resultan esquivas y fantasmales</description>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diego del Alcázar, CEO de la IE University y novelista: “Las humanidades nos ayudan a abrazar la tecnología de manera crítica”</title>
+      <link>https://elpais.com/cultura/2023-09-20/diego-del-alcazar-ceo-de-la-ie-university-y-novelista-las-humanidades-nos-ayudan-a-abrazar-la-tecnologia-de-manera-critica.html</link>
+      <description>Publica la novela ‘La genética del tiempo’ (Espasa), cuyos personajes reflexionan sobre las consecuencias del uso de herramientas de edición genética como CRISPR para mejorar las capacidades humanas</description>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘El salario del miedo’, uno de los grandes de la fotografía española y las peripecias de la Guardia Civil</title>
+      <link>https://elpais.com/television/2023-10-01/el-salario-del-miedo-uno-de-los-grandes-de-la-fotografia-espanola-y-las-peripecias-de-la-guardia-civil.html</link>
+      <description>El regreso de ‘Imprescindibles’, el cine de ‘Versión española’ (con ‘Los europeos’) o la pasión de ‘Los puentes de Madison’, entre las propuestas para este domingo</description>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Música y risas con ‘That’s My Jam España’, y otras cuatro sugerencias para ver hoy en la televisión</title>
+      <link>https://elpais.com/television/2023-10-02/musica-y-risas-con-thats-my-jam-espana-y-otras-cuatro-sugerencias-para-ver-hoy-en-la-television.html</link>
+      <description>‘Encubridora’, un clásico con Marlene Dietrich, la nueva etapa de ‘Cultura 2’ y el comienzo de la semana del espacio de Discovery, entre las propuestas televisivas de este lunes</description>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El Nobel de Literatura no es para tanto: los olvidos del premio y los premiados olvidados</title>
+      <link>https://elpais.com/cultura/2023-10-04/el-nobel-de-literatura-no-es-para-tanto-los-olvidos-del-premio-y-los-premiados-olvidados.html</link>
+      <description>Lejos de conformar un canon literario, el premio de la Academia Sueca, que se entrega mañana, no asegura la posteridad, obvia a grandes autores y se ve influido por la coyuntura política y literaria de cada época</description>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El narrador y dramaturgo noruego Jon Fosse, premio Nobel de Literatura 2023</title>
+      <link>https://elpais.com/cultura/2023-10-05/premio-nobel-de-literatura.html</link>
+      <description>La Academia Sueca ha concedido el galardón al autor, de 64 años, por “su prosa innovadora y por dar voz a lo que no se puede decir”</description>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Antonio Moresco, el autor que escribió una gran novela a mano durante 35 años</title>
+      <link>https://elpais.com/cultura/2023-10-13/antonio-moresco-el-autor-que-escribio-una-gran-novela-a-mano-durante-35-anos.html</link>
+      <description>‘Los comienzos’ es la primera entrega de la ambiciosa trilogía ‘Los juegos de la eternidad’, una narración alucinada y minuciosa de las diferentes vidas del autor: como escritor, como revolucionario y como seminarista</description>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fredrijk Sjöberg, el señor de las moscas en una remota isla de Suecia: “Coleccioné sírfidos para olvidar que algún día voy a morir”</title>
+      <link>https://elpais.com/cultura/2023-10-14/fredrijk-sjoberg-el-senor-de-las-moscas-en-una-remota-isla-de-suecia-coleccione-sirfidos-para-olvidar-que-algun-dia-voy-a-morir.html</link>
+      <description>El escritor y entomólogo publica en España un exitoso texto híbrido que relata su pasión por recopilar insectos mezclada con otros mimbres literarios y autobiográficos</description>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sonsoles Ónega gana el Premio Planeta 2023</title>
+      <link>https://elpais.com/cultura/2023-10-15/sonsoles-onega-gana-el-premio-planeta-2023.html</link>
+      <description>La galardonada, que recibirá un millón de euros, es autora de la novela ‘Las hijas de la criada’. El finalista es Alfonso Goizueta Alfaro, con la obra ‘La sangre del padre’, que se llevará 200.000 euros</description>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Haruki Murakami, Premio Princesa de Asturias de las Letras: “El escritor tiene que profundizar hasta el segundo sótano de la conciencia”</title>
+      <link>https://elpais.com/cultura/2023-10-18/haruki-murakami-premio-princesa-de-asturias-de-las-letras-el-escritor-tiene-que-profundizar-hasta-el-segundo-sotano-de-la-conciencia.html</link>
+      <description>El escritor japonés, Premio Princesa de Asturias de las Letras 2023, se ha reunido en el Teatro Jovellanos de Gijón con participantes de clubes de lectura</description>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meryl Streep, Premio Princesa de Asturias de las Artes: “Nadie hace nada en Hollywood a menos que piense que va a ganar mucho dinero”</title>
+      <link>https://elpais.com/cultura/2023-10-19/meryl-streep-premio-princesa-de-asturias-de-las-artes-nadie-hace-nada-en-hollywood-a-menos-que-piense-que-va-a-ganar-mucho-dinero.html</link>
+      <description>La actriz estadounidense ha mantenido un encuentro con alumnos de interpretación que le han mostrado escenas de clásicos del teatro español</description>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Premios Princesa de Asturias 2023: la empatía de Meryl Streep y el silencio de Murakami, en una ceremonia marcada por las ausencias</title>
+      <link>https://elpais.com/cultura/2023-10-20/premios-princesa-de-asturias-2023-la-empatia-de-meryl-streep-y-el-silencio-de-murakami-en-una-ceremonia-marcada-por-las-ausencias.html</link>
+      <description>Los galardones se entregaron en el teatro Campoamor de Oviedo, con la ausencia de los fallecidos Nuccio Ordine y Hélène Carrère, y con la princesa Leonor a punto de cumplir la mayoría de edad</description>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los cabos sueltos del fin del apartheid en Sudáfrica: de la tibieza de Nelson Mandela al resurgir del racismo entre los jóvenes</title>
+      <link>https://elpais.com/cultura/2023-10-24/eve-fairbanks-y-los-conflictos-postapartheid-muchos-sudafricanos-negros-solo-quieren-escuchar-lo-sentimos-nos-equivocamos.html</link>
+      <description>En su libro ‘Los herederos’ (Península), la escritora estadounidense se sumerge en las contradicciones del país austral, relatando la vida de tres personas implicadas en los cambios producidos en las últimas décadas</description>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Javier Solana: “La respuesta de Israel en Gaza es muy desproporcionada”</title>
+      <link>https://elpais.com/cultura/2023-10-25/javier-solana-la-respuesta-de-israel-en-gaza-es-muy-desproporcionada.html</link>
+      <description>En sus recientes memorias, el que fuera secretario general de la OTAN, alto mandatario de la UE y ministro en varios gobiernos socialistas revisa su vasta experiencia internacional como testigo y artífice de la historia</description>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La banda sonora de la Transición, los conflictos en torno al lobo, el mejor Bertolucci y otras sugerencias para ver hoy en televisión</title>
+      <link>https://elpais.com/television/2023-10-29/la-banda-sonora-de-la-transicion-los-conflictos-en-torno-al-lobo-el-mejor-bertolucci-y-otras-sugerencias-en-television.html</link>
+      <description>Las recomendaciones televisivas se reparten entre ‘Generación Jarcha’, en ‘Imprescindibles’, la película ‘El cielo protector’ o el nuevo capítulo de ‘Salvados’ que viaja a Asturias para analizar la difícil  relación entre el ecologismo y los ganaderos</description>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La influencia de la música en la política: ¿pueden el punk, el folk o el rap cambiar el mundo?</title>
+      <link>https://elpais.com/cultura/2023-10-30/la-influencia-de-la-musica-en-la-politica-pueden-el-punk-el-folk-o-el-rap-cambiar-el-mundo.html</link>
+      <description>Un ensayo sobre los temas sociopolíticos en las letras de Joe Strummer, líder de The Clash, inspira el debate sobre cuál es el peso de las canciones populares en la formación ideológica de los individuos</description>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mankiewicz, ‘La que se avecina’, la gala del Balón de Oro y otras sugerencias para ver hoy en televisión</title>
+      <link>https://elpais.com/television/2023-10-30/mankiewicz-el-final-de-la-que-se-avecina-la-gala-del-balon-de-oro-y-otras-sugerencias-para-ver-hoy-en-television.html</link>
+      <description>Las recomendaciones televisivas se reparten entre la película ‘El día de los tramposos’, programas como ‘Late Xou con Marc Giró o ‘Conquistadores’, el fin de temporada de una de las series más populares de la pantalla o la gala del Balón de Oro 2023</description>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cristina Fernández Cubas, maestra del relato, galardonada con el Premio Nacional de las Letras 2023</title>
+      <link>https://elpais.com/cultura/2023-11-02/cristina-fernandez-cubas-galardonada-con-el-premio-nacional-de-las-letras-2023.html</link>
+      <description>El jurado ha destacado a la autora “por la magia de su narrativa que la ha llevado a ser considerada como una de las mejores cuentistas españolas”</description>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Berta García Faet: “No busco respuestas; busco la belleza, aunque esa belleza sea fea”</title>
+      <link>https://elpais.com/babelia/2023-11-04/berta-garcia-faet-no-busco-respuestas-busco-la-belleza-aunque-esa-belleza-sea-fea.html</link>
+      <description>La escritora, en continua reflexión sobre el amor y el lenguaje, publica un poemario que recoge su experimentación y un ensayo sobre la capacidad de las metáforas para expandir el conocimiento</description>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pablo Simón, politólogo: “Me repele la palabra tertuliano”</title>
+      <link>https://elpais.com/cultura/2023-11-14/pablo-simon-politologo-me-repele-la-palabra-tertuliano.html</link>
+      <description>El profesor y analista político, conocido por su frecuente participación en tertulias, lanza el libro ‘Entender la política’ (Alfaguara) una amplia introducción para cualquiera que quiera conocer más de la forma en la que nos organizamos</description>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cambios en el trabajo, ética en la empresa, geopolítica incierta, presión en las redes: claves para entender el futuro</title>
+      <link>https://elpais.com/proyecto-tendencias/2023-11-21/cambios-en-el-trabajo-etica-en-la-empresa-geopolitica-incierta-presion-en-las-redes-claves-para-entender-el-futuro.html</link>
+      <description>La segunda jornada del foro del proyecto Tendencias de EL PAÍS reúne en la reflexión a la filósofa Adela Cortina, los cineastas Los Javis, científicos, analistas y empresarios</description>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Las peripecias de una editorial independiente a la que le cae el premio Nobel: de predicar en el desierto a codearse con los grandes grupos</title>
+      <link>https://elpais.com/cultura/2023-11-25/las-peripecias-de-una-editorial-independiente-a-la-que-le-cae-el-premio-nobel-de-predicar-en-el-desierto-a-codearse-con-los-grandes-grupos.html</link>
+      <description>El sello De Conatus, que llevaba publicando a Jon Fosse en España desde 2018, sin demasiadas ventas o repercusión, anuncia una alianza con Seix Barral, del Grupo Planeta, para llevar la obra del noruego a Latinoamérica y Estados Unidos</description>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cientos de ciudadanos se despiden de Concha Velasco: “Ha sido un guantazo en toda la cara”</title>
+      <link>https://elpais.com/cultura/2023-12-02/cientos-de-ciudadanos-se-despiden-de-concha-velasco-ha-sido-un-guantazo-en-toda-la-cara.html</link>
+      <description>Grandes figuras de la política y la cultura, entre ellas el presidente del Gobierno, Pedro Sánchez, y la de la Comunidad de Madrid, Isabel Díaz Ayuso, se acercaron a rendir homenaje a la actriz. Hubo jaleos y abucheos: la capilla ardiente reflejó la polarización política</description>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El cine de John Ford, los escenarios de la Guerra Civil o la vida de Julio Iglesias, entre las recomendaciones para ver hoy en televisión</title>
+      <link>https://elpais.com/television/2023-12-04/el-cine-de-john-ford-los-escenarios-de-la-guerra-civil-o-la-vida-de-julio-iglesias-entre-las-recomendaciones-para-ver-hoy-en-television.html</link>
+      <description>Este lunes, cine clásico, el ‘Late Xou con Marc Giró', la final de ‘El conquistador’, un nuevo episodio de ‘España al descubierto’ y el estreno del documental ‘Julio Iglesias, la vida sigue igual’</description>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Jon Fosse, premio Nobel de Literatura: “Prefiero vivir de la manera más aburrida posible”</title>
@@ -164,46 +332,10 @@
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El cine de John Ford, los escenarios de la Guerra Civil o la vida de Julio Iglesias, entre las recomendaciones para ver hoy en televisión</title>
-      <link>https://elpais.com/television/2023-12-04/el-cine-de-john-ford-los-escenarios-de-la-guerra-civil-o-la-vida-de-julio-iglesias-entre-las-recomendaciones-para-ver-hoy-en-television.html</link>
-      <description>Este lunes, cine clásico, el ‘Late Xou con Marc Giró', la final de ‘El conquistador’, un nuevo episodio de ‘España al descubierto’ y el estreno del documental ‘Julio Iglesias, la vida sigue igual’</description>
-      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cientos de ciudadanos se despiden de Concha Velasco: “Ha sido un guantazo en toda la cara”</title>
-      <link>https://elpais.com/cultura/2023-12-02/cientos-de-ciudadanos-se-despiden-de-concha-velasco-ha-sido-un-guantazo-en-toda-la-cara.html</link>
-      <description>Grandes figuras de la política y la cultura, entre ellas el presidente del Gobierno, Pedro Sánchez, y la de la Comunidad de Madrid, Isabel Díaz Ayuso, se acercaron a rendir homenaje a la actriz. Hubo jaleos y abucheos: la capilla ardiente reflejó la polarización política</description>
-      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Las peripecias de una editorial independiente a la que le cae el premio Nobel: de predicar en el desierto a codearse con los grandes grupos</title>
-      <link>https://elpais.com/cultura/2023-11-25/las-peripecias-de-una-editorial-independiente-a-la-que-le-cae-el-premio-nobel-de-predicar-en-el-desierto-a-codearse-con-los-grandes-grupos.html</link>
-      <description>El sello De Conatus, que llevaba publicando a Jon Fosse en España desde 2018, sin demasiadas ventas o repercusión, anuncia una alianza con Seix Barral, del Grupo Planeta, para llevar la obra del noruego a Latinoamérica y Estados Unidos</description>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cambios en el trabajo, ética en la empresa, geopolítica incierta, presión en las redes: claves para entender el futuro</title>
       <link>https://elpais.com/proyecto-tendencias/2023-11-21/cambios-en-el-trabajo-etica-en-la-empresa-geopolitica-incierta-presion-en-las-redes-claves-para-entender-el-futuro.html</link>
       <description>La segunda jornada del foro del proyecto Tendencias de EL PAÍS reúne en la reflexión a la filósofa Adela Cortina, los cineastas Los Javis, científicos, analistas y empresarios</description>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pablo Simón, politólogo: “Me repele la palabra tertuliano”</title>
-      <link>https://elpais.com/cultura/2023-11-14/pablo-simon-politologo-me-repele-la-palabra-tertuliano.html</link>
-      <description>El profesor y analista político, conocido por su frecuente participación en tertulias, lanza el libro ‘Entender la política’ (Alfaguara) una amplia introducción para cualquiera que quiera conocer más de la forma en la que nos organizamos</description>
-      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Berta García Faet: “No busco respuestas; busco la belleza, aunque esa belleza sea fea”</title>
-      <link>https://elpais.com/babelia/2023-11-04/berta-garcia-faet-no-busco-respuestas-busco-la-belleza-aunque-esa-belleza-sea-fea.html</link>
-      <description>La escritora, en continua reflexión sobre el amor y el lenguaje, publica un poemario que recoge su experimentación y un ensayo sobre la capacidad de las metáforas para expandir el conocimiento</description>
-      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cristina Fernández Cubas, maestra del relato, galardonada con el Premio Nacional de las Letras 2023</title>
-      <link>https://elpais.com/cultura/2023-11-02/cristina-fernandez-cubas-galardonada-con-el-premio-nacional-de-las-letras-2023.html</link>
-      <description>El jurado ha destacado a la autora “por la magia de su narrativa que la ha llevado a ser considerada como una de las mejores cuentistas españolas”</description>
-      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mankiewicz, ‘La que se avecina’, la gala del Balón de Oro y otras sugerencias para ver hoy en televisión</title>
@@ -212,112 +344,52 @@
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La influencia de la música en la política: ¿pueden el punk, el folk o el rap cambiar el mundo?</title>
-      <link>https://elpais.com/cultura/2023-10-30/la-influencia-de-la-musica-en-la-politica-pueden-el-punk-el-folk-o-el-rap-cambiar-el-mundo.html</link>
-      <description>Un ensayo sobre los temas sociopolíticos en las letras de Joe Strummer, líder de The Clash, inspira el debate sobre cuál es el peso de las canciones populares en la formación ideológica de los individuos</description>
+      <title>Jon Fosse, premio Nobel de Literatura: “Prefiero vivir de la manera más aburrida posible”</title>
+      <link>https://elpais.com/cultura/2023-12-06/jon-fosse-premio-nobel-de-literatura-prefiero-vivir-de-la-manera-mas-aburrida-posible.html</link>
+      <description>El autor, que recibirá el galardón de la Academia Sueca el próximo domingo en Estocolmo, relata en una entrevista exclusiva en Oslo: “Hay gente que ama mi escritura y gente que la odia”</description>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cambios en el trabajo, ética en la empresa, geopolítica incierta, presión en las redes: claves para entender el futuro</title>
+      <link>https://elpais.com/proyecto-tendencias/2023-11-21/cambios-en-el-trabajo-etica-en-la-empresa-geopolitica-incierta-presion-en-las-redes-claves-para-entender-el-futuro.html</link>
+      <description>La segunda jornada del foro del proyecto Tendencias de EL PAÍS reúne en la reflexión a la filósofa Adela Cortina, los cineastas Los Javis, científicos, analistas y empresarios</description>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mankiewicz, ‘La que se avecina’, la gala del Balón de Oro y otras sugerencias para ver hoy en televisión</title>
+      <link>https://elpais.com/television/2023-10-30/mankiewicz-el-final-de-la-que-se-avecina-la-gala-del-balon-de-oro-y-otras-sugerencias-para-ver-hoy-en-television.html</link>
+      <description>Las recomendaciones televisivas se reparten entre la película ‘El día de los tramposos’, programas como ‘Late Xou con Marc Giró o ‘Conquistadores’, el fin de temporada de una de las series más populares de la pantalla o la gala del Balón de Oro 2023</description>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La banda sonora de la Transición, los conflictos en torno al lobo, el mejor Bertolucci y otras sugerencias para ver hoy en televisión</title>
-      <link>https://elpais.com/television/2023-10-29/la-banda-sonora-de-la-transicion-los-conflictos-en-torno-al-lobo-el-mejor-bertolucci-y-otras-sugerencias-en-television.html</link>
-      <description>Las recomendaciones televisivas se reparten entre ‘Generación Jarcha’, en ‘Imprescindibles’, la película ‘El cielo protector’ o el nuevo capítulo de ‘Salvados’ que viaja a Asturias para analizar la difícil  relación entre el ecologismo y los ganaderos</description>
-      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      <title>‘Nynorsk’, la lengua noruega minoritaria en la que escribe el Nobel Jon Fosse</title>
+      <link>https://elpais.com/cultura/2023-12-10/nynorsk-la-lengua-noruega-minoritaria-en-la-que-escribe-el-nobel-jon-fosse.html</link>
+      <description>El autor, que recoge este domingo el galardón, reivindica el idioma creado en el siglo XIX a partir de dialectos rurales, utilizado solo por un 12% de la población, frente al mayoritario ‘bokmål’</description>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Javier Solana: “La respuesta de Israel en Gaza es muy desproporcionada”</title>
-      <link>https://elpais.com/cultura/2023-10-25/javier-solana-la-respuesta-de-israel-en-gaza-es-muy-desproporcionada.html</link>
-      <description>En sus recientes memorias, el que fuera secretario general de la OTAN, alto mandatario de la UE y ministro en varios gobiernos socialistas revisa su vasta experiencia internacional como testigo y artífice de la historia</description>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <title>Jon Fosse, premio Nobel de Literatura: “Prefiero vivir de la manera más aburrida posible”</title>
+      <link>https://elpais.com/cultura/2023-12-06/jon-fosse-premio-nobel-de-literatura-prefiero-vivir-de-la-manera-mas-aburrida-posible.html</link>
+      <description>El autor, que recibirá el galardón de la Academia Sueca el próximo domingo en Estocolmo, relata en una entrevista exclusiva en Oslo: “Hay gente que ama mi escritura y gente que la odia”</description>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Los cabos sueltos del fin del apartheid en Sudáfrica: de la tibieza de Nelson Mandela al resurgir del racismo entre los jóvenes</title>
-      <link>https://elpais.com/cultura/2023-10-24/eve-fairbanks-y-los-conflictos-postapartheid-muchos-sudafricanos-negros-solo-quieren-escuchar-lo-sentimos-nos-equivocamos.html</link>
-      <description>En su libro ‘Los herederos’ (Península), la escritora estadounidense se sumerge en las contradicciones del país austral, relatando la vida de tres personas implicadas en los cambios producidos en las últimas décadas</description>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <title>Cambios en el trabajo, ética en la empresa, geopolítica incierta, presión en las redes: claves para entender el futuro</title>
+      <link>https://elpais.com/proyecto-tendencias/2023-11-21/cambios-en-el-trabajo-etica-en-la-empresa-geopolitica-incierta-presion-en-las-redes-claves-para-entender-el-futuro.html</link>
+      <description>La segunda jornada del foro del proyecto Tendencias de EL PAÍS reúne en la reflexión a la filósofa Adela Cortina, los cineastas Los Javis, científicos, analistas y empresarios</description>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Premios Princesa de Asturias 2023: la empatía de Meryl Streep y el silencio de Murakami, en una ceremonia marcada por las ausencias</title>
-      <link>https://elpais.com/cultura/2023-10-20/premios-princesa-de-asturias-2023-la-empatia-de-meryl-streep-y-el-silencio-de-murakami-en-una-ceremonia-marcada-por-las-ausencias.html</link>
-      <description>Los galardones se entregaron en el teatro Campoamor de Oviedo, con la ausencia de los fallecidos Nuccio Ordine y Hélène Carrère, y con la princesa Leonor a punto de cumplir la mayoría de edad</description>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <title>Mankiewicz, ‘La que se avecina’, la gala del Balón de Oro y otras sugerencias para ver hoy en televisión</title>
+      <link>https://elpais.com/television/2023-10-30/mankiewicz-el-final-de-la-que-se-avecina-la-gala-del-balon-de-oro-y-otras-sugerencias-para-ver-hoy-en-television.html</link>
+      <description>Las recomendaciones televisivas se reparten entre la película ‘El día de los tramposos’, programas como ‘Late Xou con Marc Giró o ‘Conquistadores’, el fin de temporada de una de las series más populares de la pantalla o la gala del Balón de Oro 2023</description>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Meryl Streep, Premio Princesa de Asturias de las Artes: “Nadie hace nada en Hollywood a menos que piense que va a ganar mucho dinero”</title>
-      <link>https://elpais.com/cultura/2023-10-19/meryl-streep-premio-princesa-de-asturias-de-las-artes-nadie-hace-nada-en-hollywood-a-menos-que-piense-que-va-a-ganar-mucho-dinero.html</link>
-      <description>La actriz estadounidense ha mantenido un encuentro con alumnos de interpretación que le han mostrado escenas de clásicos del teatro español</description>
-      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Haruki Murakami, Premio Princesa de Asturias de las Letras: “El escritor tiene que profundizar hasta el segundo sótano de la conciencia”</title>
-      <link>https://elpais.com/cultura/2023-10-18/haruki-murakami-premio-princesa-de-asturias-de-las-letras-el-escritor-tiene-que-profundizar-hasta-el-segundo-sotano-de-la-conciencia.html</link>
-      <description>El escritor japonés, Premio Princesa de Asturias de las Letras 2023, se ha reunido en el Teatro Jovellanos de Gijón con participantes de clubes de lectura</description>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sonsoles Ónega gana el Premio Planeta 2023</title>
-      <link>https://elpais.com/cultura/2023-10-15/sonsoles-onega-gana-el-premio-planeta-2023.html</link>
-      <description>La galardonada, que recibirá un millón de euros, es autora de la novela ‘Las hijas de la criada’. El finalista es Alfonso Goizueta Alfaro, con la obra ‘La sangre del padre’, que se llevará 200.000 euros</description>
-      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fredrijk Sjöberg, el señor de las moscas en una remota isla de Suecia: “Coleccioné sírfidos para olvidar que algún día voy a morir”</title>
-      <link>https://elpais.com/cultura/2023-10-14/fredrijk-sjoberg-el-senor-de-las-moscas-en-una-remota-isla-de-suecia-coleccione-sirfidos-para-olvidar-que-algun-dia-voy-a-morir.html</link>
-      <description>El escritor y entomólogo publica en España un exitoso texto híbrido que relata su pasión por recopilar insectos mezclada con otros mimbres literarios y autobiográficos</description>
-      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Antonio Moresco, el autor que escribió una gran novela a mano durante 35 años</title>
-      <link>https://elpais.com/cultura/2023-10-13/antonio-moresco-el-autor-que-escribio-una-gran-novela-a-mano-durante-35-anos.html</link>
-      <description>‘Los comienzos’ es la primera entrega de la ambiciosa trilogía ‘Los juegos de la eternidad’, una narración alucinada y minuciosa de las diferentes vidas del autor: como escritor, como revolucionario y como seminarista</description>
-      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El narrador y dramaturgo noruego Jon Fosse, premio Nobel de Literatura 2023</title>
-      <link>https://elpais.com/cultura/2023-10-05/premio-nobel-de-literatura.html</link>
-      <description>La Academia Sueca ha concedido el galardón al autor, de 64 años, por “su prosa innovadora y por dar voz a lo que no se puede decir”</description>
-      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El Nobel de Literatura no es para tanto: los olvidos del premio y los premiados olvidados</title>
-      <link>https://elpais.com/cultura/2023-10-04/el-nobel-de-literatura-no-es-para-tanto-los-olvidos-del-premio-y-los-premiados-olvidados.html</link>
-      <description>Lejos de conformar un canon literario, el premio de la Academia Sueca, que se entrega mañana, no asegura la posteridad, obvia a grandes autores y se ve influido por la coyuntura política y literaria de cada época</description>
-      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Música y risas con ‘That’s My Jam España’, y otras cuatro sugerencias para ver hoy en la televisión</title>
-      <link>https://elpais.com/television/2023-10-02/musica-y-risas-con-thats-my-jam-espana-y-otras-cuatro-sugerencias-para-ver-hoy-en-la-television.html</link>
-      <description>‘Encubridora’, un clásico con Marlene Dietrich, la nueva etapa de ‘Cultura 2’ y el comienzo de la semana del espacio de Discovery, entre las propuestas televisivas de este lunes</description>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘El salario del miedo’, uno de los grandes de la fotografía española y las peripecias de la Guardia Civil</title>
-      <link>https://elpais.com/television/2023-10-01/el-salario-del-miedo-uno-de-los-grandes-de-la-fotografia-espanola-y-las-peripecias-de-la-guardia-civil.html</link>
-      <description>El regreso de ‘Imprescindibles’, el cine de ‘Versión española’ (con ‘Los europeos’) o la pasión de ‘Los puentes de Madison’, entre las propuestas para este domingo</description>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diego del Alcázar, CEO de la IE University y novelista: “Las humanidades nos ayudan a abrazar la tecnología de manera crítica”</title>
-      <link>https://elpais.com/cultura/2023-09-20/diego-del-alcazar-ceo-de-la-ie-university-y-novelista-las-humanidades-nos-ayudan-a-abrazar-la-tecnologia-de-manera-critica.html</link>
-      <description>Publica la novela ‘La genética del tiempo’ (Espasa), cuyos personajes reflexionan sobre las consecuencias del uso de herramientas de edición genética como CRISPR para mejorar las capacidades humanas</description>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Juan Gallego Benot, el escritor que no reconoce las caras y percibe la ciudad como un laberinto</title>
-      <link>https://elpais.com/cultura/2023-09-19/juan-gallego-benot-el-escritor-que-no-reconoce-las-caras-y-percibe-la-ciudad-como-un-laberinto.html</link>
-      <description>Después de publicar dos poemarios, el autor escribe sobre sus experiencias en Madrid, Sevilla o Londres, ciudades que, debido a su condición, le resultan esquivas y fantasmales</description>
-      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eloy Tizón, maestro (en todos los sentidos) del relato contemporáneo</title>
-      <link>https://elpais.com/cultura/2023-09-13/eloy-tizon-maestro-en-todos-los-sentidos-del-relato-contemporaneo.html</link>
-      <description>Cada decenio el autor ofrece un libro de relatos, destilado con mucho trabajo y paciencia, donde huye de convencionalismos e implica al lector en el acto creativo. Su nueva entrega se titula ‘Plegaria para pirómanos’</description>
-      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Guy Debord, el teórico revolucionario que inspiró las barricadas y diseccionó la sociedad del espectáculo</title>
-      <link>https://elpais.com/cultura/2023-09-12/guy-debord-el-teorico-revolucionario-que-inspiro-las-barricadas-y-disecciono-la-sociedad-del-espectaculo.html</link>
-      <description>La reedición de una biografía canónica obra del filósofo Anselm Jappe recupera la figura del que fuera líder de la Internacional Situacionista</description>
-      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <title>¿Puede (o debe) la ciencia probar la existencia de Dios?</title>
+      <link>https://elpais.com/cultura/2023-12-12/puede-o-debe-la-ciencia-probar-la-existencia-de-dios.html</link>
+      <description>Un libro superventas en Francia  afirma ofrecer pruebas de la presencia de un ser supremo creador del universo y reaviva el debate sobre las relaciones entre la ciencia y la religión</description>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Jon Fosse, premio Nobel de Literatura: “Prefiero vivir de la manera más aburrida posible”</title>
@@ -356,76 +428,28 @@
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Jon Fosse, premio Nobel de Literatura: “Prefiero vivir de la manera más aburrida posible”</title>
-      <link>https://elpais.com/cultura/2023-12-06/jon-fosse-premio-nobel-de-literatura-prefiero-vivir-de-la-manera-mas-aburrida-posible.html</link>
-      <description>El autor, que recibirá el galardón de la Academia Sueca el próximo domingo en Estocolmo, relata en una entrevista exclusiva en Oslo: “Hay gente que ama mi escritura y gente que la odia”</description>
-      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cambios en el trabajo, ética en la empresa, geopolítica incierta, presión en las redes: claves para entender el futuro</title>
-      <link>https://elpais.com/proyecto-tendencias/2023-11-21/cambios-en-el-trabajo-etica-en-la-empresa-geopolitica-incierta-presion-en-las-redes-claves-para-entender-el-futuro.html</link>
-      <description>La segunda jornada del foro del proyecto Tendencias de EL PAÍS reúne en la reflexión a la filósofa Adela Cortina, los cineastas Los Javis, científicos, analistas y empresarios</description>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mankiewicz, ‘La que se avecina’, la gala del Balón de Oro y otras sugerencias para ver hoy en televisión</title>
-      <link>https://elpais.com/television/2023-10-30/mankiewicz-el-final-de-la-que-se-avecina-la-gala-del-balon-de-oro-y-otras-sugerencias-para-ver-hoy-en-television.html</link>
-      <description>Las recomendaciones televisivas se reparten entre la película ‘El día de los tramposos’, programas como ‘Late Xou con Marc Giró o ‘Conquistadores’, el fin de temporada de una de las series más populares de la pantalla o la gala del Balón de Oro 2023</description>
-      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jon Fosse, premio Nobel de Literatura: “Prefiero vivir de la manera más aburrida posible”</title>
-      <link>https://elpais.com/cultura/2023-12-06/jon-fosse-premio-nobel-de-literatura-prefiero-vivir-de-la-manera-mas-aburrida-posible.html</link>
-      <description>El autor, que recibirá el galardón de la Academia Sueca el próximo domingo en Estocolmo, relata en una entrevista exclusiva en Oslo: “Hay gente que ama mi escritura y gente que la odia”</description>
-      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cambios en el trabajo, ética en la empresa, geopolítica incierta, presión en las redes: claves para entender el futuro</title>
-      <link>https://elpais.com/proyecto-tendencias/2023-11-21/cambios-en-el-trabajo-etica-en-la-empresa-geopolitica-incierta-presion-en-las-redes-claves-para-entender-el-futuro.html</link>
-      <description>La segunda jornada del foro del proyecto Tendencias de EL PAÍS reúne en la reflexión a la filósofa Adela Cortina, los cineastas Los Javis, científicos, analistas y empresarios</description>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mankiewicz, ‘La que se avecina’, la gala del Balón de Oro y otras sugerencias para ver hoy en televisión</title>
-      <link>https://elpais.com/television/2023-10-30/mankiewicz-el-final-de-la-que-se-avecina-la-gala-del-balon-de-oro-y-otras-sugerencias-para-ver-hoy-en-television.html</link>
-      <description>Las recomendaciones televisivas se reparten entre la película ‘El día de los tramposos’, programas como ‘Late Xou con Marc Giró o ‘Conquistadores’, el fin de temporada de una de las series más populares de la pantalla o la gala del Balón de Oro 2023</description>
-      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jon Fosse, premio Nobel de Literatura: “Prefiero vivir de la manera más aburrida posible”</title>
-      <link>https://elpais.com/cultura/2023-12-06/jon-fosse-premio-nobel-de-literatura-prefiero-vivir-de-la-manera-mas-aburrida-posible.html</link>
-      <description>El autor, que recibirá el galardón de la Academia Sueca el próximo domingo en Estocolmo, relata en una entrevista exclusiva en Oslo: “Hay gente que ama mi escritura y gente que la odia”</description>
-      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cambios en el trabajo, ética en la empresa, geopolítica incierta, presión en las redes: claves para entender el futuro</title>
-      <link>https://elpais.com/proyecto-tendencias/2023-11-21/cambios-en-el-trabajo-etica-en-la-empresa-geopolitica-incierta-presion-en-las-redes-claves-para-entender-el-futuro.html</link>
-      <description>La segunda jornada del foro del proyecto Tendencias de EL PAÍS reúne en la reflexión a la filósofa Adela Cortina, los cineastas Los Javis, científicos, analistas y empresarios</description>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mankiewicz, ‘La que se avecina’, la gala del Balón de Oro y otras sugerencias para ver hoy en televisión</title>
-      <link>https://elpais.com/television/2023-10-30/mankiewicz-el-final-de-la-que-se-avecina-la-gala-del-balon-de-oro-y-otras-sugerencias-para-ver-hoy-en-television.html</link>
-      <description>Las recomendaciones televisivas se reparten entre la película ‘El día de los tramposos’, programas como ‘Late Xou con Marc Giró o ‘Conquistadores’, el fin de temporada de una de las series más populares de la pantalla o la gala del Balón de Oro 2023</description>
-      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La belleza de presenciar cómo tu hija aprende a hablar</title>
-      <link>https://elpais.com/mamas-papas/2023-12-17/la-belleza-de-presenciar-como-tu-hija-aprende-a-hablar.html</link>
-      <description>Llama la atención cómo un niño aprende palabras de los cuentos y cómo luego su cerebro sabe pasar del dibujo bidimensional sobre la página al objeto tridimensional en la realidad, aunque no siempre correctamente</description>
-      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Egoísmo de náufragos: por qué somos cada vez más individualistas</title>
-      <link>https://elpais.com/ideas/2023-12-17/egoismo-de-naufragos-por-que-somos-cada-vez-mas-individualistas.html</link>
-      <description>Abuso de la palabra libertad, culto al éxito personal, relaciones líquidas: florecen las filosofías individualistas extremas al tiempo que ‘influencers’ ultraliberales despliegan sus ideas contra lo comunitario, ¿cómo hemos llegado hasta aquí?</description>
-      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toni Negri: el pensador de la autonomía y la multitud</title>
-      <link>https://elpais.com/cultura/2023-12-16/toni-negri-el-pensador-de-la-autonomia-y-la-multitud.html</link>
-      <description>El polémico filósofo italiano fue uno de los ideólogos del operaísmo y el movimiento autónomo, además de creador de conceptos como ‘Imperio’ y ‘Multitud’</description>
+      <title>El carpintero metálico que bucea en el archivo de la Biblioteca Nacional en busca de textos olvidados</title>
+      <link>https://elpais.com/cultura/2023-12-16/el-carpintero-metalico-que-bucea-en-el-archivo-de-la-biblioteca-nacional-en-busca-de-textos-olvidados.html</link>
+      <description>Francisco García Castro espiga piezas olvidadas: desde artículos de Picasso o Emilia Pardo Bazán a un poema traducido al euskera de Rafael Alberti</description>
       <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jon Fosse, premio Nobel de Literatura: “Prefiero vivir de la manera más aburrida posible”</title>
+      <link>https://elpais.com/cultura/2023-12-06/jon-fosse-premio-nobel-de-literatura-prefiero-vivir-de-la-manera-mas-aburrida-posible.html</link>
+      <description>El autor, que recibirá el galardón de la Academia Sueca el próximo domingo en Estocolmo, relata en una entrevista exclusiva en Oslo: “Hay gente que ama mi escritura y gente que la odia”</description>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cambios en el trabajo, ética en la empresa, geopolítica incierta, presión en las redes: claves para entender el futuro</title>
+      <link>https://elpais.com/proyecto-tendencias/2023-11-21/cambios-en-el-trabajo-etica-en-la-empresa-geopolitica-incierta-presion-en-las-redes-claves-para-entender-el-futuro.html</link>
+      <description>La segunda jornada del foro del proyecto Tendencias de EL PAÍS reúne en la reflexión a la filósofa Adela Cortina, los cineastas Los Javis, científicos, analistas y empresarios</description>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mankiewicz, ‘La que se avecina’, la gala del Balón de Oro y otras sugerencias para ver hoy en televisión</title>
+      <link>https://elpais.com/television/2023-10-30/mankiewicz-el-final-de-la-que-se-avecina-la-gala-del-balon-de-oro-y-otras-sugerencias-para-ver-hoy-en-television.html</link>
+      <description>Las recomendaciones televisivas se reparten entre la película ‘El día de los tramposos’, programas como ‘Late Xou con Marc Giró o ‘Conquistadores’, el fin de temporada de una de las series más populares de la pantalla o la gala del Balón de Oro 2023</description>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Jon Fosse, premio Nobel de Literatura: “Prefiero vivir de la manera más aburrida posible”</title>
