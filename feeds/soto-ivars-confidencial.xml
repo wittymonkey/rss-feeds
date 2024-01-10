@@ -6,15 +6,171 @@
     <description>This is a cool feed!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jan 2024 08:20:52 +0000</lastBuildDate>
-    <item>
-      <title>Destripando España en un 'cassette' de chistes de Arévalo</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-06/paco-arevalo-chistes-mariquitas-gangosos_3805848/</link>
-      <description>Se ha muerto Arévalo y hay gente que dice que se alegra. ¡Sigue siendo España un país de reírse a mala leche, como en los monólogos!</description>
-      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Jan 2024 08:20:55 +0000</lastBuildDate>
     <item>
       <title>Carta de España a los Reyes Magos </title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Lo más odiado' | No sé si Pedro Sánchez es un psicópata, pero su trabajo es ser psicópata</title>
+      <link>https://www.elconfidencial.com/espana/2024-01-09/sanchez-llevadera-lo-mas-odiado-podcast_3806928/</link>
+      <description>Alberto Olmos y Juan Soto Ivars vuelven a juntarse para hablar sobre Pedro Sánchez, presidente del Gobierno, en un episodio doble para empezar el año 2024</description>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Macarras, cursis y una botella voladora</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-12-23/macarras-cursis-botella-voladora_3800331/</link>
+      <description>Soy partidario de que los políticos tengan límites. Al fin y al cabo son los sacerdotes de la religión contemporánea y se benefician de la bolsa pública, producto de nuestro diezmo</description>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¡¿En serio he traído a mi hija a este país?!</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-09/amnistia-psoe-aceptable-inaceptable-pedro-sanchez_3789384/</link>
+      <description>Agarré la baja por paternidad en un país y me reincorporo en otro, que en nada se parece al que irá descubriendo Alicia cuando se pregunte el porqué de las cosas</description>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pedro Sánchez ha venido a hablar de su libro que no ha escrito él</title>
+      <link>https://www.elconfidencial.com/espana/2023-12-12/pedro-sanchez-presentacion-libro_3790933/</link>
+      <description>En el libro, Sánchez habla bien de sí mismo, mal de otros y omite aquellos personajes como Puigdemont de los que el presidente no puede hablar debido a la censura</description>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lo correcto, lo incorrecto y lo PSOE: ¿a qué país he traído a mi hija?</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-09/amnistia-psoe-aceptable-inaceptable-pedro-sanchez_3789384/</link>
+      <description>Agarré la baja por paternidad en un país y me reincorporo en otro, que en nada se parece al que irá descubriendo Alicia cuando se pregunte el porqué de las cosas</description>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>No mires a Gaza: Soto Ivars desde su Trinchera Cultural</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2023-10-23/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yo prefiero que Israel sí haya bombardeado ese hospital</title>
+      <link>https://www.elconfidencial.com/cultura/2023-10-21/prefiero-israel-haya-bombardeado-hospital_3758307/</link>
+      <description>Casualmente, siempre se puede acusar de los crímenes más abyectos a quien coincide con el malo de la película que te habías montado. ¿No es simpático, esto?</description>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Cuántos niños masacrados son una respuesta proporcional?</title>
+      <link>https://www.elconfidencial.com/cultura/2023-10-15/cuantos-ninos-masacrados-son-respuesta-proporcional_3754598/</link>
+      <description>No sé nada de derecho internacional, pero pienso en la ética, en mi ética. Israel no puede dar una respuesta proporcional al horror sufrido porque eso sería horrible</description>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carmen Domingo: Hace 30 años podíamos discutir de política y luego irnos de cañas. Ahora no</title>
+      <link>https://www.elconfidencial.com/cultura/2023-10-12/entrevista-carmen-domingo-discutir-politica_3748653/</link>
+      <description>La escritora publica '#Cancelado' (Círculo de Tiza), un ensayo en el que denuncia los peligros que conllevan el pensamiento 'woke' y la cultura de la cancelación</description>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tengo derecho a ganar lo mismo que Pérez-Reverte</title>
+      <link>https://www.elconfidencial.com/cultura/2023-10-07/derecho-ganar-lo-mismo-que-perez-reverte_3749689/</link>
+      <description>Hay que pagar lo mismo a gente que hace lo mismo, aunque unos tengan éxito y otros jueguen a estadio vacío</description>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La bala de plata de Núñez Feijóo</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-09-27/bala-de-plata-feijoo-sanchez-investidura-puigdemont_3743179/</link>
+      <description>Esa bala de plata es regalar siete diputados al PSOE justo en el último momento, una vez que Sánchez haya aceptado los votos de Junts y demostrado que está dispuesto a poner en peligro el Estado con tal de seguir en el poder</description>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ángel Martín no ha ido a misa</title>
+      <link>https://www.elconfidencial.com/cultura/2023-09-23/angel-martin-guerra-sexos-feminismo_3740501/</link>
+      <description>Venía a señalar, sin decirlo, que es sabio y sensato mantenerse alejados de la propaganda victimista. Él no usó estas palabras, porque tiene intuición y no le gusta meterse en berenjenales, pero le falló el sentido arácnido</description>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Por qué Jorge Javier no puede con Pablo Motos</title>
+      <link>https://www.elconfidencial.com/cultura/2023-09-17/cuentos-chinos-el-hormiguero-jorge-javier-motos_3736357/</link>
+      <description>La televisión no funciona como Twitter. Supongo que Jorge Javier, que lleva tantos años en el negocio como Motos, lo sabe. La audiencia de tele es anónima y, por lo tanto, es libre</description>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>No pienses en la amnistía a Puigdemont, ¡mira estos estudiantes salidos!</title>
+      <link>https://www.elconfidencial.com/cultura/2023-09-09/no-pienses-amnistia-estudiantes-la-rioja-salidos_3731793/</link>
+      <description>Se trata de dar tiempo a las máquinas de propaganda oficialista para preparar su batería de justificaciones. Y decir de paso que solo un Gobierno de progreso y feminista nos librará de todos los Rubiales y los estudiantes del mal</description>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>González y Zapatero: el PSOE antes y después del lavado de cerebro</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-10-17/gonzalez-zapatero-psoe-pedro-sanchez-gobierno_3755942/</link>
+      <description>Alsina entrevista a José Luis Rodríguez Zapatero el lunes en Onda Cero. El martes, llevan a 'Espejo público' a Felipe González. Ambos tienen que opinar sobre la amnistía, es decir, sobre la deriva de Sánchez</description>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El lenguaje inclusivo apesta. Y el profe castigado por tacharlo es mi héroe</title>
+      <link>https://blogs.elconfidencial.com/cultura/tribuna/2023-10-13/el-lenguaje-inclusivo-apesta-y-el-profe-castigado-por-tacharlo-es-mi-heroe_3753284/</link>
+      <description>Padres, profesores y sindicatos se han tirado al cuello del maestro en Valladolid que obligaba a sus alumnos a tachar los desdoblamientos de género de los libros de su asignatura, Geografía</description>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La miseria infinita de la izquierda española con el pueblo israelí</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-10-09/gaza-palestina-israel-represalia-izquierda-espana_3751198/</link>
+      <description>Mientras algunos de los festejantes de la 'rave' permanecían escondidos, desaparecidos, ya estaban tuiteando como automatismos descerebrados las consabidas salvas a la libertad del pueblo palestino</description>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acoso escolar: cuando no hay policía, manda la mafia</title>
+      <link>https://www.elconfidencial.com/cultura/2023-09-30/acoso-escolar-no-policia-manda-mafia_3745041/</link>
+      <description>Mi idea sobre el abuso en la escuela es simple, cartesiana e impopular: cuando se neutraliza el monopolio de la violencia y se desmonta el concepto de autoridad, aparece la mafia</description>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Lo más odiado' | La verdad da igual. Y en política, no importa</title>
+      <link>https://www.elconfidencial.com/espana/2023-09-26/lo-mas-odiado-podcast-verdad_3741682/</link>
+      <description>Sobre este y otros temas hablan Olmos y Soto Ivars en el nuevo episodio de 'Lo más odiado', el pódcast de El Confidencial en el que conversan de... sus cosas</description>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pinganillos en el Congreso: hacia la Turra de Babel</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-09-19/lenguas-cooficiales-congreso-diputados-babel_3737223/</link>
+      <description>Si el Congreso era poco divertido, ahora lo será más. Seguimos en la senda iniciada por el juramento creativo, las impresoras en el estrado y las camisetas originales</description>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amnistía para La Manada: una defensa a ultranza de Irene Montero</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-09-14/boza-manada-irene-montero-si-es-si-condena_3734292/</link>
+      <description>Exigirle la dimisión a esta señora es una barbaridad y una inmoralidad, porque ella no es un señor calvo que le va dando picos a Pam sin su consentimiento expreso</description>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Para zanja humeante, la del Congreso: Soto Ivars desde su Trinchera Cultural</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2023-12-11/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los recortes en sanidad y educación serán progresistas</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-23/recortes-sanidad-educacion-progresistas-psoe_3799891/</link>
+      <description>Esto de oponer "muerte" a cualquier cosa que se le ocurra hacer a Pedro Sánchez es infalible y vale para todo. Es la llave maestra de la demagogia orgánica</description>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fregarle a Otegi la escalera y pisarle a UPN lo 'fregao'</title>
+      <link>https://www.elconfidencial.com/espana/2023-12-29/ibarrola-upn-bildu-psoe-fregar-escaleras_3802676/</link>
+      <description>Estamos en una nueva época. 2024: fregar la escalera a Otegi es democracia y tirar por la escalera tus principios es progreso</description>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
       <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
       <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
@@ -32,154 +188,10 @@
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Fregarle a Otegi la escalera y pisarle a UPN lo 'fregao'</title>
-      <link>https://www.elconfidencial.com/espana/2023-12-29/ibarrola-upn-bildu-psoe-fregar-escaleras_3802676/</link>
-      <description>Estamos en una nueva época. 2024: fregar la escalera a Otegi es democracia y tirar por la escalera tus principios es progreso</description>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los recortes en sanidad y educación serán progresistas</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-23/recortes-sanidad-educacion-progresistas-psoe_3799891/</link>
-      <description>Esto de oponer "muerte" a cualquier cosa que se le ocurra hacer a Pedro Sánchez es infalible y vale para todo. Es la llave maestra de la demagogia orgánica</description>
-      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Para zanja humeante, la del Congreso: Soto Ivars desde su Trinchera Cultural</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2023-12-11/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amnistía para La Manada: una defensa a ultranza de Irene Montero</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-09-14/boza-manada-irene-montero-si-es-si-condena_3734292/</link>
-      <description>Exigirle la dimisión a esta señora es una barbaridad y una inmoralidad, porque ella no es un señor calvo que le va dando picos a Pam sin su consentimiento expreso</description>
-      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pinganillos en el Congreso: hacia la Turra de Babel</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-09-19/lenguas-cooficiales-congreso-diputados-babel_3737223/</link>
-      <description>Si el Congreso era poco divertido, ahora lo será más. Seguimos en la senda iniciada por el juramento creativo, las impresoras en el estrado y las camisetas originales</description>
-      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Lo más odiado' | La verdad da igual. Y en política, no importa</title>
-      <link>https://www.elconfidencial.com/espana/2023-09-26/lo-mas-odiado-podcast-verdad_3741682/</link>
-      <description>Sobre este y otros temas hablan Olmos y Soto Ivars en el nuevo episodio de 'Lo más odiado', el pódcast de El Confidencial en el que conversan de... sus cosas</description>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acoso escolar: cuando no hay policía, manda la mafia</title>
-      <link>https://www.elconfidencial.com/cultura/2023-09-30/acoso-escolar-no-policia-manda-mafia_3745041/</link>
-      <description>Mi idea sobre el abuso en la escuela es simple, cartesiana e impopular: cuando se neutraliza el monopolio de la violencia y se desmonta el concepto de autoridad, aparece la mafia</description>
-      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La miseria infinita de la izquierda española con el pueblo israelí</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-10-09/gaza-palestina-israel-represalia-izquierda-espana_3751198/</link>
-      <description>Mientras algunos de los festejantes de la 'rave' permanecían escondidos, desaparecidos, ya estaban tuiteando como automatismos descerebrados las consabidas salvas a la libertad del pueblo palestino</description>
-      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El lenguaje inclusivo apesta. Y el profe castigado por tacharlo es mi héroe</title>
-      <link>https://blogs.elconfidencial.com/cultura/tribuna/2023-10-13/el-lenguaje-inclusivo-apesta-y-el-profe-castigado-por-tacharlo-es-mi-heroe_3753284/</link>
-      <description>Padres, profesores y sindicatos se han tirado al cuello del maestro en Valladolid que obligaba a sus alumnos a tachar los desdoblamientos de género de los libros de su asignatura, Geografía</description>
-      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>González y Zapatero: el PSOE antes y después del lavado de cerebro</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-10-17/gonzalez-zapatero-psoe-pedro-sanchez-gobierno_3755942/</link>
-      <description>Alsina entrevista a José Luis Rodríguez Zapatero el lunes en Onda Cero. El martes, llevan a 'Espejo público' a Felipe González. Ambos tienen que opinar sobre la amnistía, es decir, sobre la deriva de Sánchez</description>
-      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No pienses en la amnistía a Puigdemont, ¡mira estos estudiantes salidos!</title>
-      <link>https://www.elconfidencial.com/cultura/2023-09-09/no-pienses-amnistia-estudiantes-la-rioja-salidos_3731793/</link>
-      <description>Se trata de dar tiempo a las máquinas de propaganda oficialista para preparar su batería de justificaciones. Y decir de paso que solo un Gobierno de progreso y feminista nos librará de todos los Rubiales y los estudiantes del mal</description>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Por qué Jorge Javier no puede con Pablo Motos</title>
-      <link>https://www.elconfidencial.com/cultura/2023-09-17/cuentos-chinos-el-hormiguero-jorge-javier-motos_3736357/</link>
-      <description>La televisión no funciona como Twitter. Supongo que Jorge Javier, que lleva tantos años en el negocio como Motos, lo sabe. La audiencia de tele es anónima y, por lo tanto, es libre</description>
-      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ángel Martín no ha ido a misa</title>
-      <link>https://www.elconfidencial.com/cultura/2023-09-23/angel-martin-guerra-sexos-feminismo_3740501/</link>
-      <description>Venía a señalar, sin decirlo, que es sabio y sensato mantenerse alejados de la propaganda victimista. Él no usó estas palabras, porque tiene intuición y no le gusta meterse en berenjenales, pero le falló el sentido arácnido</description>
-      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La bala de plata de Núñez Feijóo</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-09-27/bala-de-plata-feijoo-sanchez-investidura-puigdemont_3743179/</link>
-      <description>Esa bala de plata es regalar siete diputados al PSOE justo en el último momento, una vez que Sánchez haya aceptado los votos de Junts y demostrado que está dispuesto a poner en peligro el Estado con tal de seguir en el poder</description>
-      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tengo derecho a ganar lo mismo que Pérez-Reverte</title>
-      <link>https://www.elconfidencial.com/cultura/2023-10-07/derecho-ganar-lo-mismo-que-perez-reverte_3749689/</link>
-      <description>Hay que pagar lo mismo a gente que hace lo mismo, aunque unos tengan éxito y otros jueguen a estadio vacío</description>
-      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carmen Domingo: Hace 30 años podíamos discutir de política y luego irnos de cañas. Ahora no</title>
-      <link>https://www.elconfidencial.com/cultura/2023-10-12/entrevista-carmen-domingo-discutir-politica_3748653/</link>
-      <description>La escritora publica '#Cancelado' (Círculo de Tiza), un ensayo en el que denuncia los peligros que conllevan el pensamiento 'woke' y la cultura de la cancelación</description>
-      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Cuántos niños masacrados son una respuesta proporcional?</title>
-      <link>https://www.elconfidencial.com/cultura/2023-10-15/cuantos-ninos-masacrados-son-respuesta-proporcional_3754598/</link>
-      <description>No sé nada de derecho internacional, pero pienso en la ética, en mi ética. Israel no puede dar una respuesta proporcional al horror sufrido porque eso sería horrible</description>
-      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yo prefiero que Israel sí haya bombardeado ese hospital</title>
-      <link>https://www.elconfidencial.com/cultura/2023-10-21/prefiero-israel-haya-bombardeado-hospital_3758307/</link>
-      <description>Casualmente, siempre se puede acusar de los crímenes más abyectos a quien coincide con el malo de la película que te habías montado. ¿No es simpático, esto?</description>
-      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No mires a Gaza: Soto Ivars desde su Trinchera Cultural</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2023-10-23/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lo correcto, lo incorrecto y lo PSOE: ¿a qué país he traído a mi hija?</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-09/amnistia-psoe-aceptable-inaceptable-pedro-sanchez_3789384/</link>
-      <description>Agarré la baja por paternidad en un país y me reincorporo en otro, que en nada se parece al que irá descubriendo Alicia cuando se pregunte el porqué de las cosas</description>
-      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pedro Sánchez ha venido a hablar de su libro que no ha escrito él</title>
-      <link>https://www.elconfidencial.com/espana/2023-12-12/pedro-sanchez-presentacion-libro_3790933/</link>
-      <description>En el libro, Sánchez habla bien de sí mismo, mal de otros y omite aquellos personajes como Puigdemont de los que el presidente no puede hablar debido a la censura</description>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¡¿En serio he traído a mi hija a este país?!</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-09/amnistia-psoe-aceptable-inaceptable-pedro-sanchez_3789384/</link>
-      <description>Agarré la baja por paternidad en un país y me reincorporo en otro, que en nada se parece al que irá descubriendo Alicia cuando se pregunte el porqué de las cosas</description>
-      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Macarras, cursis y una botella voladora</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-12-23/macarras-cursis-botella-voladora_3800331/</link>
-      <description>Soy partidario de que los políticos tengan límites. Al fin y al cabo son los sacerdotes de la religión contemporánea y se benefician de la bolsa pública, producto de nuestro diezmo</description>
-      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <title>Destripando España en un 'cassette' de chistes de Arévalo</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-06/paco-arevalo-chistes-mariquitas-gangosos_3805848/</link>
+      <description>Se ha muerto Arévalo y hay gente que dice que se alegra. ¡Sigue siendo España un país de reírse a mala leche, como en los monólogos!</description>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
