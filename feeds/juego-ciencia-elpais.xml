@@ -6,198 +6,12 @@
     <description>This is a cool feed!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jan 2024 08:21:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 08:19:07 +0000</lastBuildDate>
     <item>
-      <title>2024 y los números tetraédricos</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2024-01-12/2024-y-los-numeros-tetraedricos.html</link>
-      <description>El 2024 es el vigésimo segundo número piramidal triangular y se puede representar como un gran tetraedro de esferas apiladas</description>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Las matemáticas del 24</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2024-01-05/las-matematicas-del-24.html</link>
-      <description>La cifra del año 2024 no da mucho juego desde el punto de vista matemático, pero su terminación, el 24, no tiene desperdicio</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El manicomio del doctor Brea y el profesor Pluma</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-12-29/el-manicomio-del-doctor-brea-y-el-profesor-pluma.html</link>
-      <description>Un sobrecogedor relato de Edgar Allan Poe sirve de base a un intrigante acertijo lógico</description>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El forjador de rayos</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-12-09/el-forjador-de-rayos.html</link>
-      <description>El matemático alemán Charles Proteus Steinmetz, además de estudiar los sólidos que llevan su nombre, hizo importantes contribuciones en el campo de la ingeniería eléctrica</description>
-      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El sistema diédrico</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-12-01/el-sistema-diedrico.html</link>
-      <description>Gaspard Monge, matemático francés amigo de Napoleón, fue el creador del sistema diédrico para la representación plana de objetos tridimensionales</description>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El teorema de Napoleón</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-11-24/el-teorema-de-napoleon.html</link>
-      <description>Napoleón fue un gran amante de las ciencias en general y de las matemáticas en particular, e incluso se le atribuyen algunas contribuciones relevantes</description>
-      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Números mágicos</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-11-17/numeros-magicos.html</link>
-      <description>¿Por qué para los físicos son “mágicos” los números 2, 8, 20, 28, 50, 82 y 126?</description>
-      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La realidad de los números imaginarios</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-11-10/la-realidad-de-los-numeros-magicos.html</link>
-      <description>Descartes los denominó así despectivamente, pero se convertirían en una herramienta muy real de las matemáticas</description>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La lentitud de los fotones</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-11-03/la-lentitud-de-los-fotones.html</link>
-      <description>¿Cuánto tiempo tardan los fotones generados en el centro del Sol en alcanzar su superficie y salir al vacío?</description>
-      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La paradoja de Simpson</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-10-27/la-paradoja-de-simpson.html</link>
-      <description>La teoría de la decisión, ligada al cálculo de probabilidades, da lugar a interesantes paradojas</description>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La paradoja de Ellsberg</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-10-20/la-paradoja-de-ellsberg.html</link>
-      <description>La extracción de bolas al azar no solo puede dar lugar a paradojas de la probabilidad, sino también de la teoría de la decisión</description>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El condenado y las urnas</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-10-13/el-condenado-y-las-urnas.html</link>
-      <description>Además de ser un físico de primera fila, George Gamow fue un excelente narrador, como se aprecia en sus libros de divulgación y de matemática recreativa</description>
-      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ascensores y algoritmos</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-10-06/ascensores-y-algoritmos.html</link>
-      <description>Los problemas de optimización relativos al uso de ascensores dan lugar a curiosas paradojas e ingeniosos algoritmos</description>
-      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El ascensor de Gamow</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-09-29/el-ascensor-de-gamow.html</link>
-      <description>Entre los numerosos medios de transporte que aparecen en los problemas de matemática recreativa, no podían faltar los ascensores</description>
-      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ilustres desconocidos</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-09-22/ilustres-desconocidos.html</link>
-      <description>Algunos números muy importantes son conocidos y accesibles, como π o e, pero otros, como la constante de Chaitin, son ignorados y difíciles de entender por los no matemáticos</description>
-      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Más números muy interesantes</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-09-15/mas-numeros-muy-interesantes.html</link>
-      <description>He aquí algunos candidatos a añadir a la lista de los números más interesantes</description>
-      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los números más interesantes</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-09-08/los-numeros-mas-interesantes.html</link>
-      <description>Todos los números son interesantes, pero algunos lo son de una manera muy especial</description>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Plantación de árboles</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-08-25/plantacion-de-arboles.html</link>
-      <description>Según determinadas configuraciones, plantar árboles es un tema clásico de los problemas de ingenio</description>
-      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coincidencias y probabilidades</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-08-11/coincidencias-y-probabilidades.html</link>
-      <description>Es fácil tomar por asombrosas coincidencias, sucesos que en realidad son bastante probables</description>
-      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coincidencias impuras</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-08-04/coincidencias-impuras.html</link>
-      <description>Hay coincidencias que no lo parecen y aparentes coincidencias debidas a causas poco evidentes</description>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La lógica de los chistes</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-07-28/la-logica-de-los-chistes.html</link>
-      <description>Los chistes guardan una estrecha relación con los acertijos, el pensamiento lateral y el fenómeno eureka</description>
-      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ascensores problemáticos</title>
-      <link>https://elpais.com/ciencia/2023-07-21/ascensores-problematicos.html</link>
-      <description>Además de ayudar a Einstein a concebir la relatividad general, los ascensores se prestan a plantear interesantes problemas combinatorios</description>
-      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La rueda de Aristóteles</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-07-14/la-rueda-de-aristoteles.html</link>
-      <description>El funcionamiento de la rueda, elemento clave de la tecnología desde hace miles de años, da lugar a interesantes paradojas</description>
-      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La flecha del tiempo</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-07-07/la-flecha-del-tiempo.html</link>
-      <description>Arthur Eddington popularizó la expresión “la flecha del tiempo” para referirse a su irreversibilidad</description>
-      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suma y sigue (cavilando)</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-06-30/suma-y-sigue-cavilando.html</link>
-      <description>Hay un interesante tipo de acertijos numéricos en los que se sustituyen los números por letras o por otros números, como en un mensaje cifrado</description>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El paso del tiempo</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-06-23/el-paso-del-tiempo.html</link>
-      <description>El paso del tiempo se puede medir de muchas maneras, y por eso hay relojes de sol, de arena, de agua… e incluso de cera</description>
-      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Las nueve cifras y el cambiante cero</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-06-16/las-nueve-cifras-y-el-cambiante-cero.html</link>
-      <description>El matemático colombiano Bernardo Recamán, autor de la secuencia que lleva su nombre, es también un prestigioso divulgador</description>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La aritmética del reloj</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-06-09/la-aritmetica-del-reloj.html</link>
-      <description>Con la publicación, en 1801, de ‘Disquisitiones Arithmeticae’, Gauss sentó las bases de la aritmética modular</description>
-      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El pequeño teorema</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-06-02/el-pequeno-teorema.html</link>
-      <description>Menos conocido que el último teorema de Fermat, su pequeño teorema no es menos importante en cuanto a sus aplicaciones</description>
-      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El número 8</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-05-26/el-numero-8.html</link>
-      <description>El 8, que tumbado representa el infinito, también parece inagotable en cuanto a sus propiedades</description>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El arte de la estadística</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-05-19/el-arte-de-la-estadistica.html</link>
-      <description>En el siglo XVIII, el matemático británico Thomas Bayes propuso una poderosa y controvertida forma de abordar el cálculo de probabilidades</description>
-      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Equiedros</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-12-15/equiedros.html</link>
-      <description>Los sólidos platónicos no son los únicos poliedros con todas las caras iguales</description>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <title>El triángulo de Jayam</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2024-01-19/el-triangulo-de-jayam.html</link>
+      <description>El conocido como triángulo de Pascal o de Tartaglia es muy anterior a ambos matemáticos europeos, y fue estudiado en Persia ya en el siglo XI</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>¿La dama o el tigre?</title>
@@ -206,10 +20,196 @@
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El triángulo de Jayam</title>
-      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2024-01-19/el-triangulo-de-jayam.html</link>
-      <description>El conocido como triángulo de Pascal o de Tartaglia es muy anterior a ambos matemáticos europeos, y fue estudiado en Persia ya en el siglo XI</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <title>Equiedros</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-12-15/equiedros.html</link>
+      <description>Los sólidos platónicos no son los únicos poliedros con todas las caras iguales</description>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El arte de la estadística</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-05-19/el-arte-de-la-estadistica.html</link>
+      <description>En el siglo XVIII, el matemático británico Thomas Bayes propuso una poderosa y controvertida forma de abordar el cálculo de probabilidades</description>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El número 8</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-05-26/el-numero-8.html</link>
+      <description>El 8, que tumbado representa el infinito, también parece inagotable en cuanto a sus propiedades</description>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El pequeño teorema</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-06-02/el-pequeno-teorema.html</link>
+      <description>Menos conocido que el último teorema de Fermat, su pequeño teorema no es menos importante en cuanto a sus aplicaciones</description>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La aritmética del reloj</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-06-09/la-aritmetica-del-reloj.html</link>
+      <description>Con la publicación, en 1801, de ‘Disquisitiones Arithmeticae’, Gauss sentó las bases de la aritmética modular</description>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Las nueve cifras y el cambiante cero</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-06-16/las-nueve-cifras-y-el-cambiante-cero.html</link>
+      <description>El matemático colombiano Bernardo Recamán, autor de la secuencia que lleva su nombre, es también un prestigioso divulgador</description>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El paso del tiempo</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-06-23/el-paso-del-tiempo.html</link>
+      <description>El paso del tiempo se puede medir de muchas maneras, y por eso hay relojes de sol, de arena, de agua… e incluso de cera</description>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suma y sigue (cavilando)</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-06-30/suma-y-sigue-cavilando.html</link>
+      <description>Hay un interesante tipo de acertijos numéricos en los que se sustituyen los números por letras o por otros números, como en un mensaje cifrado</description>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La flecha del tiempo</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-07-07/la-flecha-del-tiempo.html</link>
+      <description>Arthur Eddington popularizó la expresión “la flecha del tiempo” para referirse a su irreversibilidad</description>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La rueda de Aristóteles</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-07-14/la-rueda-de-aristoteles.html</link>
+      <description>El funcionamiento de la rueda, elemento clave de la tecnología desde hace miles de años, da lugar a interesantes paradojas</description>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ascensores problemáticos</title>
+      <link>https://elpais.com/ciencia/2023-07-21/ascensores-problematicos.html</link>
+      <description>Además de ayudar a Einstein a concebir la relatividad general, los ascensores se prestan a plantear interesantes problemas combinatorios</description>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La lógica de los chistes</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-07-28/la-logica-de-los-chistes.html</link>
+      <description>Los chistes guardan una estrecha relación con los acertijos, el pensamiento lateral y el fenómeno eureka</description>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coincidencias impuras</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-08-04/coincidencias-impuras.html</link>
+      <description>Hay coincidencias que no lo parecen y aparentes coincidencias debidas a causas poco evidentes</description>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coincidencias y probabilidades</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-08-11/coincidencias-y-probabilidades.html</link>
+      <description>Es fácil tomar por asombrosas coincidencias, sucesos que en realidad son bastante probables</description>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plantación de árboles</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-08-25/plantacion-de-arboles.html</link>
+      <description>Según determinadas configuraciones, plantar árboles es un tema clásico de los problemas de ingenio</description>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los números más interesantes</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-09-08/los-numeros-mas-interesantes.html</link>
+      <description>Todos los números son interesantes, pero algunos lo son de una manera muy especial</description>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Más números muy interesantes</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-09-15/mas-numeros-muy-interesantes.html</link>
+      <description>He aquí algunos candidatos a añadir a la lista de los números más interesantes</description>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ilustres desconocidos</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-09-22/ilustres-desconocidos.html</link>
+      <description>Algunos números muy importantes son conocidos y accesibles, como π o e, pero otros, como la constante de Chaitin, son ignorados y difíciles de entender por los no matemáticos</description>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El ascensor de Gamow</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-09-29/el-ascensor-de-gamow.html</link>
+      <description>Entre los numerosos medios de transporte que aparecen en los problemas de matemática recreativa, no podían faltar los ascensores</description>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ascensores y algoritmos</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-10-06/ascensores-y-algoritmos.html</link>
+      <description>Los problemas de optimización relativos al uso de ascensores dan lugar a curiosas paradojas e ingeniosos algoritmos</description>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El condenado y las urnas</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-10-13/el-condenado-y-las-urnas.html</link>
+      <description>Además de ser un físico de primera fila, George Gamow fue un excelente narrador, como se aprecia en sus libros de divulgación y de matemática recreativa</description>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La paradoja de Ellsberg</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-10-20/la-paradoja-de-ellsberg.html</link>
+      <description>La extracción de bolas al azar no solo puede dar lugar a paradojas de la probabilidad, sino también de la teoría de la decisión</description>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La paradoja de Simpson</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-10-27/la-paradoja-de-simpson.html</link>
+      <description>La teoría de la decisión, ligada al cálculo de probabilidades, da lugar a interesantes paradojas</description>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La lentitud de los fotones</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-11-03/la-lentitud-de-los-fotones.html</link>
+      <description>¿Cuánto tiempo tardan los fotones generados en el centro del Sol en alcanzar su superficie y salir al vacío?</description>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La realidad de los números imaginarios</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-11-10/la-realidad-de-los-numeros-magicos.html</link>
+      <description>Descartes los denominó así despectivamente, pero se convertirían en una herramienta muy real de las matemáticas</description>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Números mágicos</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-11-17/numeros-magicos.html</link>
+      <description>¿Por qué para los físicos son “mágicos” los números 2, 8, 20, 28, 50, 82 y 126?</description>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El teorema de Napoleón</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-11-24/el-teorema-de-napoleon.html</link>
+      <description>Napoleón fue un gran amante de las ciencias en general y de las matemáticas en particular, e incluso se le atribuyen algunas contribuciones relevantes</description>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El sistema diédrico</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-12-01/el-sistema-diedrico.html</link>
+      <description>Gaspard Monge, matemático francés amigo de Napoleón, fue el creador del sistema diédrico para la representación plana de objetos tridimensionales</description>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El forjador de rayos</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-12-09/el-forjador-de-rayos.html</link>
+      <description>El matemático alemán Charles Proteus Steinmetz, además de estudiar los sólidos que llevan su nombre, hizo importantes contribuciones en el campo de la ingeniería eléctrica</description>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El manicomio del doctor Brea y el profesor Pluma</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2023-12-29/el-manicomio-del-doctor-brea-y-el-profesor-pluma.html</link>
+      <description>Un sobrecogedor relato de Edgar Allan Poe sirve de base a un intrigante acertijo lógico</description>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Las matemáticas del 24</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2024-01-05/las-matematicas-del-24.html</link>
+      <description>La cifra del año 2024 no da mucho juego desde el punto de vista matemático, pero su terminación, el 24, no tiene desperdicio</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2024 y los números tetraédricos</title>
+      <link>https://elpais.com/ciencia/el-juego-de-la-ciencia/2024-01-12/2024-y-los-numeros-tetraedricos.html</link>
+      <description>El 2024 es el vigésimo segundo número piramidal triangular y se puede representar como un gran tetraedro de esferas apiladas</description>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
