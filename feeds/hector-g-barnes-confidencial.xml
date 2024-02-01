@@ -6,7 +6,7 @@
     <description>This is a cool feed!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 Jan 2024 08:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 08:19:23 +0000</lastBuildDate>
     <item>
       <title>¿Y si el SMI subiese en Madrid pero no en Murcia? </title>
       <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
@@ -26,204 +26,37 @@
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Precarios pijos: hay gente que vive igual de mal que tú que pronto vivirá mucho mejor</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-21/precarios-pijos-gente-vive-mal-vivira-mejor_3812750/</link>
-      <description>Pasar unos años malviviendo en empleos mal pagados aparentando precariedad ha pasado a ser una de las experiencias obligatorias para los pijos, que así obtienen su legitimidad</description>
-      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      <title>Pero por qué los políticos no llevan a sus hijos a colegios públicos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-27/por-que-politicos-no-llevan-hijos-colegios-publicos_3817111/</link>
+      <description>No es que nuestros mandatarios metan a sus hijos en colegios privados, es que la clase de gente que llega al poder es la que suele meter a sus hijos en colegios privados</description>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>No sabemos cuántos suicidios hay en España: son más de los que nos dicen</title>
-      <link>https://www.alimente.elconfidencial.com/bienestar/2024-01-14/no-sabemos-cuantos-suicidios-espana-son-mas_3809977/</link>
-      <description>Todos los expertos se ponen de acuerdo en que los suicidios están subnotificados: hay razones burocráticas, económicas y técnicas que están ocultando el número real de suicidios</description>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia? Una propuesta con la que nadie se atreve</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Tres explicaciones sobre el antifeminismo de los jóvenes que no gustarán a nadie</title>
-      <link>https://www.elconfidencial.com/espana/2024-01-20/explicaciones-antifeminismo-jovenes-espana_3814454/</link>
-      <description>Las actitudes feministas están mucho más aceptadas ahora que en cualquier otro momento de la historia. ¿Por qué entonces parece que el antifeminismo ha vuelto?</description>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No sabemos cuántos suicidios hay en España, pero sí que son más de lo que nos dicen</title>
-      <link>https://www.alimente.elconfidencial.com/bienestar/2024-01-14/no-sabemos-cuantos-suicidios-espana-son-mas_3809977/</link>
-      <description>Todos los expertos se ponen de acuerdo en que los suicidios están subnotificados: hay razones burocráticas, económicas y técnicas que están ocultando el número real de suicidios</description>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cuando la utopía se convierte en distopía: las otras ciudades de 15 minutos</title>
+      <title>Cuando las utopías urbanas se convierten en distopías: las otras ciudades de 15 minutos</title>
       <link>https://www.elconfidencial.com/alma-corazon-vida/2024-01-08/utopias-urbanas-distopias-ciudades-15-minutos_3801866/</link>
       <description>El trabajo de tres investigadores de la universidad de Bristol examina el lado oscuro del urbanismo para preguntarse si todo es tan bonito como parece en las nuevas propuestas</description>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pero por qué nos ponemos tan elegantes para tirarnos las copas encima</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-31/por-que-nos-ponemos-elegantes-tirarnos-copas_3802418/</link>
-      <description>Hay una ley infalible: cuanto más guapos nos menos, más probabilidades hay de que terminemos llenos de lamparones, cubata y otras cosas peores al final de la noche</description>
-      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oh, no, otra vez lo mismo de todos los años: una teoría sobre por qué nos agota la Navidad</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-24/otra-vez-mismo-anos-teoria-agota-navidad_3800365/</link>
-      <description>La Navidad nos cansa porque nos promete que todo va a ser siempre igual, lo que no hace más que recordarnos todas las cosas que hemos perdido y nunca podremos recuperar</description>
-      <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hablan los 'negros' de los políticos: Somos como terroristas, solo reportamos a la cúpula</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-16/libros-politicos-negros-literarios_3793448/</link>
-      <description>De día, ostentan trabajos como periodistas o escritores con obra propia. De noche, ayudan a nuestros dirigentes a escribir sus biografías. Así funciona este trabajo, siempre en la sombra</description>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La lotería en la que los ricos siempre ganan: el dinero te presta lo que la genética no te da</title>
-      <link>https://www.elconfidencial.com/tecnologia/ciencia/2023-12-22/loteria-en-la-que-los-ricos-siempre-ganan_3795588/</link>
-      <description>Una nueva investigación muestra que aunque no ganes en la lotería genética, no importa si ya lo has hecho en la socioeconómica. ¿Cómo influyen nuestros genes en nuestro éxito?</description>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apartamento en Villaverde, a 5 minutos de Sol: cómo Airbnb entra en los barrios</title>
-      <link>https://www.elconfidencial.com/espana/madrid/2023-12-12/apartamento-villaverde-cinco-minutos-sol-airbnb_3789015/</link>
-      <description>Una nueva investigación muestra qué clase de estrategias utilizan los anfitriones en los barrios de la periferia para competir con los alojamientos hoteleros del centro</description>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esa maldita gente normal que hace cosas de gente normal</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-17/maldita-gente-normal-hace-cosas-gente-normal_3793361/</link>
-      <description>Los borregos que abarrotan las calles siempre son los demás. Pero todos formamos parte de la masa en un momento u otro: todos nos parecemos más de lo que nos gusta creer</description>
-      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los 'antiprohibicionistas' de los móviles responden: Quitarlo hasta los 14 es peor</title>
-      <link>https://www.elconfidencial.com/alma-corazon-vida/2023-12-06/antiprohibicionistas-moviles-ninos-quitarselo-peor_3785936/</link>
-      <description>Frente a los padres que reclaman retrasar la entrega de los 'smartphones' todo lo posible, los expertos y otros progenitores consideran que es como matar moscas a cañonazos</description>
-      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apartamento en Villaverde, a cinco minutos de Sol: cómo Airbnb penetra en los barrios obreros</title>
-      <link>https://www.elconfidencial.com/espana/madrid/2023-12-12/apartamento-villaverde-cinco-minutos-sol-airbnb_3789015/</link>
-      <description>Una nueva investigación muestra qué clase de estrategias utilizan los anfitriones en los barrios de la periferia para competir con los alojamientos hoteleros del centro</description>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La hipótesis de dos psicólogos de Oxford: hablar más de salud mental la empeora</title>
-      <link>https://www.alimente.elconfidencial.com/bienestar/2023-12-04/hipotesis-psicologos-oxford-salud-mental_3784175/</link>
-      <description>Después de visitar colegios donde se impartían programas de psicología, Lucy Faulkes y Jack Andrews se dieron cuenta de que algunos alumnos estaban peor. ¿Qué había pasado?</description>
-      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esa gente que puede permitirse el lujo de no tener pareja después de los 40</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-10/gente-permitirse-lujo-no-tener-pareja-despues-40_3787837/</link>
-      <description>Hay una glorificación de la soledad por parte de aquellos que pueden permitírselo: la mayoría de la gente no puede vivir sola por razones económicas, psicológicas o materiales</description>
-      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los 'antiprohibicionistas' de los móviles responden: Quitárselo hasta los 14 es peor</title>
-      <link>https://www.elconfidencial.com/alma-corazon-vida/2023-12-06/antiprohibicionistas-moviles-ninos-quitarselo-peor_3785936/</link>
-      <description>Frente a los padres que reclaman retrasar la entrega de los 'smartphones' todo lo posible, los expertos y otros progenitores consideran que es como matar moscas a cañonazos</description>
-      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La hipótesis de dos psicólogos de Oxford: hablar más de salud mental empeora nuestra salud mental</title>
-      <link>https://www.alimente.elconfidencial.com/bienestar/2023-12-04/hipotesis-psicologos-oxford-salud-mental_3784175/</link>
-      <description>Después de visitar colegios donde se impartían programas de psicología, Lucy Faulkes y Jack Andrews se dieron cuenta de que algunos alumnos estaban peor. ¿Qué había pasado?</description>
-      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>En contra de marcharse de los sitios con elegancia: es peor ser un bienqueda</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-26/en-contra-saber-marcharse-elegancia-bienqueda_3780374/</link>
-      <description>La idea de que hay que despedirse con elegancia solo beneficia a los mismos de siempre: los abusones que quieren que nada cambie</description>
-      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Las 10 reglas del juego de las oficinitas: Di cosas en inglés y que parezcas liado</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-24/reglas-ganar-juego-oficinitas-beatriz-serrano_3779597/</link>
-      <description>La periodista Beatriz Serrano dibuja en su última novela uno de los retratos más lúcidos de las miserias del empleo, que nos ha convertido en actores de un teatro absurdo</description>
-      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cómo han cambiado los números 1 en España desde 1980</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-21/numeros-uno-espana-desde-1980-hasta-actualidad_3774320/</link>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esa gente que cambia de pareja cada seis meses porque se aburre</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-18/gente-cambia-pareja-seis-meses-aburrimiento_3775281/</link>
-      <description>Dejamos libros a medias, series sin terminar, el plato a medias y las relaciones cuando nos aburren. En la Sociedad de los Comienzos repetimos inicios sin llegar al fondo de las cosas</description>
-      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>En España va a haber más perros que niños, ¿y qué?</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-12/espana-mas-perros-ninos-y-que_3771694/</link>
-      <description>El discurso natalista apocalíptico se lleva las manos a la cabeza ante el aumento del número de perros, pero es la consecuencia lógica de determinados cambios sociales y económicos</description>
-      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los jóvenes ya no creen en el trabajo: La vida no puede ser esta estafa piramidal</title>
-      <link>https://www.elconfidencial.com/espana/2023-11-07/jovenes-no-creen-trabajo-padres-mataron-echar_3767269/</link>
-      <description>Los nacidos en los noventa mantienen una relación con el empleo muy distinta a la de sus padres. Hablamos con sociólogos, economistas, expertos de RRHH y jóvenes para saber por qué</description>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A favor de grabar con el móvil en los conciertos</title>
-      <link>https://www.elconfidencial.com/cultura/2023-10-29/a-favor-grabar-movil-conciertos_3762926/</link>
-      <description>Disfruto compartiendo lo que me emociona, dando a conocer lo que me parece valioso y estableciendo conversaciones alrededor de la música a través de los vídeos</description>
-      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Por qué compramos más libros de los que podemos leer</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-03/por-que-compramos-mas-libros-podemos-leer_3785693/</link>
-      <description>Hacerse con un libro es, ante todo, comprar la promesa de un tiempo futuro en el que tendremos tiempo para leerlo</description>
-      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacia un futuro sin calvos: Los hombres buscan la aprobación de otros hombres</title>
-      <link>https://www.alimente.elconfidencial.com/bienestar/2023-11-25/futuro-sin-calvos-espana-hombres-aprobacion_3778390/</link>
-      <description>Hoy todos conocemos a alguien que ha pasado por el quirófano para trasplantarse pelo. Hay razones, no solo económicas, para que el 'boom' se produzca ahora y no en otro momento</description>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nuevos documentos sobre JFK: Robert creía en la conspiración</title>
-      <link>https://www.elconfidencial.com/mundo/2023-11-22/nuevos-documentos-sobre-el-caso-kennedy-robert-creia-en-la-teoria-de-la-conspiracion_246272/</link>
-      <description>En 2014, Howard P. Willens, autor de 'La historia demostrará que tenemos razón', publica una novela con motivo del 50 aniversario del final de la investigación, que incluiría documentos clave</description>
-      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Si me cambio de piso, será a algo peor: por qué cada vez vivimos en menos m²</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2023-11-19/si-cambio-piso-peor-vivimos-menos-espacio_3776330/</link>
-      <description>En Madrid, un presupuesto de 800 euros te permitía alquilar en 2015 una vivienda de 80 metros. Hoy serían 65. Los cambios están afectando también a cómo se construye</description>
-      <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los hombres están explotados: la Biblia antifeminista escrita por una mujer</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-12/esther-vilar-hombre-domado-biblia-antifeminista_3770493/</link>
-      <description>Cincuenta años después de su primera edición, y tras mucho tiempo sin estar disponible, Deusto reedita 'El varón domado', un libro que reventó la España del tardofranquismo</description>
-      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Este investigador  español del MIT explica por qué vas a ver cada vez más a tu ex</title>
-      <link>https://www.elconfidencial.com/tecnologia/ciencia/2023-11-09/esteban-moro-mit-ciudad-encontrarte-ex_3768725/</link>
-      <description>Un estudio publicado en 'Nature' muestra cómo ha cambiado en los últimos años nuestro comportamiento en la ciudad: vivimos en burbujas. Hablamos con uno de sus autores</description>
-      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esos profesores que odian a sus alumnos (son minoría, pero nos encantan)</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-05/esos-profesores-odian-alumnos-minoria-encantan_3766319/</link>
-      <description>Nos encanta dar voz a los docentes desencantados, frustrados o quemados que piensan que la educación se ha echado a perder. Lo sé porque yo mismo lo he hecho: venden bien</description>
-      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hablan los 'negros' de los políticos: Somos como terroristas; solo reportamos a la cúpula</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-16/libros-politicos-negros-literarios_3793448/</link>
-      <description>De día, ostentan trabajos como periodistas o escritores con obra propia. De noche, ayudan a nuestros dirigentes a escribir sus biografías. Así funciona este trabajo, siempre en la sombra</description>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La plaza de tu pueblo no es el Rockefeller Center: todas las ciudades se parecen en Navidad</title>
+      <title>Por qué todas las ciudades se parecen en Navidad</title>
       <link>https://www.elconfidencial.com/espana/2023-12-31/por-que-ciudades-se-parecen-navidad_3802897/</link>
-      <description>Londres, Nueva York, Madrid o Palos de Moguer, todas las ciudades se parecen durante estas fechas, solo que a distinta escala: pistas de hielo, árboles gigantes y mercadillos de madera</description>
+      <description>Londres, Nueva York, Madrid o Palos de la Frontera, todas las ciudades se parecen durante estas fechas, solo que a distinta escala: pistas de hielo, árboles gigantes y mercadillos de madera</description>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La España de 2023, explicada por los chocorreznos, la churroburger y las pizzas de oreja</title>
+      <title>Madrid está llena de gente que no debería estar en Madrid</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-14/madrid-llena-gente-no-deberia-estar-madrid_3808880/</link>
+      <description>Cada año, miles de españoles se dan cuenta al terminar la Navidad y coger el tren a la capital que en realidad no quieren estar ahí, pero no tienen escapatoria</description>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>España, explicada por los chocorreznos, la churroburger y las pizzas de oreja</title>
       <link>https://www.alimente.elconfidencial.com/gastronomia-y-cocina/2023-12-26/espana-chocorreznos-churroburger-pizzas-oreja_3796611/</link>
       <description>Si un viajero del futuro quisiera entender nuestra sociedad, haría bien en fijarse en la gastronomía extrema que se ha puesto de moda: es el 'zeitgeist' de nuestra era</description>
       <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
@@ -235,40 +68,213 @@
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>España, explicada por los chocorreznos, la churroburger y las pizzas de oreja</title>
+      <title>La España de 2023, explicada por los chocorreznos, la churroburger y las pizzas de oreja</title>
       <link>https://www.alimente.elconfidencial.com/gastronomia-y-cocina/2023-12-26/espana-chocorreznos-churroburger-pizzas-oreja_3796611/</link>
       <description>Si un viajero del futuro quisiera entender nuestra sociedad, haría bien en fijarse en la gastronomía extrema que se ha puesto de moda: es el 'zeitgeist' de nuestra era</description>
       <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Madrid está llena de gente que no debería estar en Madrid</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-14/madrid-llena-gente-no-deberia-estar-madrid_3808880/</link>
-      <description>Cada año, miles de españoles se dan cuenta al terminar la Navidad y coger el tren a la capital que en realidad no quieren estar ahí, pero no tienen escapatoria</description>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Por qué todas las ciudades se parecen en Navidad</title>
+      <title>La plaza de tu pueblo no es el Rockefeller Center: todas las ciudades se parecen en Navidad</title>
       <link>https://www.elconfidencial.com/espana/2023-12-31/por-que-ciudades-se-parecen-navidad_3802897/</link>
-      <description>Londres, Nueva York, Madrid o Palos de la Frontera, todas las ciudades se parecen durante estas fechas, solo que a distinta escala: pistas de hielo, árboles gigantes y mercadillos de madera</description>
+      <description>Londres, Nueva York, Madrid o Palos de Moguer, todas las ciudades se parecen durante estas fechas, solo que a distinta escala: pistas de hielo, árboles gigantes y mercadillos de madera</description>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cuando las utopías urbanas se convierten en distopías: las otras ciudades de 15 minutos</title>
+      <title>Hablan los 'negros' de los políticos: Somos como terroristas; solo reportamos a la cúpula</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-16/libros-politicos-negros-literarios_3793448/</link>
+      <description>De día, ostentan trabajos como periodistas o escritores con obra propia. De noche, ayudan a nuestros dirigentes a escribir sus biografías. Así funciona este trabajo, siempre en la sombra</description>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esos profesores que odian a sus alumnos (son minoría, pero nos encantan)</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-05/esos-profesores-odian-alumnos-minoria-encantan_3766319/</link>
+      <description>Nos encanta dar voz a los docentes desencantados, frustrados o quemados que piensan que la educación se ha echado a perder. Lo sé porque yo mismo lo he hecho: venden bien</description>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Este investigador  español del MIT explica por qué vas a ver cada vez más a tu ex</title>
+      <link>https://www.elconfidencial.com/tecnologia/ciencia/2023-11-09/esteban-moro-mit-ciudad-encontrarte-ex_3768725/</link>
+      <description>Un estudio publicado en 'Nature' muestra cómo ha cambiado en los últimos años nuestro comportamiento en la ciudad: vivimos en burbujas. Hablamos con uno de sus autores</description>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los hombres están explotados: la Biblia antifeminista escrita por una mujer</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-12/esther-vilar-hombre-domado-biblia-antifeminista_3770493/</link>
+      <description>Cincuenta años después de su primera edición, y tras mucho tiempo sin estar disponible, Deusto reedita 'El varón domado', un libro que reventó la España del tardofranquismo</description>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Si me cambio de piso, será a algo peor: por qué cada vez vivimos en menos m²</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2023-11-19/si-cambio-piso-peor-vivimos-menos-espacio_3776330/</link>
+      <description>En Madrid, un presupuesto de 800 euros te permitía alquilar en 2015 una vivienda de 80 metros. Hoy serían 65. Los cambios están afectando también a cómo se construye</description>
+      <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nuevos documentos sobre JFK: Robert creía en la conspiración</title>
+      <link>https://www.elconfidencial.com/mundo/2023-11-22/nuevos-documentos-sobre-el-caso-kennedy-robert-creia-en-la-teoria-de-la-conspiracion_246272/</link>
+      <description>En 2014, Howard P. Willens, autor de 'La historia demostrará que tenemos razón', publica una novela con motivo del 50 aniversario del final de la investigación, que incluiría documentos clave</description>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacia un futuro sin calvos: Los hombres buscan la aprobación de otros hombres</title>
+      <link>https://www.alimente.elconfidencial.com/bienestar/2023-11-25/futuro-sin-calvos-espana-hombres-aprobacion_3778390/</link>
+      <description>Hoy todos conocemos a alguien que ha pasado por el quirófano para trasplantarse pelo. Hay razones, no solo económicas, para que el 'boom' se produzca ahora y no en otro momento</description>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Por qué compramos más libros de los que podemos leer</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-03/por-que-compramos-mas-libros-podemos-leer_3785693/</link>
+      <description>Hacerse con un libro es, ante todo, comprar la promesa de un tiempo futuro en el que tendremos tiempo para leerlo</description>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A favor de grabar con el móvil en los conciertos</title>
+      <link>https://www.elconfidencial.com/cultura/2023-10-29/a-favor-grabar-movil-conciertos_3762926/</link>
+      <description>Disfruto compartiendo lo que me emociona, dando a conocer lo que me parece valioso y estableciendo conversaciones alrededor de la música a través de los vídeos</description>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los jóvenes ya no creen en el trabajo: La vida no puede ser esta estafa piramidal</title>
+      <link>https://www.elconfidencial.com/espana/2023-11-07/jovenes-no-creen-trabajo-padres-mataron-echar_3767269/</link>
+      <description>Los nacidos en los noventa mantienen una relación con el empleo muy distinta a la de sus padres. Hablamos con sociólogos, economistas, expertos de RRHH y jóvenes para saber por qué</description>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En España va a haber más perros que niños, ¿y qué?</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-12/espana-mas-perros-ninos-y-que_3771694/</link>
+      <description>El discurso natalista apocalíptico se lleva las manos a la cabeza ante el aumento del número de perros, pero es la consecuencia lógica de determinados cambios sociales y económicos</description>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esa gente que cambia de pareja cada seis meses porque se aburre</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-18/gente-cambia-pareja-seis-meses-aburrimiento_3775281/</link>
+      <description>Dejamos libros a medias, series sin terminar, el plato a medias y las relaciones cuando nos aburren. En la Sociedad de los Comienzos repetimos inicios sin llegar al fondo de las cosas</description>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cómo han cambiado los números 1 en España desde 1980</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-21/numeros-uno-espana-desde-1980-hasta-actualidad_3774320/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Las 10 reglas del juego de las oficinitas: Di cosas en inglés y que parezcas liado</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-24/reglas-ganar-juego-oficinitas-beatriz-serrano_3779597/</link>
+      <description>La periodista Beatriz Serrano dibuja en su última novela uno de los retratos más lúcidos de las miserias del empleo, que nos ha convertido en actores de un teatro absurdo</description>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En contra de marcharse de los sitios con elegancia: es peor ser un bienqueda</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-26/en-contra-saber-marcharse-elegancia-bienqueda_3780374/</link>
+      <description>La idea de que hay que despedirse con elegancia solo beneficia a los mismos de siempre: los abusones que quieren que nada cambie</description>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La hipótesis de dos psicólogos de Oxford: hablar más de salud mental empeora nuestra salud mental</title>
+      <link>https://www.alimente.elconfidencial.com/bienestar/2023-12-04/hipotesis-psicologos-oxford-salud-mental_3784175/</link>
+      <description>Después de visitar colegios donde se impartían programas de psicología, Lucy Faulkes y Jack Andrews se dieron cuenta de que algunos alumnos estaban peor. ¿Qué había pasado?</description>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los 'antiprohibicionistas' de los móviles responden: Quitárselo hasta los 14 es peor</title>
+      <link>https://www.elconfidencial.com/alma-corazon-vida/2023-12-06/antiprohibicionistas-moviles-ninos-quitarselo-peor_3785936/</link>
+      <description>Frente a los padres que reclaman retrasar la entrega de los 'smartphones' todo lo posible, los expertos y otros progenitores consideran que es como matar moscas a cañonazos</description>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esa gente que puede permitirse el lujo de no tener pareja después de los 40</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-10/gente-permitirse-lujo-no-tener-pareja-despues-40_3787837/</link>
+      <description>Hay una glorificación de la soledad por parte de aquellos que pueden permitírselo: la mayoría de la gente no puede vivir sola por razones económicas, psicológicas o materiales</description>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La hipótesis de dos psicólogos de Oxford: hablar más de salud mental la empeora</title>
+      <link>https://www.alimente.elconfidencial.com/bienestar/2023-12-04/hipotesis-psicologos-oxford-salud-mental_3784175/</link>
+      <description>Después de visitar colegios donde se impartían programas de psicología, Lucy Faulkes y Jack Andrews se dieron cuenta de que algunos alumnos estaban peor. ¿Qué había pasado?</description>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apartamento en Villaverde, a cinco minutos de Sol: cómo Airbnb penetra en los barrios obreros</title>
+      <link>https://www.elconfidencial.com/espana/madrid/2023-12-12/apartamento-villaverde-cinco-minutos-sol-airbnb_3789015/</link>
+      <description>Una nueva investigación muestra qué clase de estrategias utilizan los anfitriones en los barrios de la periferia para competir con los alojamientos hoteleros del centro</description>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los 'antiprohibicionistas' de los móviles responden: Quitarlo hasta los 14 es peor</title>
+      <link>https://www.elconfidencial.com/alma-corazon-vida/2023-12-06/antiprohibicionistas-moviles-ninos-quitarselo-peor_3785936/</link>
+      <description>Frente a los padres que reclaman retrasar la entrega de los 'smartphones' todo lo posible, los expertos y otros progenitores consideran que es como matar moscas a cañonazos</description>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esa maldita gente normal que hace cosas de gente normal</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-17/maldita-gente-normal-hace-cosas-gente-normal_3793361/</link>
+      <description>Los borregos que abarrotan las calles siempre son los demás. Pero todos formamos parte de la masa en un momento u otro: todos nos parecemos más de lo que nos gusta creer</description>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apartamento en Villaverde, a 5 minutos de Sol: cómo Airbnb entra en los barrios</title>
+      <link>https://www.elconfidencial.com/espana/madrid/2023-12-12/apartamento-villaverde-cinco-minutos-sol-airbnb_3789015/</link>
+      <description>Una nueva investigación muestra qué clase de estrategias utilizan los anfitriones en los barrios de la periferia para competir con los alojamientos hoteleros del centro</description>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La lotería en la que los ricos siempre ganan: el dinero te presta lo que la genética no te da</title>
+      <link>https://www.elconfidencial.com/tecnologia/ciencia/2023-12-22/loteria-en-la-que-los-ricos-siempre-ganan_3795588/</link>
+      <description>Una nueva investigación muestra que aunque no ganes en la lotería genética, no importa si ya lo has hecho en la socioeconómica. ¿Cómo influyen nuestros genes en nuestro éxito?</description>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hablan los 'negros' de los políticos: Somos como terroristas, solo reportamos a la cúpula</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-16/libros-politicos-negros-literarios_3793448/</link>
+      <description>De día, ostentan trabajos como periodistas o escritores con obra propia. De noche, ayudan a nuestros dirigentes a escribir sus biografías. Así funciona este trabajo, siempre en la sombra</description>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oh, no, otra vez lo mismo de todos los años: una teoría sobre por qué nos agota la Navidad</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-24/otra-vez-mismo-anos-teoria-agota-navidad_3800365/</link>
+      <description>La Navidad nos cansa porque nos promete que todo va a ser siempre igual, lo que no hace más que recordarnos todas las cosas que hemos perdido y nunca podremos recuperar</description>
+      <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pero por qué nos ponemos tan elegantes para tirarnos las copas encima</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-31/por-que-nos-ponemos-elegantes-tirarnos-copas_3802418/</link>
+      <description>Hay una ley infalible: cuanto más guapos nos menos, más probabilidades hay de que terminemos llenos de lamparones, cubata y otras cosas peores al final de la noche</description>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cuando la utopía se convierte en distopía: las otras ciudades de 15 minutos</title>
       <link>https://www.elconfidencial.com/alma-corazon-vida/2024-01-08/utopias-urbanas-distopias-ciudades-15-minutos_3801866/</link>
       <description>El trabajo de tres investigadores de la universidad de Bristol examina el lado oscuro del urbanismo para preguntarse si todo es tan bonito como parece en las nuevas propuestas</description>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia? Una propuesta con la que nadie se atreve</title>
+      <title>No sabemos cuántos suicidios hay en España, pero sí que son más de lo que nos dicen</title>
+      <link>https://www.alimente.elconfidencial.com/bienestar/2024-01-14/no-sabemos-cuantos-suicidios-espana-son-mas_3809977/</link>
+      <description>Todos los expertos se ponen de acuerdo en que los suicidios están subnotificados: hay razones burocráticas, económicas y técnicas que están ocultando el número real de suicidios</description>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tres explicaciones sobre el antifeminismo de los jóvenes que no gustarán a nadie</title>
+      <link>https://www.elconfidencial.com/espana/2024-01-20/explicaciones-antifeminismo-jovenes-espana_3814454/</link>
+      <description>Las actitudes feministas están mucho más aceptadas ahora que en cualquier otro momento de la historia. ¿Por qué entonces parece que el antifeminismo ha vuelto?</description>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>No sabemos cuántos suicidios hay en España: son más de los que nos dicen</title>
+      <link>https://www.alimente.elconfidencial.com/bienestar/2024-01-14/no-sabemos-cuantos-suicidios-espana-son-mas_3809977/</link>
+      <description>Todos los expertos se ponen de acuerdo en que los suicidios están subnotificados: hay razones burocráticas, económicas y técnicas que están ocultando el número real de suicidios</description>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Precarios pijos: hay gente que vive igual de mal que tú que pronto vivirá mucho mejor</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-21/precarios-pijos-gente-vive-mal-vivira-mejor_3812750/</link>
+      <description>Pasar unos años malviviendo en empleos mal pagados aparentando precariedad ha pasado a ser una de las experiencias obligatorias para los pijos, que así obtienen su legitimidad</description>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
       <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
       <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pero por qué los políticos no llevan a sus hijos a colegios públicos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-27/por-que-politicos-no-llevan-hijos-colegios-publicos_3817111/</link>
-      <description>No es que nuestros mandatarios metan a sus hijos en colegios privados, es que la clase de gente que llega al poder es la que suele meter a sus hijos en colegios privados</description>
-      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
