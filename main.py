@@ -1,4 +1,4 @@
-from parsers import dense_discovery, confidencial, elpais
+from parsers import dense_discovery, confidencial, elpais, theatlantic
 
 
 feeds = [
@@ -10,6 +10,7 @@ feeds = [
     elpais.FanjulFeed(),
     elpais.JuegoCienciaFeed(),
     elpais.MolinaFeed(),
+    theatlantic.technology(),
 ]
 failures = []
 
