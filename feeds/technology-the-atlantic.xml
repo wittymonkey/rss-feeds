@@ -6,180 +6,18 @@
     <description>This is a cool feed!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Feb 2024 08:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 08:20:05 +0000</lastBuildDate>
     <item>
-      <title>Your Phone Has Nothing on AM Radio</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/02/why-am-radio-isnt-obsolete/677522/</link>
-      <description>Why Ted Cruz and Bernie Sanders are teaming up to save the century-old technology</description>
-      <pubDate>Wed, 21 Feb 2024 16:54:00 +0000</pubDate>
+      <title>I Went to a Rave With the 46-Year-Old Millionaire Who Claims to Have the Body of a Teenager</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/02/bryan-johnson-dont-die-event/677535/</link>
+      <description>Bryan Johnson wants to build a nation of immortals. Would you join?</description>
+      <pubDate>Thu, 22 Feb 2024 20:46:17 +0000</pubDate>
     </item>
     <item>
-      <title>KitchenAid Did It Right 87 Years Ago</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/02/kitchenaid-stand-mixer-durability/677524/</link>
-      <description>Modern appliances are rarely built to last. They could learn something from the KitchenAid stand mixer.</description>
-      <pubDate>Wed, 21 Feb 2024 20:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Industry Is Stuck on One Very Specific Way to Use a Chatbot</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/02/chatbots-marketing-plan-your-next-trip/677481/</link>
-      <description>OpenAI, Google, and Microsoft are dying to help plan your next trip.</description>
-      <pubDate>Thu, 15 Feb 2024 21:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Substack Was a Ticking Time Bomb</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/01/substack-exodus-social-media-moderation/677113/</link>
-      <description>The platform seeded its own content-moderation crisis.</description>
-      <pubDate>Fri, 12 Jan 2024 20:52:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Internet Is Being Ruined by Bloated Junk</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/01/long-youtube-videos-tiktok/677130/</link>
-      <description>Sites such as YouTube, TikTok, and Twitter used to be defined by short content. Not anymore.</description>
-      <pubDate>Mon, 15 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>You Will Miss the Pizza Delivery Driver</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/01/pizza-delivery-driver-dominos-apps-door-dash/677142/</link>
-      <description>DoorDash has nothing on old-school delivery workers.</description>
-      <pubDate>Tue, 16 Jan 2024 16:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Don’t Talk to People Like They’re Chatbots</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/01/chatbots-change-human-communication/677154/</link>
-      <description>AI could make our human interactions blander, more biased, or ruder.</description>
-      <pubDate>Wed, 17 Jan 2024 19:37:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>I Will Not Thumbs-Up Your Email</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/01/emoji-reactions-email-internet/677158/</link>
-      <description>Emoji, tapbacks, and thumbs-ups were devised to spare your time and attention. Now they’ve become a chore.</description>
-      <pubDate>Thu, 18 Jan 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>It’s Just a Water Bottle</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/01/stanley-cups-valentines-day-target-starbucks/677190/</link>
-      <description>No one can truly explain the Stanley cup.</description>
-      <pubDate>Fri, 19 Jan 2024 14:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Air Jordan Is Finally Deflating</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/01/air-jordan-trend-is-over/677195/</link>
-      <description>The brand’s rise and fall, and rise and fall again</description>
-      <pubDate>Fri, 19 Jan 2024 18:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>We’ve Forgotten How to Use Computers</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/01/computer-mouse-evolution-trackpad/677228/</link>
-      <description>The mouse is sorely missed.</description>
-      <pubDate>Wed, 24 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What We Discovered on ‘Deep YouTube’</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/01/how-many-videos-youtube-research/677250/</link>
-      <description>The video site isn’t just a platform. It’s infrastructure.</description>
-      <pubDate>Fri, 26 Jan 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Rise of Techno-authoritarianism</title>
-      <link>https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/</link>
-      <description>Silicon Valley has its own ascendant political ideology. It’s past time we call it what it is.</description>
-      <pubDate>Mon, 12 Feb 2024 20:24:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>America Is Missing Out on the Best Electric Cars</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/01/electric-cars-cheaper-china-than-america/677290/</link>
-      <description>Whatever kind of EV you might want, chances are China has it.</description>
-      <pubDate>Tue, 30 Jan 2024 15:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Real Problem With American Universities</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/01/dei-universities-are-broken/677288/</link>
-      <description>It isn’t DEI.</description>
-      <pubDate>Tue, 30 Jan 2024 21:10:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Should Teens Have Access to Disappearing Messages?</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/01/snapchat-fentanyl-lawsuit/677296/</link>
-      <description>A recent lawsuit argues that Snapchat causes harm to young people through its basic design.</description>
-      <pubDate>Tue, 30 Jan 2024 21:38:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI in Politics Is So Much Bigger Than Deepfakes</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/01/ai-elections-deepfakes-biden-robocall/677308/</link>
-      <description>Presidential campaigns have long tailored their ads and emails to specific groups. Now any politician can.</description>
-      <pubDate>Wed, 31 Jan 2024 19:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Apple Watch May Have a Calorie Problem</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/02/activity-trackers-calories-fitness/677320/</link>
-      <description>I tied myself into knots trying to close its little red ring.</description>
-      <pubDate>Thu, 01 Feb 2024 22:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The New Luddites Aren’t Backing Down</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/02/new-luddites-ai-protest/677327/</link>
-      <description>Activists are organizing to combat generative AI and other technologies—and reclaiming a misunderstood label in the process.</description>
-      <pubDate>Fri, 02 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Apple Vision Pro Is Spectacular and Sad</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/02/apple-vision-pro-headset-review/677347/</link>
-      <description>A dispatch from the gypsum dunes of cyberspace</description>
-      <pubDate>Sat, 03 Feb 2024 22:25:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lab Diamonds Are Too Perfect for Their Own Good</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/02/lab-grown-diamond-revolution-wont-happen/677378/</link>
-      <description>The traditional diamond industry is thought to be under threat from lab-grown stones. But that’s not how luxury works.</description>
-      <pubDate>Wed, 07 Feb 2024 18:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Fake Yellow Line Changed Football Forever</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/02/football-virtual-yellow-line-augmented-reality/677384/</link>
-      <description>You’ve been watching the Super Bowl in mixed reality for 25 years.</description>
-      <pubDate>Thu, 08 Feb 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Evidence Maximalism’ Is How the Internet Argues Now</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/02/evidence-maximalism-conspiracy-theories-taylor-swift/677390/</link>
-      <description>A simple theory for why the internet is so conspiratorial</description>
-      <pubDate>Thu, 08 Feb 2024 18:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neal Stephenson’s Most Stunning Prediction</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/02/chatbots-ai-neal-stephenson-diamond-age/677364/</link>
-      <description>The sci-fi legend coined the term metaverse. But he was most prescient about our AI age.</description>
-      <pubDate>Tue, 06 Feb 2024 19:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet Me in the Eternal City</title>
-      <link>https://www.theatlantic.com/magazine/archive/2024/03/silicon-valley-billionaires-building-cities/677173/</link>
-      <description>Silicon Valley has always dreamed of building its own utopias. Who’s ready to move in?</description>
-      <pubDate>Mon, 12 Feb 2024 20:24:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Temu Is Speedrunning American Familiarity</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/02/temu-super-bowl-shop-like-a-billionaire/677436/</link>
-      <description>The company’s ad strategy: bludgeon you into knowing its name.</description>
-      <pubDate>Tue, 13 Feb 2024 00:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Moneyball Theory of Presidential Social Media</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/02/joe-biden-tiktok-account/677453/</link>
-      <description>Not even the president can bend the internet to his will.</description>
-      <pubDate>Wed, 14 Feb 2024 21:13:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Carry-On-Baggage Bubble Is About to Pop</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/02/airplane-carry-on-luggage-crisis-conspiracy/677452/</link>
-      <description>Airplanes aren’t made for this much luggage</description>
-      <pubDate>Wed, 14 Feb 2024 20:45:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI’s Sora Is a Total Mystery</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/02/openai-sora-generated-video-fake/677493/</link>
-      <description>A new program from the ChatGPT maker promises to create videos from simple text prompts, but little is known about how it will actually work.</description>
-      <pubDate>Fri, 16 Feb 2024 21:39:35 +0000</pubDate>
+      <title>What Happened to Baseball Jerseys?</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/02/mlb-jerseys-nike-fanatics-quality/677512/</link>
+      <description>Fans are doomed to keep paying more for merchandise they want less.</description>
+      <pubDate>Tue, 20 Feb 2024 21:05:00 +0000</pubDate>
     </item>
     <item>
       <title>Things Get Strange When AI Starts Training Itself</title>
@@ -188,10 +26,178 @@
       <pubDate>Fri, 16 Feb 2024 11:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>What Happened to Baseball Jerseys?</title>
-      <link>https://www.theatlantic.com/technology/archive/2024/02/mlb-jerseys-nike-fanatics-quality/677512/</link>
-      <description>Fans are doomed to keep paying more for merchandise they want less.</description>
-      <pubDate>Tue, 20 Feb 2024 21:05:00 +0000</pubDate>
+      <title>OpenAI’s Sora Is a Total Mystery</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/02/openai-sora-generated-video-fake/677493/</link>
+      <description>A new program from the ChatGPT maker promises to create videos from simple text prompts, but little is known about how it will actually work.</description>
+      <pubDate>Fri, 16 Feb 2024 21:39:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Carry-On-Baggage Bubble Is About to Pop</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/02/airplane-carry-on-luggage-crisis-conspiracy/677452/</link>
+      <description>Airplanes aren’t made for this much luggage</description>
+      <pubDate>Wed, 14 Feb 2024 20:45:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Moneyball Theory of Presidential Social Media</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/02/joe-biden-tiktok-account/677453/</link>
+      <description>Not even the president can bend the internet to his will.</description>
+      <pubDate>Wed, 14 Feb 2024 21:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Temu Is Speedrunning American Familiarity</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/02/temu-super-bowl-shop-like-a-billionaire/677436/</link>
+      <description>The company’s ad strategy: bludgeon you into knowing its name.</description>
+      <pubDate>Tue, 13 Feb 2024 00:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet Me in the Eternal City</title>
+      <link>https://www.theatlantic.com/magazine/archive/2024/03/silicon-valley-billionaires-building-cities/677173/</link>
+      <description>Silicon Valley has always dreamed of building its own utopias. Who’s ready to move in?</description>
+      <pubDate>Mon, 12 Feb 2024 20:24:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neal Stephenson’s Most Stunning Prediction</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/02/chatbots-ai-neal-stephenson-diamond-age/677364/</link>
+      <description>The sci-fi legend coined the term metaverse. But he was most prescient about our AI age.</description>
+      <pubDate>Tue, 06 Feb 2024 19:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Evidence Maximalism’ Is How the Internet Argues Now</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/02/evidence-maximalism-conspiracy-theories-taylor-swift/677390/</link>
+      <description>A simple theory for why the internet is so conspiratorial</description>
+      <pubDate>Thu, 08 Feb 2024 18:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Fake Yellow Line Changed Football Forever</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/02/football-virtual-yellow-line-augmented-reality/677384/</link>
+      <description>You’ve been watching the Super Bowl in mixed reality for 25 years.</description>
+      <pubDate>Thu, 08 Feb 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lab Diamonds Are Too Perfect for Their Own Good</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/02/lab-grown-diamond-revolution-wont-happen/677378/</link>
+      <description>The traditional diamond industry is thought to be under threat from lab-grown stones. But that’s not how luxury works.</description>
+      <pubDate>Wed, 07 Feb 2024 18:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Apple Vision Pro Is Spectacular and Sad</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/02/apple-vision-pro-headset-review/677347/</link>
+      <description>A dispatch from the gypsum dunes of cyberspace</description>
+      <pubDate>Sat, 03 Feb 2024 22:25:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>The New Luddites Aren’t Backing Down</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/02/new-luddites-ai-protest/677327/</link>
+      <description>Activists are organizing to combat generative AI and other technologies—and reclaiming a misunderstood label in the process.</description>
+      <pubDate>Fri, 02 Feb 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Apple Watch May Have a Calorie Problem</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/02/activity-trackers-calories-fitness/677320/</link>
+      <description>I tied myself into knots trying to close its little red ring.</description>
+      <pubDate>Thu, 01 Feb 2024 22:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI in Politics Is So Much Bigger Than Deepfakes</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/01/ai-elections-deepfakes-biden-robocall/677308/</link>
+      <description>Presidential campaigns have long tailored their ads and emails to specific groups. Now any politician can.</description>
+      <pubDate>Wed, 31 Jan 2024 19:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Should Teens Have Access to Disappearing Messages?</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/01/snapchat-fentanyl-lawsuit/677296/</link>
+      <description>A recent lawsuit argues that Snapchat causes harm to young people through its basic design.</description>
+      <pubDate>Tue, 30 Jan 2024 21:38:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Real Problem With American Universities</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/01/dei-universities-are-broken/677288/</link>
+      <description>It isn’t DEI.</description>
+      <pubDate>Tue, 30 Jan 2024 21:10:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>America Is Missing Out on the Best Electric Cars</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/01/electric-cars-cheaper-china-than-america/677290/</link>
+      <description>Whatever kind of EV you might want, chances are China has it.</description>
+      <pubDate>Tue, 30 Jan 2024 15:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Rise of Techno-authoritarianism</title>
+      <link>https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/</link>
+      <description>Silicon Valley has its own ascendant political ideology. It’s past time we call it what it is.</description>
+      <pubDate>Mon, 12 Feb 2024 20:24:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>What We Discovered on ‘Deep YouTube’</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/01/how-many-videos-youtube-research/677250/</link>
+      <description>The video site isn’t just a platform. It’s infrastructure.</description>
+      <pubDate>Fri, 26 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>We’ve Forgotten How to Use Computers</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/01/computer-mouse-evolution-trackpad/677228/</link>
+      <description>The mouse is sorely missed.</description>
+      <pubDate>Wed, 24 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Air Jordan Is Finally Deflating</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/01/air-jordan-trend-is-over/677195/</link>
+      <description>The brand’s rise and fall, and rise and fall again</description>
+      <pubDate>Fri, 19 Jan 2024 18:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>It’s Just a Water Bottle</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/01/stanley-cups-valentines-day-target-starbucks/677190/</link>
+      <description>No one can truly explain the Stanley cup.</description>
+      <pubDate>Fri, 19 Jan 2024 14:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>I Will Not Thumbs-Up Your Email</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/01/emoji-reactions-email-internet/677158/</link>
+      <description>Emoji, tapbacks, and thumbs-ups were devised to spare your time and attention. Now they’ve become a chore.</description>
+      <pubDate>Thu, 18 Jan 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Don’t Talk to People Like They’re Chatbots</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/01/chatbots-change-human-communication/677154/</link>
+      <description>AI could make our human interactions blander, more biased, or ruder.</description>
+      <pubDate>Wed, 17 Jan 2024 19:37:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>You Will Miss the Pizza Delivery Driver</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/01/pizza-delivery-driver-dominos-apps-door-dash/677142/</link>
+      <description>DoorDash has nothing on old-school delivery workers.</description>
+      <pubDate>Tue, 16 Jan 2024 16:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Internet Is Being Ruined by Bloated Junk</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/01/long-youtube-videos-tiktok/677130/</link>
+      <description>Sites such as YouTube, TikTok, and Twitter used to be defined by short content. Not anymore.</description>
+      <pubDate>Mon, 15 Jan 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Substack Was a Ticking Time Bomb</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/01/substack-exodus-social-media-moderation/677113/</link>
+      <description>The platform seeded its own content-moderation crisis.</description>
+      <pubDate>Fri, 12 Jan 2024 20:52:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Industry Is Stuck on One Very Specific Way to Use a Chatbot</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/02/chatbots-marketing-plan-your-next-trip/677481/</link>
+      <description>OpenAI, Google, and Microsoft are dying to help plan your next trip.</description>
+      <pubDate>Thu, 15 Feb 2024 21:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>KitchenAid Did It Right 87 Years Ago</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/02/kitchenaid-stand-mixer-durability/677524/</link>
+      <description>Modern appliances are rarely built to last. They could learn something from the KitchenAid stand mixer.</description>
+      <pubDate>Wed, 21 Feb 2024 20:28:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your Phone Has Nothing on AM Radio</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/02/why-am-radio-isnt-obsolete/677522/</link>
+      <description>Why Ted Cruz and Bernie Sanders are teaming up to save the century-old technology</description>
+      <pubDate>Wed, 21 Feb 2024 16:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
