@@ -6,743 +6,162 @@
     <description>This is a cool feed!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jun 2024 08:22:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 08:22:01 +0000</lastBuildDate>
     <item>
-      <title>Esa clase media que va de obrera a la que tanto le molesta que los demás se crean clase media</title>
-      <link>https://www.elconfidencial.com/cultura/2024-06-08/clase-media-obrera-tanto-molesta-clase-media_3897129/</link>
-      <description>La paradoja es que a todo el mundo le gusta ser clase trabajadora menos a la clase trabajadora de verdad. No hay nada más de clase media que aparentar no serlo</description>
-      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <title>Holandeses buscan enfermeras en España por 3.000 al mes: Me voy, quiero estabilidad</title>
+      <link>https://www.elconfidencial.com/mundo/europa/2024-06-04/holandeses-enfermeras-espana-euros-mes_3894220/</link>
+      <description>Países Bajos u otros estados de la unión están intentando captar sanitarios españoles a través de la subvención de cursos y formación: muchas enfermeras no se lo piensan</description>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Los institutos que los 'profes' evitan por miedo ocultan un problema mayor</title>
-      <link>https://www.elconfidencial.com/espana/madrid/2024-05-25/institutos-dificiles-madrid-profesores-evitan_3889704/</link>
-      <description>Los docentes de la Comunidad de Madrid intercambian información sobre qué colegios evitar. Los expertos creen que esto no ocurriría si la segregación educativa no fuese tan alta</description>
-      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <title>Hay demasiada gente en España esperando a que sus padres se mueran</title>
+      <link>https://www.elconfidencial.com/cultura/2024-06-02/gente-espana-padres-muerte-herencia_3892512/</link>
+      <description>Cada vez son más los que se dan cuenta de que no podrán acceder a la vivienda hasta que no reciban una herencia: qué terrible es que tu estabilidad dependa de la vida de tus padres</description>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pero por qué resulta cada vez más difícil saber qué edad tiene la gente</title>
-      <link>https://www.elconfidencial.com/cultura/2024-05-26/saber-edad-gente-dificil_3889165/</link>
-      <description>Mi hipótesis: la búsqueda de la eterna juventud ha provocado que entre los 25 y los 65 todo el mundo parezca igual. No es solo apariencia: también hay más adolescentes eternos</description>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Por qué no puedes cantar ninguna canción de la artista más escuchada del mundo</title>
+      <title>Por qué no conoces ninguna canción de la artista más escuchada del mundo</title>
       <link>https://www.elconfidencial.com/cultura/2024-05-25/cancion-taylor-swift-artista-mas-escuchada-mundo_3889580/</link>
       <description>Mucha gente se lo pregunta: ¿por qué no conozco ninguna canción de Taylor Swift si tan famosa es? Intentamos responder a la pregunta analizando su música, sus letras y sus referencias culturales</description>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Los pisos están tan caros que sale mejor una residencia: Por 100€ más lo prefiero</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2024-05-11/pisos-caros-residencia-estudiantes-boom_3877671/</link>
-      <description>De unos años a esta parte, la inversión en residencias para universitarios se ha disparado: visitamos una de ellas que no tienen nada que ver con los viejos colegios mayores</description>
-      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <title>Cada vez más jóvenes estudian y trabajan, pero van a petar: Si no hago nada, creo que no sirvo</title>
+      <link>https://www.elconfidencial.com/economia/2024-06-01/sisis-mas-jovenes-estudian-trabajan-petar_3894236/</link>
+      <description>Los sisis, que estudian y trabajan a la vez, han sustituido al nini. Es un síntoma no solo de un cambio de valores, sino también de la transformación del mercado laboral y educativo</description>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cada vez más gente acumula basura, y es solo la punta del iceberg de un problema mayor</title>
+      <title>Cada vez más gente acumula basura, y es el síntoma de un problema mucho mayor</title>
       <link>https://www.alimente.elconfidencial.com/bienestar/2024-05-13/mas-gente-sindrome-diogenes-basura-problema_3881481/</link>
       <description>Todos conocemos a alguien que, sin que nadie lo supiese, acumuló objetos y basura hasta el límite de lo insalubre. No es una causalidad, es el resultado del "boom" de la soledad</description>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El psicólogo que odia prohibir los móviles explica por qué no le da uno a su hija</title>
-      <link>https://www.elconfidencial.com/tecnologia/2024-04-30/entrevista-peter-etchells-smartphones-moviles-prohibicion_3874295/</link>
-      <description>El profesor de la Universidad de Bath acaba de publicar 'Unlocked', en el que pone en tela de juicio las investigaciones apocalípticas sobre el uso de "las pantallas" y se posiciona contra la prohibición</description>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Estoy agotado de Madrid</title>
+      <link>https://www.elconfidencial.com/cultura/2024-05-19/estoy-agotado-madrid_3884731/</link>
+      <description>Me he entretenido contando todas las veces que veía el nombre de la capital en algún sitio y siempre lo hacía al lado de una cerveza</description>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cuando los pisos están tan caros que sale mejor una residencia: Por 100€ más lo hacen todo</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2024-05-11/pisos-caros-residencia-estudiantes-boom_3877671/</link>
-      <description>De unos años a esta parte, la inversión en residencias para universitarios se ha disparado: visitamos una de ellas que no tienen nada que ver con los viejos colegios mayores</description>
-      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <title>El experimento Irvine: cómo una ciudad turística de EEUU logró bajar alquileres</title>
+      <link>https://www.elconfidencial.com/mundo/2024-05-16/experimento-irvine-bajar-precio-alquileres_3883447/</link>
+      <description>Uno de los contados trabajos existentes sobre el impacto de AirBnb en el precio de la vivienda muestra que la prohibición del alquiler tiene un gran impacto económico</description>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El psicólogo que odia prohibir los móviles explica por qué no piensa dar uno a su hija</title>
-      <link>https://www.elconfidencial.com/tecnologia/2024-04-30/entrevista-peter-etchells-smartphones-moviles-prohibicion_3874295/</link>
-      <description>El profesor de la Universidad de Bath acaba de publicar 'Unlocked', en el que pone en tela de juicio las investigaciones apocalípticas sobre el uso de "las pantallas" y se posiciona contra la prohibición</description>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Los institutos chungos que los 'profes' evitan por miedo son el síntoma de un problema mayor</title>
+      <link>https://www.elconfidencial.com/espana/madrid/2024-05-25/institutos-dificiles-madrid-profesores-evitan_3889704/</link>
+      <description>Los docentes de la Comunidad de Madrid intercambian información sobre qué colegios evitar. Los expertos creen que esto no ocurriría si la segregación educativa no fuese tan alta</description>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cómo los hombres nos escaqueamos para que ellas hagan el trabajo sucio</title>
-      <link>https://www.elconfidencial.com/cultura/2024-04-20/como-hombres-escaqueo-mujeres-trabajo-sucio_3870104/</link>
-      <description>Una nueva investigación muestra las estrategias que siguen los profesores universitarios para librarse de los marrones: una guía con la que muchos tíos nos sentimos identificados</description>
-      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Los que tardamos una hora en llegar a todas partes estamos enfadados</title>
+      <link>https://www.elconfidencial.com/cultura/2024-05-12/tardar-hora-llegar-sitios-reirse-nosotros_3880162/</link>
+      <description>Lo que duele no es solo la hora de más que se pierde en el transporte público. Es que es una hora que se emplea una mañana de un lunes en ir a trabajar para ganarnos la vida</description>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La UE ya no quiere enamorarte por el 'roaming', sino recordarte que la democracia peligra</title>
+      <title>El experimento Irvine: cómo una ciudad turística de EEUU logró bajar un 3% los alquileres</title>
+      <link>https://www.elconfidencial.com/mundo/2024-05-16/experimento-irvine-bajar-precio-alquileres_3883447/</link>
+      <description>Uno de los contados trabajos existentes sobre el impacto de AirBnb en el precio de la vivienda muestra que la prohibición del alquiler tiene un gran impacto económico</description>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pero por qué molesta tanto decir que beber todos los días no es normal</title>
+      <link>https://www.elconfidencial.com/cultura/2024-05-04/por-que-molesta-gente-digan-beber-todos-dias_3876315/</link>
+      <description>Cuando se pone en cuestión nuestro consumo alcohólico nos ponemos a la defensiva, porque es como atacar nuestro estilo de vida: los que tienen problemas son siempre los demás</description>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los que tardamos una hora en llegar a todas partes no permitiremos que se rían de nosotros</title>
+      <link>https://www.elconfidencial.com/cultura/2024-05-12/tardar-hora-llegar-sitios-reirse-nosotros_3880162/</link>
+      <description>Lo que duele no es solo la hora de más que se pierde en el transporte público. Es que es una hora que se emplea una mañana de un lunes en ir a trabajar para ganarnos la vida</description>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>De roaming' para todos a la democracia peligra: Europa y el motor del recuerdo</title>
       <link>https://www.elconfidencial.com/mundo/2024-04-29/elecciones-europeas-parlamento-campana_3873609/</link>
       <description>La última campaña del Parlamento para las elecciones de junio muestra cómo la UE pretende virar su imagen de una institución económica a un gran bastión democrático</description>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cómo los hombres nos escaqueamos para que las mujeres hagan el trabajo sucio</title>
-      <link>https://www.elconfidencial.com/cultura/2024-04-20/como-hombres-escaqueo-mujeres-trabajo-sucio_3870104/</link>
-      <description>Una nueva investigación muestra las estrategias que siguen los profesores universitarios para librarse de los marrones: una guía con la que muchos tíos nos sentimos identificados</description>
-      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Pero por qué le molesta tanto a la gente que le digan que beber todos los días no es normal</title>
+      <link>https://www.elconfidencial.com/cultura/2024-05-04/por-que-molesta-gente-digan-beber-todos-dias_3876315/</link>
+      <description>Cuando se pone en cuestión nuestro consumo alcohólico nos ponemos a la defensiva, porque es como atacar nuestro estilo de vida: los que tienen problemas son siempre los demás</description>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>España tiene un problema con el alcohol: Dos cervezas al día normal no es</title>
-      <link>https://www.alimente.elconfidencial.com/bienestar/2024-04-13/espana-problema-alcohol-cervezas_3864170/</link>
-      <description>Nunca antes había habido tantos testimonios sobre el consumo del alcohol en España: hablamos con tres exalcohólicos para ayudar a entender por qué bebemos tanto</description>
-      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los nuevos inspectores caen en el limbo: Llevamos nueve meses cobrando sin trabajar</title>
+      <title>El limbo de los inspectores: Llevamos nueve meses cobrando sin trabajar</title>
       <link>https://www.elconfidencial.com/economia/2024-04-17/nuevos-inspectores-limbo-meses-cobrar-trabajar_3867583/</link>
       <description>La promoción de la convocatoria de 2021 denuncia que aún no han confirmado sus destinos: llevan casi un año sin poder incorporarse y cobrando un sueldo de prácticas</description>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>No voy a responder a tu WhatsApp porque si contesto vas a volver a escribir</title>
-      <link>https://www.elconfidencial.com/cultura/2024-04-06/no-responder-whatsapp-contesto-volver-escribir_3860433/</link>
-      <description>Responder a un mensaje no acaba con la catarata de mensajes: solo nos lleva a recibir más mensajes. Así que hay quien ha decidido convertirse en insumiso y no responder más</description>
-      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Esa gente que no puede permitirse calmarse porque no le da la vida</title>
+      <link>https://www.elconfidencial.com/cultura/2024-04-28/gente-no-puede-permitirse-calmarse-no-da-vida_3874236/</link>
+      <description>Cuando miro a mi alrededor, veo gente nerviosa, moviéndose con prisa, tirando cosas y tropezándose. Solo los privilegiados pueden permitirse la calma, el silencio y la pausa</description>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>España se ha dado cuenta de su problema con el alcohol: Dos cervezas al día normal no es</title>
-      <link>https://www.alimente.elconfidencial.com/bienestar/2024-04-13/espana-problema-alcohol-cervezas_3864170/</link>
-      <description>Nunca antes había habido tantos testimonios sobre el consumo del alcohol en España: hablamos con tres exalcohólicos para ayudar a entender por qué bebemos tanto</description>
-      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      <title>No cabe un evento literario más: Muchos escritores estamos a punto de petar</title>
+      <link>https://www.elconfidencial.com/cultura/2024-04-09/boom-evento-literario-espana-escritores-petar_3861161/</link>
+      <description>Los escritores emergentes son el carburante de un engranaje de editoriales, librerías y autores que ha producido un 'boom' de eventos literarios como si fuesen festivales musicales</description>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La crítica literaria de los 90 iba fuerte: Es un libro corto, pero ni lo he empezado</title>
-      <link>https://www.elconfidencial.com/cultura/2024-03-27/critica-literaria-90-libro-corto-bien-fuerte_3855910/</link>
-      <description>"Las cosas que hace 30 años eran aceptables ya no lo son": Miguel Alcázar recopila los especímenes más extraños de la crítica literaria de los irrepetibles años noventa</description>
-      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <title>Esa gente a la que le gustaba leer y que hoy es incapaz de hacerlo</title>
+      <link>https://www.elconfidencial.com/cultura/2024-04-14/gente-gustaba-leer-incapaz-hacerlo_3865993/</link>
+      <description>Me da miedo la cantidad de gente culta y lectora que últimamente es incapaz de sentarse a leer un libro: se aburren, se ponen nerviosos y no son capaces de avanzar</description>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cuántas personas conoces que hayan renunciado a ser turistas</title>
-      <link>https://www.elconfidencial.com/cultura/2024-03-31/cuantas-personas-conoces-renunciado-turistas_3855143/</link>
-      <description>Lo sufrimos pero no estamos dispuestos a renunciar a él: el turismo es un mecanismo indispensable para consentir nuestro cansancio a cambio de unas buenas vacaciones</description>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <title>No cabe un evento literario más en España: Muchos escritores estamos a punto de petar</title>
+      <link>https://www.elconfidencial.com/cultura/2024-04-09/boom-evento-literario-espana-escritores-petar_3861161/</link>
+      <description>Los escritores emergentes son el carburante de un engranaje de editoriales, librerías y autores que ha producido un 'boom' de eventos literarios como si fuesen festivales musicales</description>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Y España se convirtió en un restaurante donde puedes hacer lo que sea comiendo</title>
-      <link>https://www.alimente.elconfidencial.com/gastronomia-y-cocina/2024-03-25/espana-convirtio-restaurante-comer-beber_3853534/</link>
-      <description>Las fronteras entre trabajo, ocio y labores del hogar ha desaparecido en la España-restaurante. Hoy puedes hacer cualquier cosa en nuestro país mientras te alimentas</description>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Muchos jóvenes no se definen como heterosexuales porque se ve como algo desfasado</title>
+      <title>Muchos jóvenes no se definen como heterosexuales porque se ve desfasado</title>
       <link>https://www.elconfidencial.com/cultura/2024-03-29/entrevista-darian-leader-sexo-heterosexuales_3856256/</link>
       <description>El psicoanalista autor de '¿Qué es la locura?' dedica su último trabajo, 'Nunca es solo sexo', a entender a través del sexo nuestros miedos, comportamientos y las convenciones sociales del tiempo moderno</description>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>No me pidas que elija qué vamos a cenar hoy: todo el día tomando decisiones</title>
-      <link>https://www.elconfidencial.com/cultura/2024-03-23/no-me-pidas-elija-que-vamos-cenar-decisiones_3853041/</link>
-      <description>Solo podemos responder un número limitado de preguntas al día. A partir de ahí, solo tomamos malas decisiones</description>
-      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      <title>No voy a responder a tu Whatsapp porque si contesto me vas a volver a escribir</title>
+      <link>https://www.elconfidencial.com/cultura/2024-04-06/no-responder-whatsapp-contesto-volver-escribir_3860433/</link>
+      <description>Responder a un mensaje no acaba con la catarata de mensajes: solo nos lleva a recibir más mensajes. Así que hay quien ha decidido convertirse en insumiso y no responder más</description>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La crítica literaria de los 90 iba bien fuerte: Es un libro corto, pero ni lo he empezado</title>
-      <link>https://www.elconfidencial.com/cultura/2024-03-27/critica-literaria-90-libro-corto-bien-fuerte_3855910/</link>
-      <description>"Las cosas que hace 30 años eran aceptables ya no lo son": Miguel Alcázar recopila los especímenes más extraños de la crítica literaria de los irrepetibles años noventa</description>
-      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una procuradora de 81 años: Con dos cosas ya saco más que la pensión</title>
-      <link>https://www.elconfidencial.com/juridico/2024-03-18/vida-procuradora-81-anos-mutua_3849301/</link>
-      <description>Alicia Ramírez se ha convertido en la cara visible de la plataforma J2. Como ella, muchos abogados y procuradores tienen que seguir trabajando tras los 80 o enfermos para que les salgan las cuentas</description>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Y España entera se convirtió en un restaurante donde puedes hacer cualquier cosa comiendo</title>
-      <link>https://www.alimente.elconfidencial.com/gastronomia-y-cocina/2024-03-25/espana-convirtio-restaurante-comer-beber_3853534/</link>
-      <description>Las fronteras entre trabajo, ocio y labores del hogar ha desaparecido en la España-restaurante. Hoy puedes hacer cualquier cosa en nuestro país mientras te alimentas</description>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No me pidas que elija qué vamos a cenar hoy: todo el maldito día tomando decisiones</title>
-      <link>https://www.elconfidencial.com/cultura/2024-03-23/no-me-pidas-elija-que-vamos-cenar-decisiones_3853041/</link>
-      <description>Solo podemos responder un número limitado de preguntas al día. A partir de ahí, solo tomamos malas decisiones</description>
-      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lucía mejor que Daniel: un estudio muestra los favoritismos de los profes</title>
-      <link>https://www.elconfidencial.com/espana/2024-03-13/lucia-daniel-experimento-profesores-espanoles_3847466/</link>
-      <description>Un trabajo publicado por la Comisión Europea muestra los sesgos de los docentes: tienden a poner más nota a las chicas, los alumnos inmigrantes y los de nivel cultural más alto</description>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La vida de una procuradora de 81 años: Con dos encargos ya saco más que la pensión</title>
-      <link>https://www.elconfidencial.com/juridico/2024-03-18/vida-procuradora-81-anos-mutua_3849301/</link>
-      <description>Alicia Ramírez se ha convertido en la cara visible de la plataforma J2. Como ella, muchos abogados y procuradores tienen que seguir trabajando tras los 80 o enfermos para que les salgan las cuentas</description>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lucía mejor que Daniel: un experimento muestra los favoritismos de los profes</title>
-      <link>https://www.elconfidencial.com/espana/2024-03-13/lucia-daniel-experimento-profesores-espanoles_3847466/</link>
-      <description>Un trabajo publicado por la Comisión Europea muestra los sesgos de los docentes: tienden a poner más nota a las chicas, los alumnos inmigrantes y los de nivel cultural más alto</description>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El éxito del chaval que flipa con Led Zeppelin explica por qué la música vieja sigue oyéndose</title>
+      <title>El chaval que flipa con Led Zeppelin explica por qué la música vieja sigue ahí</title>
       <link>https://www.elconfidencial.com/cultura/2024-03-10/exito-oscargg-led-zeppelin-musica-vieja_3845225/</link>
       <description>Con más de un millón de seguidores, Oscargg ha mostrado que se puede ser veintañero, tiktoker y hacerse famoso hablando de los Beatles. Analizamos este nuevo eclecticismo</description>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cuando tener un hijo te hace pobre: Es uno de los caprichos más caros</title>
+      <title>Esa gente que tiene tantas cosas que hacer que se mete en la cama a las diez</title>
+      <link>https://www.elconfidencial.com/cultura/2024-03-17/esa-gente-tantas-cosas-duerme-diez-noche_3848968/</link>
+      <description>Cada vez me encuentro con más personas que terminan el día tan agotadas que se sienten incapaces de hacer nada que no sea meterse en la cama y descansar</description>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¡Viva el conformismo! Quién querría ser escritor pudiendo limpiar váteres</title>
+      <link>https://www.elconfidencial.com/cultura/2024-03-09/viva-conformismo-escritor-limpiar-vateres_3843755/</link>
+      <description>Durante mucho tiempo, conformarse ha sido lo peor que alguien podía hacer. Hoy es visto como la única salida posible ante la hipertrofia de expectativas de la vida moderna</description>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cuando tener un hijo te convierte en pobre: Ser padre es uno de los caprichos más caros</title>
       <link>https://www.elconfidencial.com/economia/2024-03-03/tener-hijo-pobre-ser-padre-capricho-caro_3840978/</link>
       <description>Los niveles de pobreza bajan en toda España, menos en un sector concreto: los menores de edad. Tener hijos cada vez obliga a gastar más (y vivir peor)</description>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Otro año de peleas por la jornada escolar: No pararemos hasta que salga continua</title>
-      <link>https://www.elconfidencial.com/espana/2024-02-24/votacion-jornada-escolar-partida-continua_3835170/</link>
-      <description>En algunos centros llevan votando sin éxito casi una década la posibilidad de cambiar de partida a continua, lo que ha disparado las tensiones entre padres, familias y profesores</description>
-      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La nueva masculinidad es ser guapo y leer libros</title>
-      <link>https://www.elconfidencial.com/cultura/2024-03-03/nueva-masculinidad-guapo-leer-libros_3839443/</link>
-      <description>Me parecen bien los guapos. Me parece bien que a la gente le gusten los guapos. Lo que me agota es intentar justificar que nos gustan los guapos por otros motivos</description>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Por qué no puedes dejar de hablar de ti mismo: la teoría del botijo invertido</title>
-      <link>https://www.elconfidencial.com/cultura/2024-02-24/teoria-botijo-invertido-capaces-hablar-nosotros_3835931/</link>
-      <description>La cantidad de cosas interesantes que podemos decir es limitada, así que si tenemos que producir contenido sin parar, terminamos hablando de lo que mejor conocemos: nosotros</description>
-      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La IA puede hacer lo que un profesor: opositar va a ser cada vez más barato</title>
-      <link>https://www.elconfidencial.com/tecnologia/2024-02-28/oposiciones-mas-barato-ia-profesor_3837790/</link>
-      <description>Los avances tecnológicos han provocado la aparición de nuevas formas de preparación mucho más baratas que han roto el mercado y tirado los precios</description>
-      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Dónde estabas tú cuando el 11-M? Incluso 20 años después, siguen recordando cada detalle</title>
-      <link>https://www.elconfidencial.com/espana/especial-decimo-aniversario-11-m/2024-03-03/donde-estabas-el-11m-veinte-anos-despues_3839963/</link>
-      <description>No importa el tiempo que haya pasado desde el día más sangriento de la historia reciente de España. Sus protagonistas involuntarios siguen teniéndolo todo grabado en su mente</description>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
       <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
       <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cuando buscar trabajo es humillante: Con cada entrevista, te hundes más</title>
-      <link>https://www.elconfidencial.com/economia/2024-02-19/buscar-trabajo-humillante-entrevista-hundirte_3832031/</link>
-      <description>Un mercado laboral con mucha oferta, la tecnología o la automatización y externalización han provocado que los procesos sean cada vez más largos y duros</description>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Otro año de peleas por la jornada escolar: Vamos a seguir hasta que salga lo que quieren</title>
-      <link>https://www.elconfidencial.com/espana/2024-02-24/votacion-jornada-escolar-partida-continua_3835170/</link>
-      <description>En algunos centros llevan votando sin éxito casi una década la posibilidad de cambiar de partida a continua, lo que ha disparado las tensiones entre padres, familias y profesores</description>
-      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cómo una teoría de hace un siglo ha cambiado nuestras relaciones personales</title>
-      <link>https://www.elconfidencial.com/alma-corazon-vida/2024-02-14/teoria-apego-john-bowly-ingles-abandonado_3827795/</link>
-      <description>"Apego ansioso", "apego evitativo", "apego desorganizado"... Estas categorías están en boca de todos los jóvenes hoy. Pero ¿cómo ha llegado una vieja teoría a ponerse tan de moda?</description>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cuando buscar trabajo es humillante: Con cada entrevista, te hundes un poco más</title>
-      <link>https://www.elconfidencial.com/economia/2024-02-19/buscar-trabajo-humillante-entrevista-hundirte_3832031/</link>
-      <description>Un mercado laboral con mucha oferta, la tecnología o la automatización y externalización han provocado que los procesos sean cada vez más largos y duros</description>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Es una revelación: la teoría del siglo pasado que está cambiando nuestras relaciones personales</title>
-      <link>https://www.elconfidencial.com/alma-corazon-vida/2024-02-14/teoria-apego-john-bowly-ingles-abandonado_3827795/</link>
-      <description>"Apego ansioso", "apego evitativo", "apego desorganizado"... Estas categorías están en boca de todos los jóvenes hoy. Pero ¿cómo ha llegado una vieja teoría a ponerse tan de moda?</description>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una trampa para miles de autónomos: Cuando la tarifa suba, no sé qué pasará</title>
-      <link>https://www.elconfidencial.com/economia/2024-02-10/trampa-atrapa-miles-autonomos-tarifa-plana_3823186/</link>
-      <description>Muchos de los trabajadores por cuenta propia a los que les va bien por ahora no saben qué ocurrirá cuando se acabe la tarifa plana: "No sé si podré hacer frente a tantos gastos"</description>
-      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los jóvenes son antifeministas porque creen que salen perdiendo en el mercado laboral</title>
-      <link>https://www.elconfidencial.com/economia/2024-02-13/entrevista-gefjon-off-jovenes-oponen-feminismo-mercado-laboral_3825354/</link>
-      <description>¿Por qué los jóvenes tienen más posiciones antifeministas en el trabajo que sus mayores? Porque consideran a las mujeres su competencia en un mercado precario, explica una investigación</description>
-      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La trampa que atrapa a miles de autónomos: Cuando la tarifa suba, no sé si podré seguir</title>
-      <link>https://www.elconfidencial.com/economia/2024-02-10/trampa-atrapa-miles-autonomos-tarifa-plana_3823186/</link>
-      <description>Muchos de los trabajadores por cuenta propia a los que les va bien por ahora no saben qué ocurrirá cuando se acabe la tarifa plana: "No sé si podré hacer frente a tantos gastos"</description>
-      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pero por qué los políticos no llevan a sus hijos a colegios públicos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-27/por-que-politicos-no-llevan-hijos-colegios-publicos_3817111/</link>
-      <description>No es que nuestros mandatarios metan a sus hijos en colegios privados, es que la clase de gente que llega al poder es la que suele meter a sus hijos en colegios privados</description>
-      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia? Una propuesta con la que nadie se atreve</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cuando las utopías urbanas se convierten en distopías: las otras ciudades de 15 minutos</title>
-      <link>https://www.elconfidencial.com/alma-corazon-vida/2024-01-08/utopias-urbanas-distopias-ciudades-15-minutos_3801866/</link>
-      <description>El trabajo de tres investigadores de la universidad de Bristol examina el lado oscuro del urbanismo para preguntarse si todo es tan bonito como parece en las nuevas propuestas</description>
-      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Por qué todas las ciudades se parecen en Navidad</title>
-      <link>https://www.elconfidencial.com/espana/2023-12-31/por-que-ciudades-se-parecen-navidad_3802897/</link>
-      <description>Londres, Nueva York, Madrid o Palos de la Frontera, todas las ciudades se parecen durante estas fechas, solo que a distinta escala: pistas de hielo, árboles gigantes y mercadillos de madera</description>
-      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Madrid está llena de gente que no debería estar en Madrid</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-14/madrid-llena-gente-no-deberia-estar-madrid_3808880/</link>
-      <description>Cada año, miles de españoles se dan cuenta al terminar la Navidad y coger el tren a la capital que en realidad no quieren estar ahí, pero no tienen escapatoria</description>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>España, explicada por los chocorreznos, la churroburger y las pizzas de oreja</title>
-      <link>https://www.alimente.elconfidencial.com/gastronomia-y-cocina/2023-12-26/espana-chocorreznos-churroburger-pizzas-oreja_3796611/</link>
-      <description>Si un viajero del futuro quisiera entender nuestra sociedad, haría bien en fijarse en la gastronomía extrema que se ha puesto de moda: es el 'zeitgeist' de nuestra era</description>
-      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La lotería en la que los ricos siempre ganan</title>
-      <link>https://www.elconfidencial.com/tecnologia/ciencia/2023-12-22/loteria-en-la-que-los-ricos-siempre-ganan_3795588/</link>
-      <description>Una nueva investigación muestra que aunque no ganes en la lotería genética, no importa si ya lo has hecho en la socioeconómica. ¿Cómo influyen nuestros genes en nuestro éxito?</description>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La España de 2023, explicada por los chocorreznos, la churroburger y las pizzas de oreja</title>
-      <link>https://www.alimente.elconfidencial.com/gastronomia-y-cocina/2023-12-26/espana-chocorreznos-churroburger-pizzas-oreja_3796611/</link>
-      <description>Si un viajero del futuro quisiera entender nuestra sociedad, haría bien en fijarse en la gastronomía extrema que se ha puesto de moda: es el 'zeitgeist' de nuestra era</description>
-      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La plaza de tu pueblo no es el Rockefeller Center: todas las ciudades se parecen en Navidad</title>
-      <link>https://www.elconfidencial.com/espana/2023-12-31/por-que-ciudades-se-parecen-navidad_3802897/</link>
-      <description>Londres, Nueva York, Madrid o Palos de Moguer, todas las ciudades se parecen durante estas fechas, solo que a distinta escala: pistas de hielo, árboles gigantes y mercadillos de madera</description>
-      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hablan los 'negros' de los políticos: Somos como terroristas; solo reportamos a la cúpula</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-16/libros-politicos-negros-literarios_3793448/</link>
-      <description>De día, ostentan trabajos como periodistas o escritores con obra propia. De noche, ayudan a nuestros dirigentes a escribir sus biografías. Así funciona este trabajo, siempre en la sombra</description>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esos profesores que odian a sus alumnos (son minoría, pero nos encantan)</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-05/esos-profesores-odian-alumnos-minoria-encantan_3766319/</link>
-      <description>Nos encanta dar voz a los docentes desencantados, frustrados o quemados que piensan que la educación se ha echado a perder. Lo sé porque yo mismo lo he hecho: venden bien</description>
-      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Este investigador  español del MIT explica por qué vas a ver cada vez más a tu ex</title>
-      <link>https://www.elconfidencial.com/tecnologia/ciencia/2023-11-09/esteban-moro-mit-ciudad-encontrarte-ex_3768725/</link>
-      <description>Un estudio publicado en 'Nature' muestra cómo ha cambiado en los últimos años nuestro comportamiento en la ciudad: vivimos en burbujas. Hablamos con uno de sus autores</description>
-      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los hombres están explotados: la Biblia antifeminista escrita por una mujer</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-12/esther-vilar-hombre-domado-biblia-antifeminista_3770493/</link>
-      <description>Cincuenta años después de su primera edición, y tras mucho tiempo sin estar disponible, Deusto reedita 'El varón domado', un libro que reventó la España del tardofranquismo</description>
-      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Si me cambio de piso, será a algo peor: por qué cada vez vivimos en menos m²</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2023-11-19/si-cambio-piso-peor-vivimos-menos-espacio_3776330/</link>
-      <description>En Madrid, un presupuesto de 800 euros te permitía alquilar en 2015 una vivienda de 80 metros. Hoy serían 65. Los cambios están afectando también a cómo se construye</description>
-      <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nuevos documentos sobre JFK: Robert creía en la conspiración</title>
-      <link>https://www.elconfidencial.com/mundo/2023-11-22/nuevos-documentos-sobre-el-caso-kennedy-robert-creia-en-la-teoria-de-la-conspiracion_246272/</link>
-      <description>En 2014, Howard P. Willens, autor de 'La historia demostrará que tenemos razón', publica una novela con motivo del 50 aniversario del final de la investigación, que incluiría documentos clave</description>
-      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacia un futuro sin calvos: Los hombres buscan la aprobación de otros hombres</title>
-      <link>https://www.alimente.elconfidencial.com/bienestar/2023-11-25/futuro-sin-calvos-espana-hombres-aprobacion_3778390/</link>
-      <description>Hoy todos conocemos a alguien que ha pasado por el quirófano para trasplantarse pelo. Hay razones, no solo económicas, para que el 'boom' se produzca ahora y no en otro momento</description>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Por qué compramos más libros de los que podemos leer</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-03/por-que-compramos-mas-libros-podemos-leer_3785693/</link>
-      <description>Hacerse con un libro es, ante todo, comprar la promesa de un tiempo futuro en el que tendremos tiempo para leerlo</description>
-      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A favor de grabar con el móvil en los conciertos</title>
-      <link>https://www.elconfidencial.com/cultura/2023-10-29/a-favor-grabar-movil-conciertos_3762926/</link>
-      <description>Disfruto compartiendo lo que me emociona, dando a conocer lo que me parece valioso y estableciendo conversaciones alrededor de la música a través de los vídeos</description>
-      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los jóvenes ya no creen en el trabajo: La vida no puede ser esta estafa piramidal</title>
-      <link>https://www.elconfidencial.com/espana/2023-11-07/jovenes-no-creen-trabajo-padres-mataron-echar_3767269/</link>
-      <description>Los nacidos en los noventa mantienen una relación con el empleo muy distinta a la de sus padres. Hablamos con sociólogos, economistas, expertos de RRHH y jóvenes para saber por qué</description>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>En España va a haber más perros que niños, ¿y qué?</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-12/espana-mas-perros-ninos-y-que_3771694/</link>
-      <description>El discurso natalista apocalíptico se lleva las manos a la cabeza ante el aumento del número de perros, pero es la consecuencia lógica de determinados cambios sociales y económicos</description>
-      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esa gente que cambia de pareja cada seis meses porque se aburre</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-18/gente-cambia-pareja-seis-meses-aburrimiento_3775281/</link>
-      <description>Dejamos libros a medias, series sin terminar, el plato a medias y las relaciones cuando nos aburren. En la Sociedad de los Comienzos repetimos inicios sin llegar al fondo de las cosas</description>
-      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cómo han cambiado los números 1 en España desde 1980</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-21/numeros-uno-espana-desde-1980-hasta-actualidad_3774320/</link>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Las 10 reglas del juego de las oficinitas: Di cosas en inglés y que parezcas liado</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-24/reglas-ganar-juego-oficinitas-beatriz-serrano_3779597/</link>
-      <description>La periodista Beatriz Serrano dibuja en su última novela uno de los retratos más lúcidos de las miserias del empleo, que nos ha convertido en actores de un teatro absurdo</description>
-      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>En contra de marcharse de los sitios con elegancia: es peor ser un bienqueda</title>
-      <link>https://www.elconfidencial.com/cultura/2023-11-26/en-contra-saber-marcharse-elegancia-bienqueda_3780374/</link>
-      <description>La idea de que hay que despedirse con elegancia solo beneficia a los mismos de siempre: los abusones que quieren que nada cambie</description>
-      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La hipótesis de dos psicólogos de Oxford: hablar más de salud mental empeora nuestra salud mental</title>
-      <link>https://www.alimente.elconfidencial.com/bienestar/2023-12-04/hipotesis-psicologos-oxford-salud-mental_3784175/</link>
-      <description>Después de visitar colegios donde se impartían programas de psicología, Lucy Faulkes y Jack Andrews se dieron cuenta de que algunos alumnos estaban peor. ¿Qué había pasado?</description>
-      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los 'antiprohibicionistas' de los móviles responden: Quitárselo hasta los 14 es peor</title>
-      <link>https://www.elconfidencial.com/alma-corazon-vida/2023-12-06/antiprohibicionistas-moviles-ninos-quitarselo-peor_3785936/</link>
-      <description>Frente a los padres que reclaman retrasar la entrega de los 'smartphones' todo lo posible, los expertos y otros progenitores consideran que es como matar moscas a cañonazos</description>
-      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esa gente que puede permitirse el lujo de no tener pareja después de los 40</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-10/gente-permitirse-lujo-no-tener-pareja-despues-40_3787837/</link>
-      <description>Hay una glorificación de la soledad por parte de aquellos que pueden permitírselo: la mayoría de la gente no puede vivir sola por razones económicas, psicológicas o materiales</description>
-      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La hipótesis de dos psicólogos de Oxford: hablar más de salud mental la empeora</title>
-      <link>https://www.alimente.elconfidencial.com/bienestar/2023-12-04/hipotesis-psicologos-oxford-salud-mental_3784175/</link>
-      <description>Después de visitar colegios donde se impartían programas de psicología, Lucy Faulkes y Jack Andrews se dieron cuenta de que algunos alumnos estaban peor. ¿Qué había pasado?</description>
-      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apartamento en Villaverde, a cinco minutos de Sol: cómo Airbnb penetra en los barrios obreros</title>
-      <link>https://www.elconfidencial.com/espana/madrid/2023-12-12/apartamento-villaverde-cinco-minutos-sol-airbnb_3789015/</link>
-      <description>Una nueva investigación muestra qué clase de estrategias utilizan los anfitriones en los barrios de la periferia para competir con los alojamientos hoteleros del centro</description>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los 'antiprohibicionistas' de los móviles responden: Quitarlo hasta los 14 es peor</title>
-      <link>https://www.elconfidencial.com/alma-corazon-vida/2023-12-06/antiprohibicionistas-moviles-ninos-quitarselo-peor_3785936/</link>
-      <description>Frente a los padres que reclaman retrasar la entrega de los 'smartphones' todo lo posible, los expertos y otros progenitores consideran que es como matar moscas a cañonazos</description>
-      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esa maldita gente normal que hace cosas de gente normal</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-17/maldita-gente-normal-hace-cosas-gente-normal_3793361/</link>
-      <description>Los borregos que abarrotan las calles siempre son los demás. Pero todos formamos parte de la masa en un momento u otro: todos nos parecemos más de lo que nos gusta creer</description>
-      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apartamento en Villaverde, a 5 minutos de Sol: cómo Airbnb entra en los barrios</title>
-      <link>https://www.elconfidencial.com/espana/madrid/2023-12-12/apartamento-villaverde-cinco-minutos-sol-airbnb_3789015/</link>
-      <description>Una nueva investigación muestra qué clase de estrategias utilizan los anfitriones en los barrios de la periferia para competir con los alojamientos hoteleros del centro</description>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La lotería en la que los ricos siempre ganan: el dinero te presta lo que la genética no te da</title>
-      <link>https://www.elconfidencial.com/tecnologia/ciencia/2023-12-22/loteria-en-la-que-los-ricos-siempre-ganan_3795588/</link>
-      <description>Una nueva investigación muestra que aunque no ganes en la lotería genética, no importa si ya lo has hecho en la socioeconómica. ¿Cómo influyen nuestros genes en nuestro éxito?</description>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hablan los 'negros' de los políticos: Somos como terroristas, solo reportamos a la cúpula</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-16/libros-politicos-negros-literarios_3793448/</link>
-      <description>De día, ostentan trabajos como periodistas o escritores con obra propia. De noche, ayudan a nuestros dirigentes a escribir sus biografías. Así funciona este trabajo, siempre en la sombra</description>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oh, no, otra vez lo mismo de todos los años: una teoría sobre por qué nos agota la Navidad</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-24/otra-vez-mismo-anos-teoria-agota-navidad_3800365/</link>
-      <description>La Navidad nos cansa porque nos promete que todo va a ser siempre igual, lo que no hace más que recordarnos todas las cosas que hemos perdido y nunca podremos recuperar</description>
-      <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pero por qué nos ponemos tan elegantes para tirarnos las copas encima</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-31/por-que-nos-ponemos-elegantes-tirarnos-copas_3802418/</link>
-      <description>Hay una ley infalible: cuanto más guapos nos menos, más probabilidades hay de que terminemos llenos de lamparones, cubata y otras cosas peores al final de la noche</description>
-      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cuando la utopía se convierte en distopía: las otras ciudades de 15 minutos</title>
-      <link>https://www.elconfidencial.com/alma-corazon-vida/2024-01-08/utopias-urbanas-distopias-ciudades-15-minutos_3801866/</link>
-      <description>El trabajo de tres investigadores de la universidad de Bristol examina el lado oscuro del urbanismo para preguntarse si todo es tan bonito como parece en las nuevas propuestas</description>
-      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No sabemos cuántos suicidios hay en España, pero sí que son más de lo que nos dicen</title>
-      <link>https://www.alimente.elconfidencial.com/bienestar/2024-01-14/no-sabemos-cuantos-suicidios-espana-son-mas_3809977/</link>
-      <description>Todos los expertos se ponen de acuerdo en que los suicidios están subnotificados: hay razones burocráticas, económicas y técnicas que están ocultando el número real de suicidios</description>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tres explicaciones sobre el antifeminismo de los jóvenes que no gustarán a nadie</title>
-      <link>https://www.elconfidencial.com/espana/2024-01-20/explicaciones-antifeminismo-jovenes-espana_3814454/</link>
-      <description>Las actitudes feministas están mucho más aceptadas ahora que en cualquier otro momento de la historia. ¿Por qué entonces parece que el antifeminismo ha vuelto?</description>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No sabemos cuántos suicidios hay en España: son más de los que nos dicen</title>
-      <link>https://www.alimente.elconfidencial.com/bienestar/2024-01-14/no-sabemos-cuantos-suicidios-espana-son-mas_3809977/</link>
-      <description>Todos los expertos se ponen de acuerdo en que los suicidios están subnotificados: hay razones burocráticas, económicas y técnicas que están ocultando el número real de suicidios</description>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Precarios pijos: hay gente que vive igual de mal que tú que pronto vivirá mucho mejor</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-21/precarios-pijos-gente-vive-mal-vivira-mejor_3812750/</link>
-      <description>Pasar unos años malviviendo en empleos mal pagados aparentando precariedad ha pasado a ser una de las experiencias obligatorias para los pijos, que así obtienen su legitimidad</description>
-      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los jóvenes españoles lo hacen todo cuatro años después que sus padres: Llegas tarde a todo</title>
-      <link>https://www.elconfidencial.com/espana/2024-01-28/jovenes-espanoles-hacen-anos-mas-tarde-padres_3818561/</link>
-      <description>Entre 1992 y 2022, la edad del primer hijo ha aumentado cuatro años; la emancipación, al menos dos; la del matrimonio, siete; y se empieza a trabajar más tarde. Es "insostenible"</description>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Precarios pijos: hay gente que vive igual de mal que tú que pronto vivirá mejor</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-21/precarios-pijos-gente-vive-mal-vivira-mejor_3812750/</link>
-      <description>Pasar unos años malviviendo en empleos mal pagados aparentando precariedad ha pasado a ser una de las experiencias obligatorias para los pijos, que así obtienen su legitimidad</description>
-      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Es imposible escapar: por qué ves mochilas de Basic-Fit por todas partes</title>
-      <link>https://www.elconfidencial.com/empresas/2024-02-02/por-que-ves-mochilas-basic-fit-todas-partes_3822179/</link>
-      <description>El regalo que se concede a los socios de la franquicia es muchas cosas: una genialidad de 'marketing', un icono pop irónico y un símbolo del pragmatismo de clase trabajadora</description>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tengo una hora libre el mes que viene: cómo hemos matado la espontaneidad en los planes</title>
-      <link>https://www.elconfidencial.com/cultura/2024-02-04/horas-libres-mes-matado-espontaneidad-planes_3822952/</link>
-      <description>Hoy es imposible quedar con nadie sin enviar una instancia con semanas de antelación o acudir a un restaurante sin reserva. La planificación ha acabado con lo improvisado</description>
-      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los jóvenes lo hacen todo 4 años después que sus padres: Llegas tarde a todo</title>
-      <link>https://www.elconfidencial.com/espana/2024-01-28/jovenes-espanoles-hacen-anos-mas-tarde-padres_3818561/</link>
-      <description>Entre 1992 y 2022, la edad del primer hijo ha aumentado cuatro años; la emancipación, al menos dos; la del matrimonio, siete; y se empieza a trabajar más tarde. Es "insostenible"</description>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ahora resulta que lo guay es vivir en el barrio donde se crio tu familia</title>
-      <link>https://www.elconfidencial.com/cultura/2024-02-11/por-que-resulta-guay-vivir-barrio-abuelos-madrid_3826876/</link>
-      <description>Cuando cuento que vivo en la misma calle en la que se crio mi madre, a la gente le encanta, pero es mera casualidad. Parece que hay que hacer méritos para vivir en un barrio</description>
-      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tengo una hora libre en marzo: cómo matamos la espontaneidad en los planes</title>
-      <link>https://www.elconfidencial.com/cultura/2024-02-04/horas-libres-mes-matado-espontaneidad-planes_3822952/</link>
-      <description>Hoy es imposible quedar con nadie sin enviar una instancia con semanas de antelación o acudir a un restaurante sin reserva. La planificación ha acabado con lo improvisado</description>
-      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
-      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
-      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Un millón y medio de españoles han desaparecido dentro de sus casas</title>
-      <link>https://www.elconfidencial.com/cultura/2024-02-18/millon-medio-espanoles-desaparecido-casa_3831467/</link>
-      <description>No solo las personas que necesitan cuidados desaparecen, también lo hacen sus cuidadores. Por cada dependiente hay tantas otras personas que viven condicionados a ellos</description>
-      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los jóvenes son antifeministas porque creen que salen perdiendo en el trabajo</title>
-      <link>https://www.elconfidencial.com/economia/2024-02-13/entrevista-gefjon-off-jovenes-oponen-feminismo-mercado-laboral_3825354/</link>
-      <description>¿Por qué los jóvenes tienen más posiciones antifeministas en el trabajo que sus mayores? Porque consideran a las mujeres su competencia en un mercado precario, explica una investigación</description>
-      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
@@ -787,160 +206,741 @@
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Los jóvenes son antifeministas porque creen que salen perdiendo en el trabajo</title>
+      <link>https://www.elconfidencial.com/economia/2024-02-13/entrevista-gefjon-off-jovenes-oponen-feminismo-mercado-laboral_3825354/</link>
+      <description>¿Por qué los jóvenes tienen más posiciones antifeministas en el trabajo que sus mayores? Porque consideran a las mujeres su competencia en un mercado precario, explica una investigación</description>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un millón y medio de españoles han desaparecido dentro de sus casas</title>
+      <link>https://www.elconfidencial.com/cultura/2024-02-18/millon-medio-espanoles-desaparecido-casa_3831467/</link>
+      <description>No solo las personas que necesitan cuidados desaparecen, también lo hacen sus cuidadores. Por cada dependiente hay tantas otras personas que viven condicionados a ellos</description>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
       <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
       <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cuando tener un hijo te convierte en pobre: Ser padre es uno de los caprichos más caros</title>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tengo una hora libre en marzo: cómo matamos la espontaneidad en los planes</title>
+      <link>https://www.elconfidencial.com/cultura/2024-02-04/horas-libres-mes-matado-espontaneidad-planes_3822952/</link>
+      <description>Hoy es imposible quedar con nadie sin enviar una instancia con semanas de antelación o acudir a un restaurante sin reserva. La planificación ha acabado con lo improvisado</description>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ahora resulta que lo guay es vivir en el barrio donde se crio tu familia</title>
+      <link>https://www.elconfidencial.com/cultura/2024-02-11/por-que-resulta-guay-vivir-barrio-abuelos-madrid_3826876/</link>
+      <description>Cuando cuento que vivo en la misma calle en la que se crio mi madre, a la gente le encanta, pero es mera casualidad. Parece que hay que hacer méritos para vivir en un barrio</description>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los jóvenes lo hacen todo 4 años después que sus padres: Llegas tarde a todo</title>
+      <link>https://www.elconfidencial.com/espana/2024-01-28/jovenes-espanoles-hacen-anos-mas-tarde-padres_3818561/</link>
+      <description>Entre 1992 y 2022, la edad del primer hijo ha aumentado cuatro años; la emancipación, al menos dos; la del matrimonio, siete; y se empieza a trabajar más tarde. Es "insostenible"</description>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tengo una hora libre el mes que viene: cómo hemos matado la espontaneidad en los planes</title>
+      <link>https://www.elconfidencial.com/cultura/2024-02-04/horas-libres-mes-matado-espontaneidad-planes_3822952/</link>
+      <description>Hoy es imposible quedar con nadie sin enviar una instancia con semanas de antelación o acudir a un restaurante sin reserva. La planificación ha acabado con lo improvisado</description>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Es imposible escapar: por qué ves mochilas de Basic-Fit por todas partes</title>
+      <link>https://www.elconfidencial.com/empresas/2024-02-02/por-que-ves-mochilas-basic-fit-todas-partes_3822179/</link>
+      <description>El regalo que se concede a los socios de la franquicia es muchas cosas: una genialidad de 'marketing', un icono pop irónico y un símbolo del pragmatismo de clase trabajadora</description>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Precarios pijos: hay gente que vive igual de mal que tú que pronto vivirá mejor</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-21/precarios-pijos-gente-vive-mal-vivira-mejor_3812750/</link>
+      <description>Pasar unos años malviviendo en empleos mal pagados aparentando precariedad ha pasado a ser una de las experiencias obligatorias para los pijos, que así obtienen su legitimidad</description>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los jóvenes españoles lo hacen todo cuatro años después que sus padres: Llegas tarde a todo</title>
+      <link>https://www.elconfidencial.com/espana/2024-01-28/jovenes-espanoles-hacen-anos-mas-tarde-padres_3818561/</link>
+      <description>Entre 1992 y 2022, la edad del primer hijo ha aumentado cuatro años; la emancipación, al menos dos; la del matrimonio, siete; y se empieza a trabajar más tarde. Es "insostenible"</description>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Precarios pijos: hay gente que vive igual de mal que tú que pronto vivirá mucho mejor</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-21/precarios-pijos-gente-vive-mal-vivira-mejor_3812750/</link>
+      <description>Pasar unos años malviviendo en empleos mal pagados aparentando precariedad ha pasado a ser una de las experiencias obligatorias para los pijos, que así obtienen su legitimidad</description>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>No sabemos cuántos suicidios hay en España: son más de los que nos dicen</title>
+      <link>https://www.alimente.elconfidencial.com/bienestar/2024-01-14/no-sabemos-cuantos-suicidios-espana-son-mas_3809977/</link>
+      <description>Todos los expertos se ponen de acuerdo en que los suicidios están subnotificados: hay razones burocráticas, económicas y técnicas que están ocultando el número real de suicidios</description>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tres explicaciones sobre el antifeminismo de los jóvenes que no gustarán a nadie</title>
+      <link>https://www.elconfidencial.com/espana/2024-01-20/explicaciones-antifeminismo-jovenes-espana_3814454/</link>
+      <description>Las actitudes feministas están mucho más aceptadas ahora que en cualquier otro momento de la historia. ¿Por qué entonces parece que el antifeminismo ha vuelto?</description>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>No sabemos cuántos suicidios hay en España, pero sí que son más de lo que nos dicen</title>
+      <link>https://www.alimente.elconfidencial.com/bienestar/2024-01-14/no-sabemos-cuantos-suicidios-espana-son-mas_3809977/</link>
+      <description>Todos los expertos se ponen de acuerdo en que los suicidios están subnotificados: hay razones burocráticas, económicas y técnicas que están ocultando el número real de suicidios</description>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cuando la utopía se convierte en distopía: las otras ciudades de 15 minutos</title>
+      <link>https://www.elconfidencial.com/alma-corazon-vida/2024-01-08/utopias-urbanas-distopias-ciudades-15-minutos_3801866/</link>
+      <description>El trabajo de tres investigadores de la universidad de Bristol examina el lado oscuro del urbanismo para preguntarse si todo es tan bonito como parece en las nuevas propuestas</description>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pero por qué nos ponemos tan elegantes para tirarnos las copas encima</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-31/por-que-nos-ponemos-elegantes-tirarnos-copas_3802418/</link>
+      <description>Hay una ley infalible: cuanto más guapos nos menos, más probabilidades hay de que terminemos llenos de lamparones, cubata y otras cosas peores al final de la noche</description>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oh, no, otra vez lo mismo de todos los años: una teoría sobre por qué nos agota la Navidad</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-24/otra-vez-mismo-anos-teoria-agota-navidad_3800365/</link>
+      <description>La Navidad nos cansa porque nos promete que todo va a ser siempre igual, lo que no hace más que recordarnos todas las cosas que hemos perdido y nunca podremos recuperar</description>
+      <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hablan los 'negros' de los políticos: Somos como terroristas, solo reportamos a la cúpula</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-16/libros-politicos-negros-literarios_3793448/</link>
+      <description>De día, ostentan trabajos como periodistas o escritores con obra propia. De noche, ayudan a nuestros dirigentes a escribir sus biografías. Así funciona este trabajo, siempre en la sombra</description>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La lotería en la que los ricos siempre ganan: el dinero te presta lo que la genética no te da</title>
+      <link>https://www.elconfidencial.com/tecnologia/ciencia/2023-12-22/loteria-en-la-que-los-ricos-siempre-ganan_3795588/</link>
+      <description>Una nueva investigación muestra que aunque no ganes en la lotería genética, no importa si ya lo has hecho en la socioeconómica. ¿Cómo influyen nuestros genes en nuestro éxito?</description>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apartamento en Villaverde, a 5 minutos de Sol: cómo Airbnb entra en los barrios</title>
+      <link>https://www.elconfidencial.com/espana/madrid/2023-12-12/apartamento-villaverde-cinco-minutos-sol-airbnb_3789015/</link>
+      <description>Una nueva investigación muestra qué clase de estrategias utilizan los anfitriones en los barrios de la periferia para competir con los alojamientos hoteleros del centro</description>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esa maldita gente normal que hace cosas de gente normal</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-17/maldita-gente-normal-hace-cosas-gente-normal_3793361/</link>
+      <description>Los borregos que abarrotan las calles siempre son los demás. Pero todos formamos parte de la masa en un momento u otro: todos nos parecemos más de lo que nos gusta creer</description>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los 'antiprohibicionistas' de los móviles responden: Quitarlo hasta los 14 es peor</title>
+      <link>https://www.elconfidencial.com/alma-corazon-vida/2023-12-06/antiprohibicionistas-moviles-ninos-quitarselo-peor_3785936/</link>
+      <description>Frente a los padres que reclaman retrasar la entrega de los 'smartphones' todo lo posible, los expertos y otros progenitores consideran que es como matar moscas a cañonazos</description>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apartamento en Villaverde, a cinco minutos de Sol: cómo Airbnb penetra en los barrios obreros</title>
+      <link>https://www.elconfidencial.com/espana/madrid/2023-12-12/apartamento-villaverde-cinco-minutos-sol-airbnb_3789015/</link>
+      <description>Una nueva investigación muestra qué clase de estrategias utilizan los anfitriones en los barrios de la periferia para competir con los alojamientos hoteleros del centro</description>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La hipótesis de dos psicólogos de Oxford: hablar más de salud mental la empeora</title>
+      <link>https://www.alimente.elconfidencial.com/bienestar/2023-12-04/hipotesis-psicologos-oxford-salud-mental_3784175/</link>
+      <description>Después de visitar colegios donde se impartían programas de psicología, Lucy Faulkes y Jack Andrews se dieron cuenta de que algunos alumnos estaban peor. ¿Qué había pasado?</description>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esa gente que puede permitirse el lujo de no tener pareja después de los 40</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-10/gente-permitirse-lujo-no-tener-pareja-despues-40_3787837/</link>
+      <description>Hay una glorificación de la soledad por parte de aquellos que pueden permitírselo: la mayoría de la gente no puede vivir sola por razones económicas, psicológicas o materiales</description>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los 'antiprohibicionistas' de los móviles responden: Quitárselo hasta los 14 es peor</title>
+      <link>https://www.elconfidencial.com/alma-corazon-vida/2023-12-06/antiprohibicionistas-moviles-ninos-quitarselo-peor_3785936/</link>
+      <description>Frente a los padres que reclaman retrasar la entrega de los 'smartphones' todo lo posible, los expertos y otros progenitores consideran que es como matar moscas a cañonazos</description>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La hipótesis de dos psicólogos de Oxford: hablar más de salud mental empeora nuestra salud mental</title>
+      <link>https://www.alimente.elconfidencial.com/bienestar/2023-12-04/hipotesis-psicologos-oxford-salud-mental_3784175/</link>
+      <description>Después de visitar colegios donde se impartían programas de psicología, Lucy Faulkes y Jack Andrews se dieron cuenta de que algunos alumnos estaban peor. ¿Qué había pasado?</description>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En contra de marcharse de los sitios con elegancia: es peor ser un bienqueda</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-26/en-contra-saber-marcharse-elegancia-bienqueda_3780374/</link>
+      <description>La idea de que hay que despedirse con elegancia solo beneficia a los mismos de siempre: los abusones que quieren que nada cambie</description>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Las 10 reglas del juego de las oficinitas: Di cosas en inglés y que parezcas liado</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-24/reglas-ganar-juego-oficinitas-beatriz-serrano_3779597/</link>
+      <description>La periodista Beatriz Serrano dibuja en su última novela uno de los retratos más lúcidos de las miserias del empleo, que nos ha convertido en actores de un teatro absurdo</description>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cómo han cambiado los números 1 en España desde 1980</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-21/numeros-uno-espana-desde-1980-hasta-actualidad_3774320/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esa gente que cambia de pareja cada seis meses porque se aburre</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-18/gente-cambia-pareja-seis-meses-aburrimiento_3775281/</link>
+      <description>Dejamos libros a medias, series sin terminar, el plato a medias y las relaciones cuando nos aburren. En la Sociedad de los Comienzos repetimos inicios sin llegar al fondo de las cosas</description>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En España va a haber más perros que niños, ¿y qué?</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-12/espana-mas-perros-ninos-y-que_3771694/</link>
+      <description>El discurso natalista apocalíptico se lleva las manos a la cabeza ante el aumento del número de perros, pero es la consecuencia lógica de determinados cambios sociales y económicos</description>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los jóvenes ya no creen en el trabajo: La vida no puede ser esta estafa piramidal</title>
+      <link>https://www.elconfidencial.com/espana/2023-11-07/jovenes-no-creen-trabajo-padres-mataron-echar_3767269/</link>
+      <description>Los nacidos en los noventa mantienen una relación con el empleo muy distinta a la de sus padres. Hablamos con sociólogos, economistas, expertos de RRHH y jóvenes para saber por qué</description>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A favor de grabar con el móvil en los conciertos</title>
+      <link>https://www.elconfidencial.com/cultura/2023-10-29/a-favor-grabar-movil-conciertos_3762926/</link>
+      <description>Disfruto compartiendo lo que me emociona, dando a conocer lo que me parece valioso y estableciendo conversaciones alrededor de la música a través de los vídeos</description>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Por qué compramos más libros de los que podemos leer</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-03/por-que-compramos-mas-libros-podemos-leer_3785693/</link>
+      <description>Hacerse con un libro es, ante todo, comprar la promesa de un tiempo futuro en el que tendremos tiempo para leerlo</description>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacia un futuro sin calvos: Los hombres buscan la aprobación de otros hombres</title>
+      <link>https://www.alimente.elconfidencial.com/bienestar/2023-11-25/futuro-sin-calvos-espana-hombres-aprobacion_3778390/</link>
+      <description>Hoy todos conocemos a alguien que ha pasado por el quirófano para trasplantarse pelo. Hay razones, no solo económicas, para que el 'boom' se produzca ahora y no en otro momento</description>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nuevos documentos sobre JFK: Robert creía en la conspiración</title>
+      <link>https://www.elconfidencial.com/mundo/2023-11-22/nuevos-documentos-sobre-el-caso-kennedy-robert-creia-en-la-teoria-de-la-conspiracion_246272/</link>
+      <description>En 2014, Howard P. Willens, autor de 'La historia demostrará que tenemos razón', publica una novela con motivo del 50 aniversario del final de la investigación, que incluiría documentos clave</description>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Si me cambio de piso, será a algo peor: por qué cada vez vivimos en menos m²</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2023-11-19/si-cambio-piso-peor-vivimos-menos-espacio_3776330/</link>
+      <description>En Madrid, un presupuesto de 800 euros te permitía alquilar en 2015 una vivienda de 80 metros. Hoy serían 65. Los cambios están afectando también a cómo se construye</description>
+      <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los hombres están explotados: la Biblia antifeminista escrita por una mujer</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-12/esther-vilar-hombre-domado-biblia-antifeminista_3770493/</link>
+      <description>Cincuenta años después de su primera edición, y tras mucho tiempo sin estar disponible, Deusto reedita 'El varón domado', un libro que reventó la España del tardofranquismo</description>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Este investigador  español del MIT explica por qué vas a ver cada vez más a tu ex</title>
+      <link>https://www.elconfidencial.com/tecnologia/ciencia/2023-11-09/esteban-moro-mit-ciudad-encontrarte-ex_3768725/</link>
+      <description>Un estudio publicado en 'Nature' muestra cómo ha cambiado en los últimos años nuestro comportamiento en la ciudad: vivimos en burbujas. Hablamos con uno de sus autores</description>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esos profesores que odian a sus alumnos (son minoría, pero nos encantan)</title>
+      <link>https://www.elconfidencial.com/cultura/2023-11-05/esos-profesores-odian-alumnos-minoria-encantan_3766319/</link>
+      <description>Nos encanta dar voz a los docentes desencantados, frustrados o quemados que piensan que la educación se ha echado a perder. Lo sé porque yo mismo lo he hecho: venden bien</description>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hablan los 'negros' de los políticos: Somos como terroristas; solo reportamos a la cúpula</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-16/libros-politicos-negros-literarios_3793448/</link>
+      <description>De día, ostentan trabajos como periodistas o escritores con obra propia. De noche, ayudan a nuestros dirigentes a escribir sus biografías. Así funciona este trabajo, siempre en la sombra</description>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La plaza de tu pueblo no es el Rockefeller Center: todas las ciudades se parecen en Navidad</title>
+      <link>https://www.elconfidencial.com/espana/2023-12-31/por-que-ciudades-se-parecen-navidad_3802897/</link>
+      <description>Londres, Nueva York, Madrid o Palos de Moguer, todas las ciudades se parecen durante estas fechas, solo que a distinta escala: pistas de hielo, árboles gigantes y mercadillos de madera</description>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La España de 2023, explicada por los chocorreznos, la churroburger y las pizzas de oreja</title>
+      <link>https://www.alimente.elconfidencial.com/gastronomia-y-cocina/2023-12-26/espana-chocorreznos-churroburger-pizzas-oreja_3796611/</link>
+      <description>Si un viajero del futuro quisiera entender nuestra sociedad, haría bien en fijarse en la gastronomía extrema que se ha puesto de moda: es el 'zeitgeist' de nuestra era</description>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La lotería en la que los ricos siempre ganan</title>
+      <link>https://www.elconfidencial.com/tecnologia/ciencia/2023-12-22/loteria-en-la-que-los-ricos-siempre-ganan_3795588/</link>
+      <description>Una nueva investigación muestra que aunque no ganes en la lotería genética, no importa si ya lo has hecho en la socioeconómica. ¿Cómo influyen nuestros genes en nuestro éxito?</description>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>España, explicada por los chocorreznos, la churroburger y las pizzas de oreja</title>
+      <link>https://www.alimente.elconfidencial.com/gastronomia-y-cocina/2023-12-26/espana-chocorreznos-churroburger-pizzas-oreja_3796611/</link>
+      <description>Si un viajero del futuro quisiera entender nuestra sociedad, haría bien en fijarse en la gastronomía extrema que se ha puesto de moda: es el 'zeitgeist' de nuestra era</description>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Madrid está llena de gente que no debería estar en Madrid</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-14/madrid-llena-gente-no-deberia-estar-madrid_3808880/</link>
+      <description>Cada año, miles de españoles se dan cuenta al terminar la Navidad y coger el tren a la capital que en realidad no quieren estar ahí, pero no tienen escapatoria</description>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Por qué todas las ciudades se parecen en Navidad</title>
+      <link>https://www.elconfidencial.com/espana/2023-12-31/por-que-ciudades-se-parecen-navidad_3802897/</link>
+      <description>Londres, Nueva York, Madrid o Palos de la Frontera, todas las ciudades se parecen durante estas fechas, solo que a distinta escala: pistas de hielo, árboles gigantes y mercadillos de madera</description>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cuando las utopías urbanas se convierten en distopías: las otras ciudades de 15 minutos</title>
+      <link>https://www.elconfidencial.com/alma-corazon-vida/2024-01-08/utopias-urbanas-distopias-ciudades-15-minutos_3801866/</link>
+      <description>El trabajo de tres investigadores de la universidad de Bristol examina el lado oscuro del urbanismo para preguntarse si todo es tan bonito como parece en las nuevas propuestas</description>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia? Una propuesta con la que nadie se atreve</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pero por qué los políticos no llevan a sus hijos a colegios públicos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-27/por-que-politicos-no-llevan-hijos-colegios-publicos_3817111/</link>
+      <description>No es que nuestros mandatarios metan a sus hijos en colegios privados, es que la clase de gente que llega al poder es la que suele meter a sus hijos en colegios privados</description>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La trampa que atrapa a miles de autónomos: Cuando la tarifa suba, no sé si podré seguir</title>
+      <link>https://www.elconfidencial.com/economia/2024-02-10/trampa-atrapa-miles-autonomos-tarifa-plana_3823186/</link>
+      <description>Muchos de los trabajadores por cuenta propia a los que les va bien por ahora no saben qué ocurrirá cuando se acabe la tarifa plana: "No sé si podré hacer frente a tantos gastos"</description>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los jóvenes son antifeministas porque creen que salen perdiendo en el mercado laboral</title>
+      <link>https://www.elconfidencial.com/economia/2024-02-13/entrevista-gefjon-off-jovenes-oponen-feminismo-mercado-laboral_3825354/</link>
+      <description>¿Por qué los jóvenes tienen más posiciones antifeministas en el trabajo que sus mayores? Porque consideran a las mujeres su competencia en un mercado precario, explica una investigación</description>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una trampa para miles de autónomos: Cuando la tarifa suba, no sé qué pasará</title>
+      <link>https://www.elconfidencial.com/economia/2024-02-10/trampa-atrapa-miles-autonomos-tarifa-plana_3823186/</link>
+      <description>Muchos de los trabajadores por cuenta propia a los que les va bien por ahora no saben qué ocurrirá cuando se acabe la tarifa plana: "No sé si podré hacer frente a tantos gastos"</description>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Es una revelación: la teoría del siglo pasado que está cambiando nuestras relaciones personales</title>
+      <link>https://www.elconfidencial.com/alma-corazon-vida/2024-02-14/teoria-apego-john-bowly-ingles-abandonado_3827795/</link>
+      <description>"Apego ansioso", "apego evitativo", "apego desorganizado"... Estas categorías están en boca de todos los jóvenes hoy. Pero ¿cómo ha llegado una vieja teoría a ponerse tan de moda?</description>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cuando buscar trabajo es humillante: Con cada entrevista, te hundes un poco más</title>
+      <link>https://www.elconfidencial.com/economia/2024-02-19/buscar-trabajo-humillante-entrevista-hundirte_3832031/</link>
+      <description>Un mercado laboral con mucha oferta, la tecnología o la automatización y externalización han provocado que los procesos sean cada vez más largos y duros</description>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cómo una teoría de hace un siglo ha cambiado nuestras relaciones personales</title>
+      <link>https://www.elconfidencial.com/alma-corazon-vida/2024-02-14/teoria-apego-john-bowly-ingles-abandonado_3827795/</link>
+      <description>"Apego ansioso", "apego evitativo", "apego desorganizado"... Estas categorías están en boca de todos los jóvenes hoy. Pero ¿cómo ha llegado una vieja teoría a ponerse tan de moda?</description>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Otro año de peleas por la jornada escolar: Vamos a seguir hasta que salga lo que quieren</title>
+      <link>https://www.elconfidencial.com/espana/2024-02-24/votacion-jornada-escolar-partida-continua_3835170/</link>
+      <description>En algunos centros llevan votando sin éxito casi una década la posibilidad de cambiar de partida a continua, lo que ha disparado las tensiones entre padres, familias y profesores</description>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cuando buscar trabajo es humillante: Con cada entrevista, te hundes más</title>
+      <link>https://www.elconfidencial.com/economia/2024-02-19/buscar-trabajo-humillante-entrevista-hundirte_3832031/</link>
+      <description>Un mercado laboral con mucha oferta, la tecnología o la automatización y externalización han provocado que los procesos sean cada vez más largos y duros</description>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Y si el SMI subiese en Madrid pero no en Murcia?</title>
+      <link>https://www.elconfidencial.com/economia/2024-01-19/smi-diferencia-madrid-murcia_3813591/</link>
+      <description>La política no se ha atrevido a dar el paso, pero en el mundo académico hay cada vez más unanimidad sobre la necesidad de establecer distintos salarios mínimos por región</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Dónde estabas tú cuando el 11-M? Incluso 20 años después, siguen recordando cada detalle</title>
+      <link>https://www.elconfidencial.com/espana/especial-decimo-aniversario-11-m/2024-03-03/donde-estabas-el-11m-veinte-anos-despues_3839963/</link>
+      <description>No importa el tiempo que haya pasado desde el día más sangriento de la historia reciente de España. Sus protagonistas involuntarios siguen teniéndolo todo grabado en su mente</description>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La IA puede hacer lo que un profesor: opositar va a ser cada vez más barato</title>
+      <link>https://www.elconfidencial.com/tecnologia/2024-02-28/oposiciones-mas-barato-ia-profesor_3837790/</link>
+      <description>Los avances tecnológicos han provocado la aparición de nuevas formas de preparación mucho más baratas que han roto el mercado y tirado los precios</description>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Por qué no puedes dejar de hablar de ti mismo: la teoría del botijo invertido</title>
+      <link>https://www.elconfidencial.com/cultura/2024-02-24/teoria-botijo-invertido-capaces-hablar-nosotros_3835931/</link>
+      <description>La cantidad de cosas interesantes que podemos decir es limitada, así que si tenemos que producir contenido sin parar, terminamos hablando de lo que mejor conocemos: nosotros</description>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La nueva masculinidad es ser guapo y leer libros</title>
+      <link>https://www.elconfidencial.com/cultura/2024-03-03/nueva-masculinidad-guapo-leer-libros_3839443/</link>
+      <description>Me parecen bien los guapos. Me parece bien que a la gente le gusten los guapos. Lo que me agota es intentar justificar que nos gustan los guapos por otros motivos</description>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Otro año de peleas por la jornada escolar: No pararemos hasta que salga continua</title>
+      <link>https://www.elconfidencial.com/espana/2024-02-24/votacion-jornada-escolar-partida-continua_3835170/</link>
+      <description>En algunos centros llevan votando sin éxito casi una década la posibilidad de cambiar de partida a continua, lo que ha disparado las tensiones entre padres, familias y profesores</description>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cuando tener un hijo te hace pobre: Es uno de los caprichos más caros</title>
       <link>https://www.elconfidencial.com/economia/2024-03-03/tener-hijo-pobre-ser-padre-capricho-caro_3840978/</link>
       <description>Los niveles de pobreza bajan en toda España, menos en un sector concreto: los menores de edad. Tener hijos cada vez obliga a gastar más (y vivir peor)</description>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>¡Viva el conformismo! Quién querría ser escritor pudiendo limpiar váteres</title>
-      <link>https://www.elconfidencial.com/cultura/2024-03-09/viva-conformismo-escritor-limpiar-vateres_3843755/</link>
-      <description>Durante mucho tiempo, conformarse ha sido lo peor que alguien podía hacer. Hoy es visto como la única salida posible ante la hipertrofia de expectativas de la vida moderna</description>
-      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esa gente que tiene tantas cosas que hacer que se mete en la cama a las diez</title>
-      <link>https://www.elconfidencial.com/cultura/2024-03-17/esa-gente-tantas-cosas-duerme-diez-noche_3848968/</link>
-      <description>Cada vez me encuentro con más personas que terminan el día tan agotadas que se sienten incapaces de hacer nada que no sea meterse en la cama y descansar</description>
-      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El chaval que flipa con Led Zeppelin explica por qué la música vieja sigue ahí</title>
+      <title>El éxito del chaval que flipa con Led Zeppelin explica por qué la música vieja sigue oyéndose</title>
       <link>https://www.elconfidencial.com/cultura/2024-03-10/exito-oscargg-led-zeppelin-musica-vieja_3845225/</link>
       <description>Con más de un millón de seguidores, Oscargg ha mostrado que se puede ser veintañero, tiktoker y hacerse famoso hablando de los Beatles. Analizamos este nuevo eclecticismo</description>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>No voy a responder a tu Whatsapp porque si contesto me vas a volver a escribir</title>
-      <link>https://www.elconfidencial.com/cultura/2024-04-06/no-responder-whatsapp-contesto-volver-escribir_3860433/</link>
-      <description>Responder a un mensaje no acaba con la catarata de mensajes: solo nos lleva a recibir más mensajes. Así que hay quien ha decidido convertirse en insumiso y no responder más</description>
-      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Lucía mejor que Daniel: un experimento muestra los favoritismos de los profes</title>
+      <link>https://www.elconfidencial.com/espana/2024-03-13/lucia-daniel-experimento-profesores-espanoles_3847466/</link>
+      <description>Un trabajo publicado por la Comisión Europea muestra los sesgos de los docentes: tienden a poner más nota a las chicas, los alumnos inmigrantes y los de nivel cultural más alto</description>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Muchos jóvenes no se definen como heterosexuales porque se ve desfasado</title>
+      <title>La vida de una procuradora de 81 años: Con dos encargos ya saco más que la pensión</title>
+      <link>https://www.elconfidencial.com/juridico/2024-03-18/vida-procuradora-81-anos-mutua_3849301/</link>
+      <description>Alicia Ramírez se ha convertido en la cara visible de la plataforma J2. Como ella, muchos abogados y procuradores tienen que seguir trabajando tras los 80 o enfermos para que les salgan las cuentas</description>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lucía mejor que Daniel: un estudio muestra los favoritismos de los profes</title>
+      <link>https://www.elconfidencial.com/espana/2024-03-13/lucia-daniel-experimento-profesores-espanoles_3847466/</link>
+      <description>Un trabajo publicado por la Comisión Europea muestra los sesgos de los docentes: tienden a poner más nota a las chicas, los alumnos inmigrantes y los de nivel cultural más alto</description>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>No me pidas que elija qué vamos a cenar hoy: todo el maldito día tomando decisiones</title>
+      <link>https://www.elconfidencial.com/cultura/2024-03-23/no-me-pidas-elija-que-vamos-cenar-decisiones_3853041/</link>
+      <description>Solo podemos responder un número limitado de preguntas al día. A partir de ahí, solo tomamos malas decisiones</description>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Y España entera se convirtió en un restaurante donde puedes hacer cualquier cosa comiendo</title>
+      <link>https://www.alimente.elconfidencial.com/gastronomia-y-cocina/2024-03-25/espana-convirtio-restaurante-comer-beber_3853534/</link>
+      <description>Las fronteras entre trabajo, ocio y labores del hogar ha desaparecido en la España-restaurante. Hoy puedes hacer cualquier cosa en nuestro país mientras te alimentas</description>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una procuradora de 81 años: Con dos cosas ya saco más que la pensión</title>
+      <link>https://www.elconfidencial.com/juridico/2024-03-18/vida-procuradora-81-anos-mutua_3849301/</link>
+      <description>Alicia Ramírez se ha convertido en la cara visible de la plataforma J2. Como ella, muchos abogados y procuradores tienen que seguir trabajando tras los 80 o enfermos para que les salgan las cuentas</description>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La crítica literaria de los 90 iba bien fuerte: Es un libro corto, pero ni lo he empezado</title>
+      <link>https://www.elconfidencial.com/cultura/2024-03-27/critica-literaria-90-libro-corto-bien-fuerte_3855910/</link>
+      <description>"Las cosas que hace 30 años eran aceptables ya no lo son": Miguel Alcázar recopila los especímenes más extraños de la crítica literaria de los irrepetibles años noventa</description>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>No me pidas que elija qué vamos a cenar hoy: todo el día tomando decisiones</title>
+      <link>https://www.elconfidencial.com/cultura/2024-03-23/no-me-pidas-elija-que-vamos-cenar-decisiones_3853041/</link>
+      <description>Solo podemos responder un número limitado de preguntas al día. A partir de ahí, solo tomamos malas decisiones</description>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Muchos jóvenes no se definen como heterosexuales porque se ve como algo desfasado</title>
       <link>https://www.elconfidencial.com/cultura/2024-03-29/entrevista-darian-leader-sexo-heterosexuales_3856256/</link>
       <description>El psicoanalista autor de '¿Qué es la locura?' dedica su último trabajo, 'Nunca es solo sexo', a entender a través del sexo nuestros miedos, comportamientos y las convenciones sociales del tiempo moderno</description>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>No cabe un evento literario más en España: Muchos escritores estamos a punto de petar</title>
-      <link>https://www.elconfidencial.com/cultura/2024-04-09/boom-evento-literario-espana-escritores-petar_3861161/</link>
-      <description>Los escritores emergentes son el carburante de un engranaje de editoriales, librerías y autores que ha producido un 'boom' de eventos literarios como si fuesen festivales musicales</description>
-      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Y España se convirtió en un restaurante donde puedes hacer lo que sea comiendo</title>
+      <link>https://www.alimente.elconfidencial.com/gastronomia-y-cocina/2024-03-25/espana-convirtio-restaurante-comer-beber_3853534/</link>
+      <description>Las fronteras entre trabajo, ocio y labores del hogar ha desaparecido en la España-restaurante. Hoy puedes hacer cualquier cosa en nuestro país mientras te alimentas</description>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Esa gente a la que le gustaba leer y que hoy es incapaz de hacerlo</title>
-      <link>https://www.elconfidencial.com/cultura/2024-04-14/gente-gustaba-leer-incapaz-hacerlo_3865993/</link>
-      <description>Me da miedo la cantidad de gente culta y lectora que últimamente es incapaz de sentarse a leer un libro: se aburren, se ponen nerviosos y no son capaces de avanzar</description>
-      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Cuántas personas conoces que hayan renunciado a ser turistas</title>
+      <link>https://www.elconfidencial.com/cultura/2024-03-31/cuantas-personas-conoces-renunciado-turistas_3855143/</link>
+      <description>Lo sufrimos pero no estamos dispuestos a renunciar a él: el turismo es un mecanismo indispensable para consentir nuestro cansancio a cambio de unas buenas vacaciones</description>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>No cabe un evento literario más: Muchos escritores estamos a punto de petar</title>
-      <link>https://www.elconfidencial.com/cultura/2024-04-09/boom-evento-literario-espana-escritores-petar_3861161/</link>
-      <description>Los escritores emergentes son el carburante de un engranaje de editoriales, librerías y autores que ha producido un 'boom' de eventos literarios como si fuesen festivales musicales</description>
-      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+      <title>La crítica literaria de los 90 iba fuerte: Es un libro corto, pero ni lo he empezado</title>
+      <link>https://www.elconfidencial.com/cultura/2024-03-27/critica-literaria-90-libro-corto-bien-fuerte_3855910/</link>
+      <description>"Las cosas que hace 30 años eran aceptables ya no lo son": Miguel Alcázar recopila los especímenes más extraños de la crítica literaria de los irrepetibles años noventa</description>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Esa gente que no puede permitirse calmarse porque no le da la vida</title>
-      <link>https://www.elconfidencial.com/cultura/2024-04-28/gente-no-puede-permitirse-calmarse-no-da-vida_3874236/</link>
-      <description>Cuando miro a mi alrededor, veo gente nerviosa, moviéndose con prisa, tirando cosas y tropezándose. Solo los privilegiados pueden permitirse la calma, el silencio y la pausa</description>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <title>España se ha dado cuenta de su problema con el alcohol: Dos cervezas al día normal no es</title>
+      <link>https://www.alimente.elconfidencial.com/bienestar/2024-04-13/espana-problema-alcohol-cervezas_3864170/</link>
+      <description>Nunca antes había habido tantos testimonios sobre el consumo del alcohol en España: hablamos con tres exalcohólicos para ayudar a entender por qué bebemos tanto</description>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El limbo de los inspectores: Llevamos nueve meses cobrando sin trabajar</title>
+      <title>No voy a responder a tu WhatsApp porque si contesto vas a volver a escribir</title>
+      <link>https://www.elconfidencial.com/cultura/2024-04-06/no-responder-whatsapp-contesto-volver-escribir_3860433/</link>
+      <description>Responder a un mensaje no acaba con la catarata de mensajes: solo nos lleva a recibir más mensajes. Así que hay quien ha decidido convertirse en insumiso y no responder más</description>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los nuevos inspectores caen en el limbo: Llevamos nueve meses cobrando sin trabajar</title>
       <link>https://www.elconfidencial.com/economia/2024-04-17/nuevos-inspectores-limbo-meses-cobrar-trabajar_3867583/</link>
       <description>La promoción de la convocatoria de 2021 denuncia que aún no han confirmado sus destinos: llevan casi un año sin poder incorporarse y cobrando un sueldo de prácticas</description>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pero por qué le molesta tanto a la gente que le digan que beber todos los días no es normal</title>
-      <link>https://www.elconfidencial.com/cultura/2024-05-04/por-que-molesta-gente-digan-beber-todos-dias_3876315/</link>
-      <description>Cuando se pone en cuestión nuestro consumo alcohólico nos ponemos a la defensiva, porque es como atacar nuestro estilo de vida: los que tienen problemas son siempre los demás</description>
-      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      <title>España tiene un problema con el alcohol: Dos cervezas al día normal no es</title>
+      <link>https://www.alimente.elconfidencial.com/bienestar/2024-04-13/espana-problema-alcohol-cervezas_3864170/</link>
+      <description>Nunca antes había habido tantos testimonios sobre el consumo del alcohol en España: hablamos con tres exalcohólicos para ayudar a entender por qué bebemos tanto</description>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>De roaming' para todos a la democracia peligra: Europa y el motor del recuerdo</title>
+      <title>Cómo los hombres nos escaqueamos para que las mujeres hagan el trabajo sucio</title>
+      <link>https://www.elconfidencial.com/cultura/2024-04-20/como-hombres-escaqueo-mujeres-trabajo-sucio_3870104/</link>
+      <description>Una nueva investigación muestra las estrategias que siguen los profesores universitarios para librarse de los marrones: una guía con la que muchos tíos nos sentimos identificados</description>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La UE ya no quiere enamorarte por el 'roaming', sino recordarte que la democracia peligra</title>
       <link>https://www.elconfidencial.com/mundo/2024-04-29/elecciones-europeas-parlamento-campana_3873609/</link>
       <description>La última campaña del Parlamento para las elecciones de junio muestra cómo la UE pretende virar su imagen de una institución económica a un gran bastión democrático</description>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Los que tardamos una hora en llegar a todas partes no permitiremos que se rían de nosotros</title>
-      <link>https://www.elconfidencial.com/cultura/2024-05-12/tardar-hora-llegar-sitios-reirse-nosotros_3880162/</link>
-      <description>Lo que duele no es solo la hora de más que se pierde en el transporte público. Es que es una hora que se emplea una mañana de un lunes en ir a trabajar para ganarnos la vida</description>
-      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <title>Cómo los hombres nos escaqueamos para que ellas hagan el trabajo sucio</title>
+      <link>https://www.elconfidencial.com/cultura/2024-04-20/como-hombres-escaqueo-mujeres-trabajo-sucio_3870104/</link>
+      <description>Una nueva investigación muestra las estrategias que siguen los profesores universitarios para librarse de los marrones: una guía con la que muchos tíos nos sentimos identificados</description>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pero por qué molesta tanto decir que beber todos los días no es normal</title>
-      <link>https://www.elconfidencial.com/cultura/2024-05-04/por-que-molesta-gente-digan-beber-todos-dias_3876315/</link>
-      <description>Cuando se pone en cuestión nuestro consumo alcohólico nos ponemos a la defensiva, porque es como atacar nuestro estilo de vida: los que tienen problemas son siempre los demás</description>
-      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      <title>El psicólogo que odia prohibir los móviles explica por qué no piensa dar uno a su hija</title>
+      <link>https://www.elconfidencial.com/tecnologia/2024-04-30/entrevista-peter-etchells-smartphones-moviles-prohibicion_3874295/</link>
+      <description>El profesor de la Universidad de Bath acaba de publicar 'Unlocked', en el que pone en tela de juicio las investigaciones apocalípticas sobre el uso de "las pantallas" y se posiciona contra la prohibición</description>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El experimento Irvine: cómo una ciudad turística de EEUU logró bajar un 3% los alquileres</title>
-      <link>https://www.elconfidencial.com/mundo/2024-05-16/experimento-irvine-bajar-precio-alquileres_3883447/</link>
-      <description>Uno de los contados trabajos existentes sobre el impacto de AirBnb en el precio de la vivienda muestra que la prohibición del alquiler tiene un gran impacto económico</description>
-      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <title>Cuando los pisos están tan caros que sale mejor una residencia: Por 100€ más lo hacen todo</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2024-05-11/pisos-caros-residencia-estudiantes-boom_3877671/</link>
+      <description>De unos años a esta parte, la inversión en residencias para universitarios se ha disparado: visitamos una de ellas que no tienen nada que ver con los viejos colegios mayores</description>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Los que tardamos una hora en llegar a todas partes estamos enfadados</title>
-      <link>https://www.elconfidencial.com/cultura/2024-05-12/tardar-hora-llegar-sitios-reirse-nosotros_3880162/</link>
-      <description>Lo que duele no es solo la hora de más que se pierde en el transporte público. Es que es una hora que se emplea una mañana de un lunes en ir a trabajar para ganarnos la vida</description>
-      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <title>El psicólogo que odia prohibir los móviles explica por qué no le da uno a su hija</title>
+      <link>https://www.elconfidencial.com/tecnologia/2024-04-30/entrevista-peter-etchells-smartphones-moviles-prohibicion_3874295/</link>
+      <description>El profesor de la Universidad de Bath acaba de publicar 'Unlocked', en el que pone en tela de juicio las investigaciones apocalípticas sobre el uso de "las pantallas" y se posiciona contra la prohibición</description>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Los institutos chungos que los 'profes' evitan por miedo son el síntoma de un problema mayor</title>
-      <link>https://www.elconfidencial.com/espana/madrid/2024-05-25/institutos-dificiles-madrid-profesores-evitan_3889704/</link>
-      <description>Los docentes de la Comunidad de Madrid intercambian información sobre qué colegios evitar. Los expertos creen que esto no ocurriría si la segregación educativa no fuese tan alta</description>
-      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El experimento Irvine: cómo una ciudad turística de EEUU logró bajar alquileres</title>
-      <link>https://www.elconfidencial.com/mundo/2024-05-16/experimento-irvine-bajar-precio-alquileres_3883447/</link>
-      <description>Uno de los contados trabajos existentes sobre el impacto de AirBnb en el precio de la vivienda muestra que la prohibición del alquiler tiene un gran impacto económico</description>
-      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Estoy agotado de Madrid</title>
-      <link>https://www.elconfidencial.com/cultura/2024-05-19/estoy-agotado-madrid_3884731/</link>
-      <description>Me he entretenido contando todas las veces que veía el nombre de la capital en algún sitio y siempre lo hacía al lado de una cerveza</description>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cada vez más gente acumula basura, y es el síntoma de un problema mucho mayor</title>
+      <title>Cada vez más gente acumula basura, y es solo la punta del iceberg de un problema mayor</title>
       <link>https://www.alimente.elconfidencial.com/bienestar/2024-05-13/mas-gente-sindrome-diogenes-basura-problema_3881481/</link>
       <description>Todos conocemos a alguien que, sin que nadie lo supiese, acumuló objetos y basura hasta el límite de lo insalubre. No es una causalidad, es el resultado del "boom" de la soledad</description>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cada vez más jóvenes estudian y trabajan, pero van a petar: Si no hago nada, creo que no sirvo</title>
-      <link>https://www.elconfidencial.com/economia/2024-06-01/sisis-mas-jovenes-estudian-trabajan-petar_3894236/</link>
-      <description>Los sisis, que estudian y trabajan a la vez, han sustituido al nini. Es un síntoma no solo de un cambio de valores, sino también de la transformación del mercado laboral y educativo</description>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <title>Los pisos están tan caros que sale mejor una residencia: Por 100€ más lo prefiero</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2024-05-11/pisos-caros-residencia-estudiantes-boom_3877671/</link>
+      <description>De unos años a esta parte, la inversión en residencias para universitarios se ha disparado: visitamos una de ellas que no tienen nada que ver con los viejos colegios mayores</description>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Por qué no conoces ninguna canción de la artista más escuchada del mundo</title>
+      <title>Por qué no puedes cantar ninguna canción de la artista más escuchada del mundo</title>
       <link>https://www.elconfidencial.com/cultura/2024-05-25/cancion-taylor-swift-artista-mas-escuchada-mundo_3889580/</link>
       <description>Mucha gente se lo pregunta: ¿por qué no conozco ninguna canción de Taylor Swift si tan famosa es? Intentamos responder a la pregunta analizando su música, sus letras y sus referencias culturales</description>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hay demasiada gente en España esperando a que sus padres se mueran</title>
-      <link>https://www.elconfidencial.com/cultura/2024-06-02/gente-espana-padres-muerte-herencia_3892512/</link>
-      <description>Cada vez son más los que se dan cuenta de que no podrán acceder a la vivienda hasta que no reciban una herencia: qué terrible es que tu estabilidad dependa de la vida de tus padres</description>
-      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      <title>Pero por qué resulta cada vez más difícil saber qué edad tiene la gente</title>
+      <link>https://www.elconfidencial.com/cultura/2024-05-26/saber-edad-gente-dificil_3889165/</link>
+      <description>Mi hipótesis: la búsqueda de la eterna juventud ha provocado que entre los 25 y los 65 todo el mundo parezca igual. No es solo apariencia: también hay más adolescentes eternos</description>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Holandeses buscan enfermeras en España por 3.000 al mes: Me voy, quiero estabilidad</title>
-      <link>https://www.elconfidencial.com/mundo/europa/2024-06-04/holandeses-enfermeras-espana-euros-mes_3894220/</link>
-      <description>Países Bajos u otros estados de la unión están intentando captar sanitarios españoles a través de la subvención de cursos y formación: muchas enfermeras no se lo piensan</description>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <title>Los institutos que los 'profes' evitan por miedo ocultan un problema mayor</title>
+      <link>https://www.elconfidencial.com/espana/madrid/2024-05-25/institutos-dificiles-madrid-profesores-evitan_3889704/</link>
+      <description>Los docentes de la Comunidad de Madrid intercambian información sobre qué colegios evitar. Los expertos creen que esto no ocurriría si la segregación educativa no fuese tan alta</description>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esa clase media que va de obrera a la que tanto le molesta que los demás se crean clase media</title>
+      <link>https://www.elconfidencial.com/cultura/2024-06-08/clase-media-obrera-tanto-molesta-clase-media_3897129/</link>
+      <description>La paradoja es que a todo el mundo le gusta ser clase trabajadora menos a la clase trabajadora de verdad. No hay nada más de clase media que aparentar no serlo</description>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
