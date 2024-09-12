@@ -6,7 +6,7 @@
     <description>This is a cool feed!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Sep 2024 08:25:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 08:24:02 +0000</lastBuildDate>
     <item>
       <title>El triunfo de la Selección | Soto Ivars desde su Trinchera </title>
       <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
@@ -26,12 +26,6 @@
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Si Broncano lo hace bien, RTVE cancelará su programa</title>
-      <link>https://www.elconfidencial.com/cultura/2024-09-07/david-broncano-tve-el-hormiguero-la-revuelta_3957229/</link>
-      <description>Por donde pasa Sánchez, los muñecos mueven la boca y la pauta siempre es la misma: dado que Sánchez detesta 'El Hormiguero', emplea recursos públicos para combatirlo</description>
-      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>El triunfo de la Selección | Soto Ivars desde su Trinchera</title>
       <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
@@ -92,6 +86,12 @@
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Esto lo ha escrito un violador en potencia pero también un millonario en potencia</title>
+      <link>https://www.elconfidencial.com/cultura/2024-09-01/hombres-violadores-en-potencia_3952969/</link>
+      <description>Ahora un señor puede llamar "lerda" a una feminista en la tele y no arden las redes, ni la cadena prescinde de él tras un bombardeo de titulares que tildan de machista al insultador como si el desplante hubiera caído del cielo</description>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>El triunfo de la Selección | Soto Ivars desde su Trinchera</title>
       <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
@@ -200,6 +200,36 @@
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Lo más odiado | ¿Tú no votarías a Trump ahora mismo? Yo sin dudarlo un segundo</title>
+      <link>https://www.elconfidencial.com/espana/2024-07-30/podcast-soto-olmos-ivars-mas-odiado_3933231/</link>
+      <description>Alberto Olmos y Juan Soto Ivars han vuelto... pero no por mucho tiempo. Ambos se despiden de la primera temporada de 'Lo más odiado' con un programa especial.</description>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El triunfo de la Selección | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El PSOE de Oceanía nunca robó 680 millones de euros</title>
+      <link>https://www.elconfidencial.com/cultura/2024-07-28/psoe-oceania-1984-orwell_3932516/</link>
+      <description>El "doblepensar", un ejercicio necesario para no sucumbir a la incongruencia. Para "doblepensar" hay que tolerar que una cosa sea cierta y falsa a la vez, prescindir de la lógica y la memoria</description>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El triunfo de la Selección | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Roro no acude al punto violeta</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-07-24/roro-tiktok-influencer-isabel-garcia-punto-violeta_3930664/</link>
+      <description>Si Roro no respeta la imagen de la mujer forjada por el feminismo, que respete nuestros impuestos. Ir en dirección contraria a nuestra carísima propaganda institucional es una forma de corrupción</description>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>El triunfo de la Selección | Soto Ivars desde su Trinchera</title>
       <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
@@ -212,16 +242,22 @@
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El triunfo de la Selección | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <title>In Dubio Pro Bego | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-08/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Tus impuestos van para hospitales, colegios, carreteras y Lo Otro</title>
-      <link>https://www.elconfidencial.com/cultura/2024-07-20/impuestos-hospitales-colegios-carreteras-lo-otro_3928474/</link>
-      <description>Estoy harto de oír que los impuestos están muy bien en boca de quienes, colocando a sus amigos y abusando de las arcas, o siendo ellos mismos los amigos, han convertido al Estado del Bienestar en el Estado de Su Bienestar</description>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      <title>In Dubio Pro Bego | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-08/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un montón de racistas viendo el fútbol</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-07-15/monton-racistas-viendo-futbol_3924592/</link>
+      <description>La gente normal estaba viendo el fútbol mientras los racistas, en Twitter, aseguraban que la gente normal rabia cuando marca un negro</description>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>In Dubio Pro Bego | Soto Ivars desde su Trinchera</title>
@@ -236,10 +272,10 @@
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>In Dubio Pro Bego | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-08/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <title>Dejar el Mad Max de la vivienda: fuera el inquiokupa y muerte al piso turístico</title>
+      <link>https://www.elconfidencial.com/cultura/2024-07-14/mad-max-vivienda-antiokupa-muerte-piso-turistico_3923914/</link>
+      <description>Algunos propietarios están alquilando sus pisos por un máximo de once meses para poder saltarse a la torera la ley, pero otros, dado que no sienten que hay seguridad jurídica, se niegan a poner sus pisos en el mercado</description>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>In Dubio Pro Bego | Soto Ivars desde su Trinchera</title>
@@ -248,10 +284,10 @@
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>In Dubio Pro Bego | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-08/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <title>Nacho Cano peloteó al líder equivocado</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-07-11/nacho-cano-peloteo-lider-equivocado-detencion-explotacion-inmigrantes_3921921/</link>
+      <description>Imaginemos ahora que en España gobernase el PP, que en la Comunidad de Madrid gobernase el PSOE, y que Nacho Cano hubiera manifestado su amor incondicional por un político progre. ¿Qué estaríamos leyendo hoy?</description>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>In Dubio Pro Bego | Soto Ivars desde su Trinchera</title>
@@ -260,10 +296,46 @@
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El orgullo también es nuestro: qué hace un hetero celebrando</title>
-      <link>https://www.elconfidencial.com/cultura/2024-07-06/dia-orgullo-gay-lgbt-heterosexual-homosexual_3918683/</link>
-      <description>Heteros y homosexuales no somos más que gente que va por ahí buscando un poco de amor. Todo lo demás es parafernalia</description>
-      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La cultura de la cancelación novelada por el guionista de 'Birdman'</title>
+      <link>https://www.elconfidencial.com/cultura/2024-07-04/cultura-cancelacion-novelada-guionista-birdman_3916888/</link>
+      <description>El autor argentino Nicolás Giacobone, más conocido como guionista, publica 'Los impotentes'</description>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A las instituciones españolas les están saliendo apellidos</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-07-03/cis-tezanos-constitucional-pumpido-psoe_3915808/</link>
+      <description>Bajo el paraguas de los ministerios prolifera una fauna de apellidos en forma de asesorías, observatorios y chanfainas públicas variadas, de forma que el sanchismo permea hasta los huesos del Estado y le proporciona nueva forma</description>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Ley Hughes: alcanzar la elocuencia con información incompleta</title>
+      <link>https://www.elconfidencial.com/cultura/2024-06-23/ley-hughes-alcanzar-elocuencia-informacion-incompleta_3908813/</link>
+      <description>Pensando en las carencias del artículo, llamaré "Ley Hughes" a esa actitud en la que todos los columnistas que tratamos de escribir con gracia y elocuencia caemos alguna que otra vez</description>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
@@ -284,18 +356,6 @@
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lo más odiado |  ¿Qué diferencia a Alvise, Llados y Sánchez? Es lo mismo en esencia</title>
-      <link>https://www.elconfidencial.com/espana/2024-06-19/diferencia-alvise-llados-sanchez_3904938/</link>
-      <description>Juan Soto Ivars y Alberto Olmos están de vuelta. Y lo hacen hablando, como no, del gran fenómeno político que nos han dejado las últimas elecciones</description>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lo más odiado | Es demasiado tarde para hablar de inmigración</title>
-      <link>https://www.elconfidencial.com/espana/2024-07-02/podcast-odiado-inmigracion-tarde_3914922/</link>
-      <description>Juan Soto Ivars y Alberto Olmos han vuelto y lo hacen con un episodio que gira en torno a la inmigración, uno de los grandes problemas que debe afrontar Europa, pero también España</description>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
       <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
@@ -314,76 +374,16 @@
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <title>La inmigración es un problema, no tengas miedo de admitirlo</title>
+      <link>https://www.elconfidencial.com/cultura/2024-06-15/inmigracion-problema-no-tengas-miedo-admitirlo_3903657/</link>
+      <description>El derecho a migrar para buscar una vida mejor me parece inalterable, siempre que no quede por encima del derecho de una persona a vivir en su barrio con normalidad</description>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
       <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lo más odiado | ¿Qué diferencia a Alvise, Llados y Sánchez? Es lo mismo en esencia</title>
-      <link>https://www.elconfidencial.com/espana/2024-06-19/diferencia-alvise-llados-sanchez_3904938/</link>
-      <description>Juan Soto Ivars y Alberto Olmos están de vuelta. Y lo hacen hablando, como no, del gran fenómeno político que nos han dejado las últimas elecciones</description>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Así funciona la máquina del fango de Pedro Sánchez</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-06-18/sanchismo-maquina-de-fango-posverdad-trump_3905226/</link>
-      <description>Sánchez niega, luego admite y justifica, deja que nos cansemos y, finalmente, en el agotamiento, mientras las personas más lúcidas se arrastran sin fuerzas, entonces pasa a los hechos consumados y da por concluido el debate</description>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pasen a lamer el zapato de Arcadi Espada | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-03/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pasen a lamer el zapato de Arcadi Espada | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-03/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rammstein en Barcelona: descomunal bukake de fuego y ruido en tu cara</title>
-      <link>https://www.elconfidencial.com/cultura/2024-06-11/rammstein-barcelona-concierto_3901284/</link>
-      <description>Antes de morir hay que ir a un concierto de Rammstein en un estadio. Hay que verlos, porque no existe en el mundo nada que se acerque. Te guste o no el rock</description>
-      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pasen a lamer el zapato de Arcadi Espada | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-03/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pasen a lamer el zapato de Arcadi Espada | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-03/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A veces los límites del humor son dos hostias en la cara</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-06-04/limites-humor-agresion-comico-calatrava-pugilato_3896154/</link>
-      <description>Preferimos vivir en una sociedad en la que un insulto directo se salda con una multa, todos queremos estar bien protegidos de la ley del talión y de nuestros instintos asesinos</description>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pasen a lamer el zapato de Arcadi Espada | Soto Ivars desde su Trinchera</title>
@@ -404,22 +404,34 @@
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>O fascismo o neoliberalismo. Aclárense | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-05-20/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <title>Alvise Pérez iba para Bukele y se quedó en Gil</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-06-10/alvise-perez-europeas-bukele-gil_3900172/</link>
+      <description>El votante medio de Alvise ni es ultraderechista ni retrasado mental: sencillamente, están hartos del sistema, no se informan demasiado y descreen por norma de las verdades consensuadas</description>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>O fascismo o neoliberalismo. Aclárense | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-05-20/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <title>Pasen a lamer el zapato de Arcadi Espada | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-03/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Escupitajos, puñetazos, insultos. Estudiantes judíos atacados en España</title>
-      <link>https://www.elconfidencial.com/cultura/2024-05-26/escupitajos-punetazos-insultos-estudiantes-judios-espana_3890260/</link>
-      <description>Confundir "judío" con "sionista" es tan absurdo como creer que "sionista" significa "asesino de palestinos", y esto es lo que está ocurriendo</description>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <title>Pasen a lamer el zapato de Arcadi Espada | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-03/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pasen a lamer el zapato de Arcadi Espada | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-03/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esto es todo lo que dice (entrelíneas) la ley de amnistía y por la convivencia y el reencuentro</title>
+      <link>https://www.elconfidencial.com/cultura/2024-06-01/todo-lo-que-dice-la-ley-de-amnistia-entrelineas_3893982/</link>
+      <description>Se trata de una preciosa maquinaria de relojería que convierte, para un selecto grupo de ciudadanos, el delito en impunidad, y para otro ciudadano concreto, la oposición o el ostracismo en presidencia del Gobierno</description>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>O fascismo o neoliberalismo. Aclárense | Soto Ivars desde su Trinchera</title>
@@ -440,24 +452,30 @@
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Soto Ivars: Sobre la cultura se dicen muchas tonterías en la academia, en internet y el Ministerio</title>
+      <title>O fascismo o neoliberalismo. Aclárense | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-05-20/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>O fascismo o neoliberalismo. Aclárense | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-05-20/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>O fascismo o neoliberalismo. Aclárense | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-05-20/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soto Ivars: De la cultura se dicen muchas tonterías en la academia, internet y el Ministerio</title>
       <link>https://www.elconfidencial.com/cultura/2024-05-19/juan-soto-ivars-la-trinchera-de-las-letras_3885346/</link>
       <description>Ofrecemos un adelanto de ´La trinchera de las letras', el ensayo con el que el escritor y periodista de El Confidencial ha ganado la XXX edición del Premio Internacional Jovellanos</description>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mañana todos a la plaza de Oriente a defendernos del insulto de Milei</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-05-21/javier-milei-begona-gomez-insulto-argentina_3887094/</link>
-      <description>Es gracioso que estemos así, colectivamente insultados, cuando se supone que Begoña Gómez es una ciudadana totalmente normal que puede hacer negocios como le dé la gana y firmar las cartas de recomendación que ella considere necesarias</description>
-      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>O fascismo o neoliberalismo. Aclárense | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-05-20/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>O fascismo o neoliberalismo. Aclárense | Soto Ivars desde su Trinchera</title>
       <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-05-20/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
@@ -470,16 +488,10 @@
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Histeria por la carta de Pedro Sánchez | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-05-06/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El nacionalismo ganó las elecciones de Cataluña</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-05-15/nacionalismo-psc-catalunya-constitucionalismo_3883847/</link>
-      <description>La mente nacionalista de Cataluña simplemente ha cambiado de siglas: ahora hay una parte dispuesta a votar al PSC</description>
-      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <title>'El niño Jesús no odia a los mariquitas', ni a los analfabetos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-05-18/libro-jesus-odia-mariquitas-don-julio-polemica_3885178/</link>
+      <description>Dibujar contenido sexual explícito con trazos de libro infantil para colorear es más viejo que el sol: se satiriza aquí el libro para colorear y nada más que eso</description>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Histeria por la carta de Pedro Sánchez | Soto Ivars desde su Trinchera</title>
@@ -494,10 +506,10 @@
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>¿Negacionista no es quien niega que existen los hombres maltratados?</title>
-      <link>https://www.elconfidencial.com/cultura/2024-05-11/hombres-maltratados-violencia-de-genero_3881686/</link>
-      <description>He decidido hablar un rato con Juan Manuel Melgar, portavoz de la Fundación Hombres Maltratados, que ha provocado un gran escándalo</description>
-      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <title>Lo más odiado | Si Sánchez no dimitió, algún sentido tiene que tener tanto paripé</title>
+      <link>https://www.elconfidencial.com/espana/2024-05-14/podcast-mas-odiado-sanchez-mintio-paripe_3882663/</link>
+      <description>Alberto Olmos y Juan Soto Ivars se sientan para un episodio especial de Lo más odiado. Hay un tema central en su conversación: la carta de Pedro Sánchez y sus cinco días de tensión</description>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Histeria por la carta de Pedro Sánchez | Soto Ivars desde su Trinchera</title>
@@ -512,12 +524,36 @@
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Me voy de Barcelona. Ganas me dan de votar a Puigdemont</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-05-08/votar-puigdemont-elecciones-cataluna_3879670/</link>
+      <description>Por castigar a Pedro Sánchez, el exportador de 'procés', el perdonador de 'procés', y darle una lección íntima por resarcir al delincuente que nos robó la cartera, Puigdemont es, de hecho, el único candidato al que me apetece votar</description>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Histeria por la carta de Pedro Sánchez | Soto Ivars desde su Trinchera</title>
       <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-05-06/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Trátame como a un tonto, pero no me hagas quedar de gilipollas</title>
+      <link>https://www.elconfidencial.com/cultura/2024-05-05/sentido-comun-sentido-del-ridiculo-pedro-sanchez_3877865/</link>
+      <description>Toda adoración, hasta la más chiflada, tiene un límite. Pasan los días desde la carta de Sánchez. La espera absurda y la confesión calculada quedan atrás</description>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pere Aragonés cierra la campaña de Bildu en español | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-04-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El 'procés' de Sánchez: castigar a la prensa con ayuda de la prensa</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-05-01/proces-sanchez-castigar-prensa_3876530/</link>
+      <description>Quizás Sánchez aspira a crear una suerte de "órgano colegiado de profesionales del periodismo" compuesto por afines, un "factcheker público" que determine qué es un bulo y qué no</description>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Pere Aragonés cierra la campaña de Bildu en español | Soto Ivars desde su Trinchera</title>
       <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-04-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
@@ -530,10 +566,10 @@
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pere Aragonés cierra la campaña de Bildu en español | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-04-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Estas son todas las locuras que Pedro Sánchez ha hecho por amor</title>
+      <link>https://www.elconfidencial.com/cultura/2024-04-27/estas-todas-locuras-pedro-sanchez-amor_3874042/</link>
+      <description>Por amor dio indultos, metió a Bildu en la ley de memoria democrática y adelantó elecciones al verano tras el batacazo del partido en las autonómicas. Por amor ofreció amnistía a Puigdemont y participó del discurso del 'lawfare'</description>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pere Aragonés cierra la campaña de Bildu en español | Soto Ivars desde su Trinchera</title>
@@ -548,28 +584,118 @@
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pere Aragonés cierra la campaña de Bildu en español | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-04-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <title>¿Y si la carta de Sánchez es una amenaza?</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-04-25/carta-pedro-sanchez-amenaza_3873362/</link>
+      <description>Durante meses, han señalado a jueces, oposición y medios críticos como grupos facciosos y enemigos de la democracia</description>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El bisnieto de Jardiel Poncela está debajo de un almendro</title>
+      <link>https://blogs.elconfidencial.com/cultura/tribuna/2024-04-19/ramon-paso-agresion-sexual-bisnieto-jardiel-poncela-debajo-almendro_3869389/</link>
+      <description>Qué diferencia entre este caso y el de Vermut, o tantas otras cacerías mediáticas. ¡A ver si al final resulta que la prensa no es el cauce adecuado para denunciar un abuso sexual!</description>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Receta para cocinar un moderado de Bildu a la bilbaína</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-04-16/receta-bildu-eta-elecciones-pais-vasco_3867559/</link>
+      <description>Al menos un 30% de los vascos está dispuesto a votar a un partido que no puede decir que ETA fue terrorista, porque si lo hace no te votan, y eso me provoca náuseas</description>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lo más odiado | El sanchismo maquillará el referéndum catalán para que sea buenísimo</title>
+      <link>https://www.elconfidencial.com/espana/2024-04-16/odiado-sanchismo-maquillara-referendum_3867116/</link>
+      <description>Alberto Olmos y Juan Soto Ivars han vuelto. Y lo hacen con un tema en el que no se ponen de acuerdo. Básicamente, porque a Olmos todo lo que tiene que ver con el referéndum le da igual</description>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lo cancelaron y se suicidó: DEP Ed Piskor | Soto Ivars desde su Trinchera Cultural</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-04-08/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lo sentimos: si no te mató tu padre, no existes</title>
-      <link>https://www.elconfidencial.com/cultura/2024-04-13/filicidios-violencia-vicaria-ninos-muertos-datos_3865632/</link>
-      <description>"Violencia vicaria" podría ser un concepto útil si no excluyera a las madres que matan por la misma razón que ciertos padres, pero en España todo cambia con el sexo del ciudadano</description>
-      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      <title>No quiero provocar gasto al Estado insultando a Óscar Puente</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-04-02/oscar-puente-insultos-carlos-alsina-excel_3858665/</link>
+      <description>Óscar Puente dejó caer, intuyo que involuntariamente, que había puesto a trabajar a su equipo del ministerio para que recopilen columnas de opinión donde se insulta a su persona</description>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>¡Celebrities! Hoy… la cultura de la cancelación no existe</title>
-      <link>https://www.elconfidencial.com/cultura/2024-03-30/joaquin-reyes-cultura-de-la-cancelacion_3857178/</link>
-      <description>Equiparar la cultura de la cancelación con la crítica es como decir que los coches de choque y un accidente múltiple en la autopista son fenómenos más o menos parecidos. La crítica es una forma de diálogo</description>
-      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <title>Lo más odiado | Lo más corrupto del Gobierno actual es el propio Gobierno</title>
+      <link>https://www.elconfidencial.com/espana/2024-03-26/mas-odiado-pierdes-verguenza-presidente-gobierno_3855280/</link>
+      <description>Juan Soto Ivars y Alberto Olmos vuelven a juntarse para seguir con su especial sobre la corrupción, lo que significa y cómo hay trabajos que atraen a un cierto tipo de personas</description>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Qué asco todo: Soto Ivars desde su Trinchera Cultural</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-03-18/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <title>Lo que el Barroco enseña al PSOE sobre el intento de abolir la prostitución</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-03-23/barroco-prostitucion-abolicion-psoe_3853750/</link>
+      <description>Supongo que un mundo ideal no existiría la prostitución, pero en ese mundo ideal también encontrarían sexo todos los hombres con los que nadie se quiere acostar</description>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lo más odiado | Tú prescindes de un millón de funcionarios en España y no se nota</title>
+      <link>https://www.elconfidencial.com/espana/2024-03-13/lo-mas-odiado-prescindes-funcionarios-espana_3847445/</link>
+      <description>Juan Soto Ivars y Alberto Olmos vuelven con un nuevo episodio de su pódcast, en el que hablan de corrupción, de impuestos y de los funcionarios en la España actual</description>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ábalos está en mi casa: Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-03-04/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Carta de España a los Reyes Magos</title>
@@ -578,16 +704,10 @@
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saltarse la Constitución: causa y solución de todos los problemas</title>
-      <link>https://www.elconfidencial.com/cultura/2024-03-16/ley-amnistia-constitucion-sanchez-puigdemont_3849609/</link>
-      <description>La ley de amnistía ha hallado un camino para convertir el hecho de saltarse la Carta Magna en el factor que desactiva cualquier tipo de reproche penal. Sí, es la idea de un genio</description>
-      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <title>Por qué me gusta Ábalos, y detesto a Pedro Sánchez</title>
+      <link>https://www.elconfidencial.com/cultura/2024-03-02/abalos-me-gusta-detesto-pedro-sanchez_3841048/</link>
+      <description>Sabemos que el exministro huye y miente, sabemos también que el presidente miente y permanece. Pero lo que en el primero delata la imperfección del hombre en el segundo advierte de la perfección del manipulador</description>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Carta de España a los Reyes Magos</title>
@@ -596,22 +716,10 @@
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Buenas noches, hasta mañana, los Lunnis y Yolanda nos vamos a la cama</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-03-06/yolanda-diaz-cerrar-restaurantes-lunnis-dormir_3843097/</link>
-      <description>A las 22 h en casa, con las luces apagadas y así reducimos las emisiones de gases de efecto invernadero. Del trabajo a casa, y dieta equilibrada. Nada de fritos por la noche, ni postres opíparos</description>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <title>Defensa apasionada de don José Luis Ábalos Parera</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-02-27/jose-luis-abalos-koldo-garcia-caso-mascarillas-psoe_3838971/</link>
+      <description>¿De verdad no apreciáis la belleza humana en esta escena? ¡Un portero de puticlub termina siendo la mano derecha de un buen hombre, de un hombre valiente, y lo utiliza y lo engaña!</description>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Carta de España a los Reyes Magos</title>
@@ -644,100 +752,10 @@
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galicia le ha dicho a Sánchez: Sin Vox, no eres nadie</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-02-21/elecciones-galicia-vox-psoe-pedro-sanchez_3833997/</link>
-      <description>Si la mayor utilidad que los votantes de izquierdas encuentran en el PSOE es evitar un Gobierno con Vox, cuando el miedo a Vox no exista, el PSOE caerá</description>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La moda de abroncar a la gente por decir cosas razonables</title>
-      <link>https://www.elconfidencial.com/cultura/2024-02-17/broncas-rafa-nadal-ana-redondo-jose-coronado_3832458/</link>
-      <description>El hecho de que cada vez más famosos se vean envueltos en polémicas ficticias por decir cosas razonables es una señal de que el miedo a hablar ha empezado a resquebrajarse</description>
-      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esa amnistía no, lo que queremos es ser dioses: Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-02-05/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <title>A disidente ruso puesto, disidente ruso muerto: Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-02-19/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Carta de España a los Reyes Magos</title>
@@ -752,334 +770,10 @@
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Urtasun: cuando el sacrificio humano azteca es cultura pero los toros no</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-01-24/ernest-urtasun-descolonizar-museo-cultura_3816352/</link>
-      <description>Las visiones patrimonialistas e ideologizadas de la cultura no conducen al conocimiento, sino que levantan trincheras para fragmentarlo</description>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Lo más odiado' | Pedro Sánchez es el peor presidente que hemos tenido</title>
-      <link>https://www.elconfidencial.com/espana/2024-01-23/mas-odiado-pedro-sanchez-podcast_3815772/</link>
-      <description>Juan Soto Ivars y Alberto Olmos completan el doblete de episodios alrededor de la figura del presidente del Gobierno con este nuevo capítulo del pódcast 'Lo más odiado'</description>
-      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Pellets', el mirlo (o Prestige) blanco que el PSOE necesitaba</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-01-10/pp-galicia-psoe-pellets-bolitas-plastico-prestige_3807650/</link>
-      <description>Difícil decir si el Gobierno autonómico podía hacer más por el medioambiente: lo que está claro es que el PP gallego podía hacer más por su campaña electoral</description>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Lo más odiado' | No sé si Pedro Sánchez es un psicópata, pero su trabajo es ser psicópata</title>
-      <link>https://www.elconfidencial.com/espana/2024-01-09/sanchez-llevadera-lo-mas-odiado-podcast_3806928/</link>
-      <description>Alberto Olmos y Juan Soto Ivars vuelven a juntarse para hablar sobre Pedro Sánchez, presidente del Gobierno, en un episodio doble para empezar el año 2024</description>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Macarras, cursis y una botella voladora</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-12-23/macarras-cursis-botella-voladora_3800331/</link>
-      <description>Soy partidario de que los políticos tengan límites. Al fin y al cabo son los sacerdotes de la religión contemporánea y se benefician de la bolsa pública, producto de nuestro diezmo</description>
-      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¡¿En serio he traído a mi hija a este país?!</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-09/amnistia-psoe-aceptable-inaceptable-pedro-sanchez_3789384/</link>
-      <description>Agarré la baja por paternidad en un país y me reincorporo en otro, que en nada se parece al que irá descubriendo Alicia cuando se pregunte el porqué de las cosas</description>
-      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pedro Sánchez ha venido a hablar de su libro que no ha escrito él</title>
-      <link>https://www.elconfidencial.com/espana/2023-12-12/pedro-sanchez-presentacion-libro_3790933/</link>
-      <description>En el libro, Sánchez habla bien de sí mismo, mal de otros y omite aquellos personajes como Puigdemont de los que el presidente no puede hablar debido a la censura</description>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lo correcto, lo incorrecto y lo PSOE: ¿a qué país he traído a mi hija?</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-09/amnistia-psoe-aceptable-inaceptable-pedro-sanchez_3789384/</link>
-      <description>Agarré la baja por paternidad en un país y me reincorporo en otro, que en nada se parece al que irá descubriendo Alicia cuando se pregunte el porqué de las cosas</description>
-      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No mires a Gaza: Soto Ivars desde su Trinchera Cultural</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2023-10-23/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yo prefiero que Israel sí haya bombardeado ese hospital</title>
-      <link>https://www.elconfidencial.com/cultura/2023-10-21/prefiero-israel-haya-bombardeado-hospital_3758307/</link>
-      <description>Casualmente, siempre se puede acusar de los crímenes más abyectos a quien coincide con el malo de la película que te habías montado. ¿No es simpático, esto?</description>
-      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Cuántos niños masacrados son una respuesta proporcional?</title>
-      <link>https://www.elconfidencial.com/cultura/2023-10-15/cuantos-ninos-masacrados-son-respuesta-proporcional_3754598/</link>
-      <description>No sé nada de derecho internacional, pero pienso en la ética, en mi ética. Israel no puede dar una respuesta proporcional al horror sufrido porque eso sería horrible</description>
-      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carmen Domingo: Hace 30 años podíamos discutir de política y luego irnos de cañas. Ahora no</title>
-      <link>https://www.elconfidencial.com/cultura/2023-10-12/entrevista-carmen-domingo-discutir-politica_3748653/</link>
-      <description>La escritora publica '#Cancelado' (Círculo de Tiza), un ensayo en el que denuncia los peligros que conllevan el pensamiento 'woke' y la cultura de la cancelación</description>
-      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tengo derecho a ganar lo mismo que Pérez-Reverte</title>
-      <link>https://www.elconfidencial.com/cultura/2023-10-07/derecho-ganar-lo-mismo-que-perez-reverte_3749689/</link>
-      <description>Hay que pagar lo mismo a gente que hace lo mismo, aunque unos tengan éxito y otros jueguen a estadio vacío</description>
-      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La bala de plata de Núñez Feijóo</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-09-27/bala-de-plata-feijoo-sanchez-investidura-puigdemont_3743179/</link>
-      <description>Esa bala de plata es regalar siete diputados al PSOE justo en el último momento, una vez que Sánchez haya aceptado los votos de Junts y demostrado que está dispuesto a poner en peligro el Estado con tal de seguir en el poder</description>
-      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ángel Martín no ha ido a misa</title>
-      <link>https://www.elconfidencial.com/cultura/2023-09-23/angel-martin-guerra-sexos-feminismo_3740501/</link>
-      <description>Venía a señalar, sin decirlo, que es sabio y sensato mantenerse alejados de la propaganda victimista. Él no usó estas palabras, porque tiene intuición y no le gusta meterse en berenjenales, pero le falló el sentido arácnido</description>
-      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Por qué Jorge Javier no puede con Pablo Motos</title>
-      <link>https://www.elconfidencial.com/cultura/2023-09-17/cuentos-chinos-el-hormiguero-jorge-javier-motos_3736357/</link>
-      <description>La televisión no funciona como Twitter. Supongo que Jorge Javier, que lleva tantos años en el negocio como Motos, lo sabe. La audiencia de tele es anónima y, por lo tanto, es libre</description>
-      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No pienses en la amnistía a Puigdemont, ¡mira estos estudiantes salidos!</title>
-      <link>https://www.elconfidencial.com/cultura/2023-09-09/no-pienses-amnistia-estudiantes-la-rioja-salidos_3731793/</link>
-      <description>Se trata de dar tiempo a las máquinas de propaganda oficialista para preparar su batería de justificaciones. Y decir de paso que solo un Gobierno de progreso y feminista nos librará de todos los Rubiales y los estudiantes del mal</description>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>González y Zapatero: el PSOE antes y después del lavado de cerebro</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-10-17/gonzalez-zapatero-psoe-pedro-sanchez-gobierno_3755942/</link>
-      <description>Alsina entrevista a José Luis Rodríguez Zapatero el lunes en Onda Cero. El martes, llevan a 'Espejo público' a Felipe González. Ambos tienen que opinar sobre la amnistía, es decir, sobre la deriva de Sánchez</description>
-      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El lenguaje inclusivo apesta. Y el profe castigado por tacharlo es mi héroe</title>
-      <link>https://blogs.elconfidencial.com/cultura/tribuna/2023-10-13/el-lenguaje-inclusivo-apesta-y-el-profe-castigado-por-tacharlo-es-mi-heroe_3753284/</link>
-      <description>Padres, profesores y sindicatos se han tirado al cuello del maestro en Valladolid que obligaba a sus alumnos a tachar los desdoblamientos de género de los libros de su asignatura, Geografía</description>
-      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La miseria infinita de la izquierda española con el pueblo israelí</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-10-09/gaza-palestina-israel-represalia-izquierda-espana_3751198/</link>
-      <description>Mientras algunos de los festejantes de la 'rave' permanecían escondidos, desaparecidos, ya estaban tuiteando como automatismos descerebrados las consabidas salvas a la libertad del pueblo palestino</description>
-      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acoso escolar: cuando no hay policía, manda la mafia</title>
-      <link>https://www.elconfidencial.com/cultura/2023-09-30/acoso-escolar-no-policia-manda-mafia_3745041/</link>
-      <description>Mi idea sobre el abuso en la escuela es simple, cartesiana e impopular: cuando se neutraliza el monopolio de la violencia y se desmonta el concepto de autoridad, aparece la mafia</description>
-      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Lo más odiado' | La verdad da igual. Y en política, no importa</title>
-      <link>https://www.elconfidencial.com/espana/2023-09-26/lo-mas-odiado-podcast-verdad_3741682/</link>
-      <description>Sobre este y otros temas hablan Olmos y Soto Ivars en el nuevo episodio de 'Lo más odiado', el pódcast de El Confidencial en el que conversan de... sus cosas</description>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pinganillos en el Congreso: hacia la Turra de Babel</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-09-19/lenguas-cooficiales-congreso-diputados-babel_3737223/</link>
-      <description>Si el Congreso era poco divertido, ahora lo será más. Seguimos en la senda iniciada por el juramento creativo, las impresoras en el estrado y las camisetas originales</description>
-      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amnistía para La Manada: una defensa a ultranza de Irene Montero</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-09-14/boza-manada-irene-montero-si-es-si-condena_3734292/</link>
-      <description>Exigirle la dimisión a esta señora es una barbaridad y una inmoralidad, porque ella no es un señor calvo que le va dando picos a Pam sin su consentimiento expreso</description>
-      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Para zanja humeante, la del Congreso: Soto Ivars desde su Trinchera Cultural</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2023-12-11/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los recortes en sanidad y educación serán progresistas</title>
-      <link>https://www.elconfidencial.com/cultura/2023-12-23/recortes-sanidad-educacion-progresistas-psoe_3799891/</link>
-      <description>Esto de oponer "muerte" a cualquier cosa que se le ocurra hacer a Pedro Sánchez es infalible y vale para todo. Es la llave maestra de la demagogia orgánica</description>
-      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fregarle a Otegi la escalera y pisarle a UPN lo 'fregao'</title>
-      <link>https://www.elconfidencial.com/espana/2023-12-29/ibarrola-upn-bildu-psoe-fregar-escaleras_3802676/</link>
-      <description>Estamos en una nueva época. 2024: fregar la escalera a Otegi es democracia y tirar por la escalera tus principios es progreso</description>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No peguéis a los muñecos, muñecos: Soto Ivars desde su Trinchera Cultural</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-01-08/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Destripando España en un 'cassette' de chistes de Arévalo</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-06/paco-arevalo-chistes-mariquitas-gangosos_3805848/</link>
-      <description>Se ha muerto Arévalo y hay gente que dice que se alegra. ¡Sigue siendo España un país de reírse a mala leche, como en los monólogos!</description>
-      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Eres machista si crees que el feminismo ha ido muy lejos?: Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-01-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Pellets', el mirlo o Prestige blanco que el PSOE necesitaba</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-01-10/pp-galicia-psoe-pellets-bolitas-plastico-prestige_3807650/</link>
-      <description>Difícil decir si el Gobierno autonómico podía hacer más por el medioambiente: lo que está claro es que el PP gallego podía hacer más por su campaña electoral</description>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La meritocracia no existe y la prueba es que yo estoy aquí</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-20/la-meritocracia-no-existe-y-la-prueba-es-que-yo-estoy-aqui_3814762/</link>
-      <description>Si crees que el mérito lo es todo, eso te conduce a la frustración cuando descubres que hacían falta otros elementos. Sin embargo, si crees que el mérito no importa, ¿para qué esforzarse?</description>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <title>Lo que Cataluña podría aprender de la sequía si escuchase a los murcianos</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-02-07/cataluna-podria-aprender-sequia-escuchase-murcianos_3825595/</link>
+      <description>Una tierra marcada por la sequía solo admite sobre sí habitantes que sepan que el agua es más valiosa que la lengua y la cultura</description>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Carta de España a los Reyes Magos</title>
@@ -1160,28 +854,28 @@
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lo que Cataluña podría aprender de la sequía si escuchase a los murcianos</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-02-07/cataluna-podria-aprender-sequia-escuchase-murcianos_3825595/</link>
-      <description>Una tierra marcada por la sequía solo admite sobre sí habitantes que sepan que el agua es más valiosa que la lengua y la cultura</description>
-      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Carta de España a los Reyes Magos</title>
       <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
       <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <title>La meritocracia no existe y la prueba es que yo estoy aquí</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-20/la-meritocracia-no-existe-y-la-prueba-es-que-yo-estoy-aqui_3814762/</link>
+      <description>Si crees que el mérito lo es todo, eso te conduce a la frustración cuando descubres que hacían falta otros elementos. Sin embargo, si crees que el mérito no importa, ¿para qué esforzarse?</description>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A disidente ruso puesto, disidente ruso muerto: Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-02-19/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <title>'Pellets', el mirlo o Prestige blanco que el PSOE necesitaba</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-01-10/pp-galicia-psoe-pellets-bolitas-plastico-prestige_3807650/</link>
+      <description>Difícil decir si el Gobierno autonómico podía hacer más por el medioambiente: lo que está claro es que el PP gallego podía hacer más por su campaña electoral</description>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Eres machista si crees que el feminismo ha ido muy lejos?: Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-01-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Carta de España a los Reyes Magos</title>
@@ -1214,10 +908,16 @@
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Defensa apasionada de don José Luis Ábalos Parera</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-02-27/jose-luis-abalos-koldo-garcia-caso-mascarillas-psoe_3838971/</link>
-      <description>¿De verdad no apreciáis la belleza humana en esta escena? ¡Un portero de puticlub termina siendo la mano derecha de un buen hombre, de un hombre valiente, y lo utiliza y lo engaña!</description>
-      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Destripando España en un 'cassette' de chistes de Arévalo</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-06/paco-arevalo-chistes-mariquitas-gangosos_3805848/</link>
+      <description>Se ha muerto Arévalo y hay gente que dice que se alegra. ¡Sigue siendo España un país de reírse a mala leche, como en los monólogos!</description>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Carta de España a los Reyes Magos</title>
@@ -1226,22 +926,10 @@
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Por qué me gusta Ábalos, y detesto a Pedro Sánchez</title>
-      <link>https://www.elconfidencial.com/cultura/2024-03-02/abalos-me-gusta-detesto-pedro-sanchez_3841048/</link>
-      <description>Sabemos que el exministro huye y miente, sabemos también que el presidente miente y permanece. Pero lo que en el primero delata la imperfección del hombre en el segundo advierte de la perfección del manipulador</description>
-      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ábalos está en mi casa: Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-03-04/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <title>No peguéis a los muñecos, muñecos: Soto Ivars desde su Trinchera Cultural</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-01-08/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Carta de España a los Reyes Magos</title>
@@ -1250,106 +938,448 @@
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <title>Fregarle a Otegi la escalera y pisarle a UPN lo 'fregao'</title>
+      <link>https://www.elconfidencial.com/espana/2023-12-29/ibarrola-upn-bildu-psoe-fregar-escaleras_3802676/</link>
+      <description>Estamos en una nueva época. 2024: fregar la escalera a Otegi es democracia y tirar por la escalera tus principios es progreso</description>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <title>Los recortes en sanidad y educación serán progresistas</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-23/recortes-sanidad-educacion-progresistas-psoe_3799891/</link>
+      <description>Esto de oponer "muerte" a cualquier cosa que se le ocurra hacer a Pedro Sánchez es infalible y vale para todo. Es la llave maestra de la demagogia orgánica</description>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lo más odiado | Tú prescindes de un millón de funcionarios en España y no se nota</title>
-      <link>https://www.elconfidencial.com/espana/2024-03-13/lo-mas-odiado-prescindes-funcionarios-espana_3847445/</link>
-      <description>Juan Soto Ivars y Alberto Olmos vuelven con un nuevo episodio de su pódcast, en el que hablan de corrupción, de impuestos y de los funcionarios en la España actual</description>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carta de España a los Reyes Magos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
-      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lo que el Barroco enseña al PSOE sobre el intento de abolir la prostitución</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-03-23/barroco-prostitucion-abolicion-psoe_3853750/</link>
-      <description>Supongo que un mundo ideal no existiría la prostitución, pero en ese mundo ideal también encontrarían sexo todos los hombres con los que nadie se quiere acostar</description>
-      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lo más odiado | Lo más corrupto del Gobierno actual es el propio Gobierno</title>
-      <link>https://www.elconfidencial.com/espana/2024-03-26/mas-odiado-pierdes-verguenza-presidente-gobierno_3855280/</link>
-      <description>Juan Soto Ivars y Alberto Olmos vuelven a juntarse para seguir con su especial sobre la corrupción, lo que significa y cómo hay trabajos que atraen a un cierto tipo de personas</description>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No quiero provocar gasto al Estado insultando a Óscar Puente</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-04-02/oscar-puente-insultos-carlos-alsina-excel_3858665/</link>
-      <description>Óscar Puente dejó caer, intuyo que involuntariamente, que había puesto a trabajar a su equipo del ministerio para que recopilen columnas de opinión donde se insulta a su persona</description>
-      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lo cancelaron y se suicidó: DEP Ed Piskor | Soto Ivars desde su Trinchera Cultural</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-04-08/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <title>Para zanja humeante, la del Congreso: Soto Ivars desde su Trinchera Cultural</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2023-12-11/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lo más odiado | El sanchismo maquillará el referéndum catalán para que sea buenísimo</title>
-      <link>https://www.elconfidencial.com/espana/2024-04-16/odiado-sanchismo-maquillara-referendum_3867116/</link>
-      <description>Alberto Olmos y Juan Soto Ivars han vuelto. Y lo hacen con un tema en el que no se ponen de acuerdo. Básicamente, porque a Olmos todo lo que tiene que ver con el referéndum le da igual</description>
-      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Amnistía para La Manada: una defensa a ultranza de Irene Montero</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-09-14/boza-manada-irene-montero-si-es-si-condena_3734292/</link>
+      <description>Exigirle la dimisión a esta señora es una barbaridad y una inmoralidad, porque ella no es un señor calvo que le va dando picos a Pam sin su consentimiento expreso</description>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Receta para cocinar un moderado de Bildu a la bilbaína</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-04-16/receta-bildu-eta-elecciones-pais-vasco_3867559/</link>
-      <description>Al menos un 30% de los vascos está dispuesto a votar a un partido que no puede decir que ETA fue terrorista, porque si lo hace no te votan, y eso me provoca náuseas</description>
-      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Pinganillos en el Congreso: hacia la Turra de Babel</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-09-19/lenguas-cooficiales-congreso-diputados-babel_3737223/</link>
+      <description>Si el Congreso era poco divertido, ahora lo será más. Seguimos en la senda iniciada por el juramento creativo, las impresoras en el estrado y las camisetas originales</description>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El bisnieto de Jardiel Poncela está debajo de un almendro</title>
-      <link>https://blogs.elconfidencial.com/cultura/tribuna/2024-04-19/ramon-paso-agresion-sexual-bisnieto-jardiel-poncela-debajo-almendro_3869389/</link>
-      <description>Qué diferencia entre este caso y el de Vermut, o tantas otras cacerías mediáticas. ¡A ver si al final resulta que la prensa no es el cauce adecuado para denunciar un abuso sexual!</description>
-      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <title>'Lo más odiado' | La verdad da igual. Y en política, no importa</title>
+      <link>https://www.elconfidencial.com/espana/2023-09-26/lo-mas-odiado-podcast-verdad_3741682/</link>
+      <description>Sobre este y otros temas hablan Olmos y Soto Ivars en el nuevo episodio de 'Lo más odiado', el pódcast de El Confidencial en el que conversan de... sus cosas</description>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>¿Y si la carta de Sánchez es una amenaza?</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-04-25/carta-pedro-sanchez-amenaza_3873362/</link>
-      <description>Durante meses, han señalado a jueces, oposición y medios críticos como grupos facciosos y enemigos de la democracia</description>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Acoso escolar: cuando no hay policía, manda la mafia</title>
+      <link>https://www.elconfidencial.com/cultura/2023-09-30/acoso-escolar-no-policia-manda-mafia_3745041/</link>
+      <description>Mi idea sobre el abuso en la escuela es simple, cartesiana e impopular: cuando se neutraliza el monopolio de la violencia y se desmonta el concepto de autoridad, aparece la mafia</description>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La miseria infinita de la izquierda española con el pueblo israelí</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-10-09/gaza-palestina-israel-represalia-izquierda-espana_3751198/</link>
+      <description>Mientras algunos de los festejantes de la 'rave' permanecían escondidos, desaparecidos, ya estaban tuiteando como automatismos descerebrados las consabidas salvas a la libertad del pueblo palestino</description>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El lenguaje inclusivo apesta. Y el profe castigado por tacharlo es mi héroe</title>
+      <link>https://blogs.elconfidencial.com/cultura/tribuna/2023-10-13/el-lenguaje-inclusivo-apesta-y-el-profe-castigado-por-tacharlo-es-mi-heroe_3753284/</link>
+      <description>Padres, profesores y sindicatos se han tirado al cuello del maestro en Valladolid que obligaba a sus alumnos a tachar los desdoblamientos de género de los libros de su asignatura, Geografía</description>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>González y Zapatero: el PSOE antes y después del lavado de cerebro</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-10-17/gonzalez-zapatero-psoe-pedro-sanchez-gobierno_3755942/</link>
+      <description>Alsina entrevista a José Luis Rodríguez Zapatero el lunes en Onda Cero. El martes, llevan a 'Espejo público' a Felipe González. Ambos tienen que opinar sobre la amnistía, es decir, sobre la deriva de Sánchez</description>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>No pienses en la amnistía a Puigdemont, ¡mira estos estudiantes salidos!</title>
+      <link>https://www.elconfidencial.com/cultura/2023-09-09/no-pienses-amnistia-estudiantes-la-rioja-salidos_3731793/</link>
+      <description>Se trata de dar tiempo a las máquinas de propaganda oficialista para preparar su batería de justificaciones. Y decir de paso que solo un Gobierno de progreso y feminista nos librará de todos los Rubiales y los estudiantes del mal</description>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Por qué Jorge Javier no puede con Pablo Motos</title>
+      <link>https://www.elconfidencial.com/cultura/2023-09-17/cuentos-chinos-el-hormiguero-jorge-javier-motos_3736357/</link>
+      <description>La televisión no funciona como Twitter. Supongo que Jorge Javier, que lleva tantos años en el negocio como Motos, lo sabe. La audiencia de tele es anónima y, por lo tanto, es libre</description>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ángel Martín no ha ido a misa</title>
+      <link>https://www.elconfidencial.com/cultura/2023-09-23/angel-martin-guerra-sexos-feminismo_3740501/</link>
+      <description>Venía a señalar, sin decirlo, que es sabio y sensato mantenerse alejados de la propaganda victimista. Él no usó estas palabras, porque tiene intuición y no le gusta meterse en berenjenales, pero le falló el sentido arácnido</description>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La bala de plata de Núñez Feijóo</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-09-27/bala-de-plata-feijoo-sanchez-investidura-puigdemont_3743179/</link>
+      <description>Esa bala de plata es regalar siete diputados al PSOE justo en el último momento, una vez que Sánchez haya aceptado los votos de Junts y demostrado que está dispuesto a poner en peligro el Estado con tal de seguir en el poder</description>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tengo derecho a ganar lo mismo que Pérez-Reverte</title>
+      <link>https://www.elconfidencial.com/cultura/2023-10-07/derecho-ganar-lo-mismo-que-perez-reverte_3749689/</link>
+      <description>Hay que pagar lo mismo a gente que hace lo mismo, aunque unos tengan éxito y otros jueguen a estadio vacío</description>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carmen Domingo: Hace 30 años podíamos discutir de política y luego irnos de cañas. Ahora no</title>
+      <link>https://www.elconfidencial.com/cultura/2023-10-12/entrevista-carmen-domingo-discutir-politica_3748653/</link>
+      <description>La escritora publica '#Cancelado' (Círculo de Tiza), un ensayo en el que denuncia los peligros que conllevan el pensamiento 'woke' y la cultura de la cancelación</description>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Cuántos niños masacrados son una respuesta proporcional?</title>
+      <link>https://www.elconfidencial.com/cultura/2023-10-15/cuantos-ninos-masacrados-son-respuesta-proporcional_3754598/</link>
+      <description>No sé nada de derecho internacional, pero pienso en la ética, en mi ética. Israel no puede dar una respuesta proporcional al horror sufrido porque eso sería horrible</description>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yo prefiero que Israel sí haya bombardeado ese hospital</title>
+      <link>https://www.elconfidencial.com/cultura/2023-10-21/prefiero-israel-haya-bombardeado-hospital_3758307/</link>
+      <description>Casualmente, siempre se puede acusar de los crímenes más abyectos a quien coincide con el malo de la película que te habías montado. ¿No es simpático, esto?</description>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>No mires a Gaza: Soto Ivars desde su Trinchera Cultural</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2023-10-23/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lo correcto, lo incorrecto y lo PSOE: ¿a qué país he traído a mi hija?</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-09/amnistia-psoe-aceptable-inaceptable-pedro-sanchez_3789384/</link>
+      <description>Agarré la baja por paternidad en un país y me reincorporo en otro, que en nada se parece al que irá descubriendo Alicia cuando se pregunte el porqué de las cosas</description>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pedro Sánchez ha venido a hablar de su libro que no ha escrito él</title>
+      <link>https://www.elconfidencial.com/espana/2023-12-12/pedro-sanchez-presentacion-libro_3790933/</link>
+      <description>En el libro, Sánchez habla bien de sí mismo, mal de otros y omite aquellos personajes como Puigdemont de los que el presidente no puede hablar debido a la censura</description>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¡¿En serio he traído a mi hija a este país?!</title>
+      <link>https://www.elconfidencial.com/cultura/2023-12-09/amnistia-psoe-aceptable-inaceptable-pedro-sanchez_3789384/</link>
+      <description>Agarré la baja por paternidad en un país y me reincorporo en otro, que en nada se parece al que irá descubriendo Alicia cuando se pregunte el porqué de las cosas</description>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Macarras, cursis y una botella voladora</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2023-12-23/macarras-cursis-botella-voladora_3800331/</link>
+      <description>Soy partidario de que los políticos tengan límites. Al fin y al cabo son los sacerdotes de la religión contemporánea y se benefician de la bolsa pública, producto de nuestro diezmo</description>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Lo más odiado' | No sé si Pedro Sánchez es un psicópata, pero su trabajo es ser psicópata</title>
+      <link>https://www.elconfidencial.com/espana/2024-01-09/sanchez-llevadera-lo-mas-odiado-podcast_3806928/</link>
+      <description>Alberto Olmos y Juan Soto Ivars vuelven a juntarse para hablar sobre Pedro Sánchez, presidente del Gobierno, en un episodio doble para empezar el año 2024</description>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Pellets', el mirlo (o Prestige) blanco que el PSOE necesitaba</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-01-10/pp-galicia-psoe-pellets-bolitas-plastico-prestige_3807650/</link>
+      <description>Difícil decir si el Gobierno autonómico podía hacer más por el medioambiente: lo que está claro es que el PP gallego podía hacer más por su campaña electoral</description>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Lo más odiado' | Pedro Sánchez es el peor presidente que hemos tenido</title>
+      <link>https://www.elconfidencial.com/espana/2024-01-23/mas-odiado-pedro-sanchez-podcast_3815772/</link>
+      <description>Juan Soto Ivars y Alberto Olmos completan el doblete de episodios alrededor de la figura del presidente del Gobierno con este nuevo capítulo del pódcast 'Lo más odiado'</description>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Urtasun: cuando el sacrificio humano azteca es cultura pero los toros no</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-01-24/ernest-urtasun-descolonizar-museo-cultura_3816352/</link>
+      <description>Las visiones patrimonialistas e ideologizadas de la cultura no conducen al conocimiento, sino que levantan trincheras para fragmentarlo</description>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esa amnistía no, lo que queremos es ser dioses: Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-02-05/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La moda de abroncar a la gente por decir cosas razonables</title>
+      <link>https://www.elconfidencial.com/cultura/2024-02-17/broncas-rafa-nadal-ana-redondo-jose-coronado_3832458/</link>
+      <description>El hecho de que cada vez más famosos se vean envueltos en polémicas ficticias por decir cosas razonables es una señal de que el miedo a hablar ha empezado a resquebrajarse</description>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galicia le ha dicho a Sánchez: Sin Vox, no eres nadie</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-02-21/elecciones-galicia-vox-psoe-pedro-sanchez_3833997/</link>
+      <description>Si la mayor utilidad que los votantes de izquierdas encuentran en el PSOE es evitar un Gobierno con Vox, cuando el miedo a Vox no exista, el PSOE caerá</description>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Buenas noches, hasta mañana, los Lunnis y Yolanda nos vamos a la cama</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-03-06/yolanda-diaz-cerrar-restaurantes-lunnis-dormir_3843097/</link>
+      <description>A las 22 h en casa, con las luces apagadas y así reducimos las emisiones de gases de efecto invernadero. Del trabajo a casa, y dieta equilibrada. Nada de fritos por la noche, ni postres opíparos</description>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Saltarse la Constitución: causa y solución de todos los problemas</title>
+      <link>https://www.elconfidencial.com/cultura/2024-03-16/ley-amnistia-constitucion-sanchez-puigdemont_3849609/</link>
+      <description>La ley de amnistía ha hallado un camino para convertir el hecho de saltarse la Carta Magna en el factor que desactiva cualquier tipo de reproche penal. Sí, es la idea de un genio</description>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carta de España a los Reyes Magos</title>
+      <link>https://www.elconfidencial.com/cultura/2024-01-05/carta-espana-reyes-magos_3805524/</link>
+      <description>No me atrevo a pedir lo que merezco, señores, por miedo a merecer la desaparición. Pero si en 2024 podéis traerme un poquito de aburrimiento para que yo lo reparta entre mis habitantes, creo que les vendrá a todos muy bien</description>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qué asco todo: Soto Ivars desde su Trinchera Cultural</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-03-18/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¡Celebrities! Hoy… la cultura de la cancelación no existe</title>
+      <link>https://www.elconfidencial.com/cultura/2024-03-30/joaquin-reyes-cultura-de-la-cancelacion_3857178/</link>
+      <description>Equiparar la cultura de la cancelación con la crítica es como decir que los coches de choque y un accidente múltiple en la autopista son fenómenos más o menos parecidos. La crítica es una forma de diálogo</description>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lo sentimos: si no te mató tu padre, no existes</title>
+      <link>https://www.elconfidencial.com/cultura/2024-04-13/filicidios-violencia-vicaria-ninos-muertos-datos_3865632/</link>
+      <description>"Violencia vicaria" podría ser un concepto útil si no excluyera a las madres que matan por la misma razón que ciertos padres, pero en España todo cambia con el sexo del ciudadano</description>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pere Aragonés cierra la campaña de Bildu en español | Soto Ivars desde su Trinchera</title>
@@ -1364,10 +1394,16 @@
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Estas son todas las locuras que Pedro Sánchez ha hecho por amor</title>
-      <link>https://www.elconfidencial.com/cultura/2024-04-27/estas-todas-locuras-pedro-sanchez-amor_3874042/</link>
-      <description>Por amor dio indultos, metió a Bildu en la ley de memoria democrática y adelantó elecciones al verano tras el batacazo del partido en las autonómicas. Por amor ofreció amnistía a Puigdemont y participó del discurso del 'lawfare'</description>
-      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Pere Aragonés cierra la campaña de Bildu en español | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-04-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pere Aragonés cierra la campaña de Bildu en español | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-04-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pere Aragonés cierra la campaña de Bildu en español | Soto Ivars desde su Trinchera</title>
@@ -1382,34 +1418,10 @@
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El 'procés' de Sánchez: castigar a la prensa con ayuda de la prensa</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-05-01/proces-sanchez-castigar-prensa_3876530/</link>
-      <description>Quizás Sánchez aspira a crear una suerte de "órgano colegiado de profesionales del periodismo" compuesto por afines, un "factcheker público" que determine qué es un bulo y qué no</description>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pere Aragonés cierra la campaña de Bildu en español | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-04-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trátame como a un tonto, pero no me hagas quedar de gilipollas</title>
-      <link>https://www.elconfidencial.com/cultura/2024-05-05/sentido-comun-sentido-del-ridiculo-pedro-sanchez_3877865/</link>
-      <description>Toda adoración, hasta la más chiflada, tiene un límite. Pasan los días desde la carta de Sánchez. La espera absurda y la confesión calculada quedan atrás</description>
-      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Histeria por la carta de Pedro Sánchez | Soto Ivars desde su Trinchera</title>
       <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-05-06/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Me voy de Barcelona. Ganas me dan de votar a Puigdemont</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-05-08/votar-puigdemont-elecciones-cataluna_3879670/</link>
-      <description>Por castigar a Pedro Sánchez, el exportador de 'procés', el perdonador de 'procés', y darle una lección íntima por resarcir al delincuente que nos robó la cartera, Puigdemont es, de hecho, el único candidato al que me apetece votar</description>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Histeria por la carta de Pedro Sánchez | Soto Ivars desde su Trinchera</title>
@@ -1424,10 +1436,10 @@
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lo más odiado | Si Sánchez no dimitió, algún sentido tiene que tener tanto paripé</title>
-      <link>https://www.elconfidencial.com/espana/2024-05-14/podcast-mas-odiado-sanchez-mintio-paripe_3882663/</link>
-      <description>Alberto Olmos y Juan Soto Ivars se sientan para un episodio especial de Lo más odiado. Hay un tema central en su conversación: la carta de Pedro Sánchez y sus cinco días de tensión</description>
-      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <title>¿Negacionista no es quien niega que existen los hombres maltratados?</title>
+      <link>https://www.elconfidencial.com/cultura/2024-05-11/hombres-maltratados-violencia-de-genero_3881686/</link>
+      <description>He decidido hablar un rato con Juan Manuel Melgar, portavoz de la Fundación Hombres Maltratados, que ha provocado un gran escándalo</description>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Histeria por la carta de Pedro Sánchez | Soto Ivars desde su Trinchera</title>
@@ -1442,10 +1454,16 @@
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>'El niño Jesús no odia a los mariquitas', ni a los analfabetos</title>
-      <link>https://www.elconfidencial.com/cultura/2024-05-18/libro-jesus-odia-mariquitas-don-julio-polemica_3885178/</link>
-      <description>Dibujar contenido sexual explícito con trazos de libro infantil para colorear es más viejo que el sol: se satiriza aquí el libro para colorear y nada más que eso</description>
-      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+      <title>El nacionalismo ganó las elecciones de Cataluña</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-05-15/nacionalismo-psc-catalunya-constitucionalismo_3883847/</link>
+      <description>La mente nacionalista de Cataluña simplemente ha cambiado de siglas: ahora hay una parte dispuesta a votar al PSC</description>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Histeria por la carta de Pedro Sánchez | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-05-06/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Histeria por la carta de Pedro Sánchez | Soto Ivars desde su Trinchera</title>
@@ -1460,7 +1478,19 @@
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Soto Ivars: De la cultura se dicen muchas tonterías en la academia, internet y el Ministerio</title>
+      <title>O fascismo o neoliberalismo. Aclárense | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-05-20/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mañana todos a la plaza de Oriente a defendernos del insulto de Milei</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-05-21/javier-milei-begona-gomez-insulto-argentina_3887094/</link>
+      <description>Es gracioso que estemos así, colectivamente insultados, cuando se supone que Begoña Gómez es una ciudadana totalmente normal que puede hacer negocios como le dé la gana y firmar las cartas de recomendación que ella considere necesarias</description>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soto Ivars: Sobre la cultura se dicen muchas tonterías en la academia, en internet y el Ministerio</title>
       <link>https://www.elconfidencial.com/cultura/2024-05-19/juan-soto-ivars-la-trinchera-de-las-letras_3885346/</link>
       <description>Ofrecemos un adelanto de ´La trinchera de las letras', el ensayo con el que el escritor y periodista de El Confidencial ha ganado la XXX edición del Premio Internacional Jovellanos</description>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
@@ -1484,10 +1514,10 @@
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>O fascismo o neoliberalismo. Aclárense | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-05-20/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <title>Escupitajos, puñetazos, insultos. Estudiantes judíos atacados en España</title>
+      <link>https://www.elconfidencial.com/cultura/2024-05-26/escupitajos-punetazos-insultos-estudiantes-judios-espana_3890260/</link>
+      <description>Confundir "judío" con "sionista" es tan absurdo como creer que "sionista" significa "asesino de palestinos", y esto es lo que está ocurriendo</description>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>O fascismo o neoliberalismo. Aclárense | Soto Ivars desde su Trinchera</title>
@@ -1502,12 +1532,6 @@
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Esto es todo lo que dice (entrelíneas) la ley de amnistía y por la convivencia y el reencuentro</title>
-      <link>https://www.elconfidencial.com/cultura/2024-06-01/todo-lo-que-dice-la-ley-de-amnistia-entrelineas_3893982/</link>
-      <description>Se trata de una preciosa maquinaria de relojería que convierte, para un selecto grupo de ciudadanos, el delito en impunidad, y para otro ciudadano concreto, la oposición o el ostracismo en presidencia del Gobierno</description>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Pasen a lamer el zapato de Arcadi Espada | Soto Ivars desde su Trinchera</title>
       <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-03/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
@@ -1526,10 +1550,10 @@
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Alvise Pérez iba para Bukele y se quedó en Gil</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-06-10/alvise-perez-europeas-bukele-gil_3900172/</link>
-      <description>El votante medio de Alvise ni es ultraderechista ni retrasado mental: sencillamente, están hartos del sistema, no se informan demasiado y descreen por norma de las verdades consensuadas</description>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <title>A veces los límites del humor son dos hostias en la cara</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-06-04/limites-humor-agresion-comico-calatrava-pugilato_3896154/</link>
+      <description>Preferimos vivir en una sociedad en la que un insulto directo se salda con una multa, todos queremos estar bien protegidos de la ley del talión y de nuestros instintos asesinos</description>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pasen a lamer el zapato de Arcadi Espada | Soto Ivars desde su Trinchera</title>
@@ -1544,34 +1568,28 @@
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Rammstein en Barcelona: descomunal bukake de fuego y ruido en tu cara</title>
+      <link>https://www.elconfidencial.com/cultura/2024-06-11/rammstein-barcelona-concierto_3901284/</link>
+      <description>Antes de morir hay que ir a un concierto de Rammstein en un estadio. Hay que verlos, porque no existe en el mundo nada que se acerque. Te guste o no el rock</description>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Pasen a lamer el zapato de Arcadi Espada | Soto Ivars desde su Trinchera</title>
       <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-03/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <title>Pasen a lamer el zapato de Arcadi Espada | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-03/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La inmigración es un problema, no tengas miedo de admitirlo</title>
-      <link>https://www.elconfidencial.com/cultura/2024-06-15/inmigracion-problema-no-tengas-miedo-admitirlo_3903657/</link>
-      <description>El derecho a migrar para buscar una vida mejor me parece inalterable, siempre que no quede por encima del derecho de una persona a vivir en su barrio con normalidad</description>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <title>Así funciona la máquina del fango de Pedro Sánchez</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-06-18/sanchismo-maquina-de-fango-posverdad-trump_3905226/</link>
+      <description>Sánchez niega, luego admite y justifica, deja que nos cansemos y, finalmente, en el agotamiento, mientras las personas más lúcidas se arrastran sin fuerzas, entonces pasa a los hechos consumados y da por concluido el debate</description>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
@@ -1586,46 +1604,10 @@
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Ley Hughes: alcanzar la elocuencia con información incompleta</title>
-      <link>https://www.elconfidencial.com/cultura/2024-06-23/ley-hughes-alcanzar-elocuencia-informacion-incompleta_3908813/</link>
-      <description>Pensando en las carencias del artículo, llamaré "Ley Hughes" a esa actitud en la que todos los columnistas que tratamos de escribir con gracia y elocuencia caemos alguna que otra vez</description>
-      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A las instituciones españolas les están saliendo apellidos</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-07-03/cis-tezanos-constitucional-pumpido-psoe_3915808/</link>
-      <description>Bajo el paraguas de los ministerios prolifera una fauna de apellidos en forma de asesorías, observatorios y chanfainas públicas variadas, de forma que el sanchismo permea hasta los huesos del Estado y le proporciona nueva forma</description>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La cultura de la cancelación novelada por el guionista de 'Birdman'</title>
-      <link>https://www.elconfidencial.com/cultura/2024-07-04/cultura-cancelacion-novelada-guionista-birdman_3916888/</link>
-      <description>El autor argentino Nicolás Giacobone, más conocido como guionista, publica 'Los impotentes'</description>
-      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <title>Lo más odiado | ¿Qué diferencia a Alvise, Llados y Sánchez? Es lo mismo en esencia</title>
+      <link>https://www.elconfidencial.com/espana/2024-06-19/diferencia-alvise-llados-sanchez_3904938/</link>
+      <description>Juan Soto Ivars y Alberto Olmos están de vuelta. Y lo hacen hablando, como no, del gran fenómeno político que nos han dejado las últimas elecciones</description>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
@@ -1640,28 +1622,58 @@
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>In Dubio Pro Bego | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-08/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Nacho Cano peloteó al líder equivocado</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-07-11/nacho-cano-peloteo-lider-equivocado-detencion-explotacion-inmigrantes_3921921/</link>
-      <description>Imaginemos ahora que en España gobernase el PP, que en la Comunidad de Madrid gobernase el PSOE, y que Nacho Cano hubiera manifestado su amor incondicional por un político progre. ¿Qué estaríamos leyendo hoy?</description>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In Dubio Pro Bego | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-08/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Dejar el Mad Max de la vivienda: fuera el inquiokupa y muerte al piso turístico</title>
-      <link>https://www.elconfidencial.com/cultura/2024-07-14/mad-max-vivienda-antiokupa-muerte-piso-turistico_3923914/</link>
-      <description>Algunos propietarios están alquilando sus pisos por un máximo de once meses para poder saltarse a la torera la ley, pero otros, dado que no sienten que hay seguridad jurídica, se niegan a poner sus pisos en el mercado</description>
-      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
+      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lo más odiado | Es demasiado tarde para hablar de inmigración</title>
+      <link>https://www.elconfidencial.com/espana/2024-07-02/podcast-odiado-inmigracion-tarde_3914922/</link>
+      <description>Juan Soto Ivars y Alberto Olmos han vuelto y lo hacen con un episodio que gira en torno a la inmigración, uno de los grandes problemas que debe afrontar Europa, pero también España</description>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lo más odiado |  ¿Qué diferencia a Alvise, Llados y Sánchez? Es lo mismo en esencia</title>
+      <link>https://www.elconfidencial.com/espana/2024-06-19/diferencia-alvise-llados-sanchez_3904938/</link>
+      <description>Juan Soto Ivars y Alberto Olmos están de vuelta. Y lo hacen hablando, como no, del gran fenómeno político que nos han dejado las últimas elecciones</description>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El hijo de Biden, condenado por el fango de la ultraderecha | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-06-17/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El orgullo también es nuestro: qué hace un hetero celebrando</title>
+      <link>https://www.elconfidencial.com/cultura/2024-07-06/dia-orgullo-gay-lgbt-heterosexual-homosexual_3918683/</link>
+      <description>Heteros y homosexuales no somos más que gente que va por ahí buscando un poco de amor. Todo lo demás es parafernalia</description>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>In Dubio Pro Bego | Soto Ivars desde su Trinchera</title>
@@ -1676,10 +1688,16 @@
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Un montón de racistas viendo el fútbol</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-07-15/monton-racistas-viendo-futbol_3924592/</link>
-      <description>La gente normal estaba viendo el fútbol mientras los racistas, en Twitter, aseguraban que la gente normal rabia cuando marca un negro</description>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <title>In Dubio Pro Bego | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-08/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Dubio Pro Bego | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-08/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>In Dubio Pro Bego | Soto Ivars desde su Trinchera</title>
@@ -1692,6 +1710,12 @@
       <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-08/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tus impuestos van para hospitales, colegios, carreteras y Lo Otro</title>
+      <link>https://www.elconfidencial.com/cultura/2024-07-20/impuestos-hospitales-colegios-carreteras-lo-otro_3928474/</link>
+      <description>Estoy harto de oír que los impuestos están muy bien en boca de quienes, colocando a sus amigos y abusando de las arcas, o siendo ellos mismos los amigos, han convertido al Estado del Bienestar en el Estado de Su Bienestar</description>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>El triunfo de la Selección | Soto Ivars desde su Trinchera</title>
@@ -1706,34 +1730,10 @@
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Roro no acude al punto violeta</title>
-      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-07-24/roro-tiktok-influencer-isabel-garcia-punto-violeta_3930664/</link>
-      <description>Si Roro no respeta la imagen de la mujer forjada por el feminismo, que respete nuestros impuestos. Ir en dirección contraria a nuestra carísima propaganda institucional es una forma de corrupción</description>
-      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>El triunfo de la Selección | Soto Ivars desde su Trinchera</title>
       <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El PSOE de Oceanía nunca robó 680 millones de euros</title>
-      <link>https://www.elconfidencial.com/cultura/2024-07-28/psoe-oceania-1984-orwell_3932516/</link>
-      <description>El "doblepensar", un ejercicio necesario para no sucumbir a la incongruencia. Para "doblepensar" hay que tolerar que una cosa sea cierta y falsa a la vez, prescindir de la lógica y la memoria</description>
-      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El triunfo de la Selección | Soto Ivars desde su Trinchera</title>
-      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
-      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
-      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lo más odiado | ¿Tú no votarías a Trump ahora mismo? Yo sin dudarlo un segundo</title>
-      <link>https://www.elconfidencial.com/espana/2024-07-30/podcast-soto-olmos-ivars-mas-odiado_3933231/</link>
-      <description>Alberto Olmos y Juan Soto Ivars han vuelto... pero no por mucho tiempo. Ambos se despiden de la primera temporada de 'Lo más odiado' con un programa especial.</description>
-      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>El triunfo de la Selección | Soto Ivars desde su Trinchera</title>
@@ -1842,12 +1842,6 @@
       <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esto lo ha escrito un violador en potencia pero también un millonario en potencia</title>
-      <link>https://www.elconfidencial.com/cultura/2024-09-01/hombres-violadores-en-potencia_3952969/</link>
-      <description>Ahora un señor puede llamar "lerda" a una feminista en la tele y no arden las redes, ni la cadena prescinde de él tras un bombardeo de titulares que tildan de machista al insultador como si el desplante hubiera caído del cielo</description>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Argumentario socialista para defender la insolidaridad</title>
@@ -1890,6 +1884,30 @@
       <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
       <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Las ventajas progresistas de traer trabajadores de países subdesarrollados</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-09-04/ventajas-progresistas-traer-trabajadores-paises-subdesarrollados_3954275/</link>
+      <description>Con ser español y abrazar la idea de que la inmigración es una cosa netamente buena y beneficiosa, ayudas, despreciando por completo cualquier análisis crítico sobre el fenómeno</description>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Argumentario socialista para defender la insolidaridad</title>
+      <link>https://blogs.elconfidencial.com/sociedad/espana-is-not-spain/2024-08-01/argumentario-socialista-defender-insolidaridad_3934727/</link>
+      <description>La prioridad social es que el PSOE ocupe el máximo de gobiernos que le sea posible: de lo contrario, la ultraderecha entra por la ventana, empiezan a violar a las mujeres y a apalear gais y el fin de la democracia nos atropella</description>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El triunfo de la Selección | Soto Ivars desde su Trinchera</title>
+      <link>https://www.elconfidencial.com/area-privada-ec-exclusivo/2024-07-22/trinchera-cultural-newsletter-soto-ivars_3379925/</link>
+      <description>Cada sábado, Juan Soto Ivars envía sus partes desde la Trinchera Cultural directamente a tu correo electrónico en forma de 'newsletter'. ¡Suscríbete y recíbela tú también!</description>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Si Broncano lo hace bien, RTVE cancelará su programa</title>
+      <link>https://www.elconfidencial.com/cultura/2024-09-07/david-broncano-tve-el-hormiguero-la-revuelta_3957229/</link>
+      <description>Por donde pasa Sánchez, los muñecos mueven la boca y la pauta siempre es la misma: dado que Sánchez detesta 'El Hormiguero', emplea recursos públicos para combatirlo</description>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Las ventajas progresistas de traer trabajadores de países subdesarrollados</title>
