@@ -6,1450 +6,130 @@
     <description>This is a cool feed!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Nov 2024 08:24:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 08:24:56 +0000</lastBuildDate>
     <item>
-      <title>Dense Discovery – Issue 311</title>
-      <link>https://www.densediscovery.com/issues/311/</link>
-      <pubDate>Tue, 22 Oct 2024 08:26:12 +0000</pubDate>
+      <title>Dense Discovery – Issue 313</title>
+      <link>https://www.densediscovery.com/issues/313/</link>
+      <pubDate>Mon, 04 Nov 2024 08:26:26 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 310</title>
-      <link>https://www.densediscovery.com/issues/310/</link>
-      <pubDate>Tue, 15 Oct 2024 08:26:31 +0000</pubDate>
+      <title>Dense Discovery – Issue 312</title>
+      <link>https://www.densediscovery.com/issues/312/</link>
+      <pubDate>Tue, 29 Oct 2024 08:26:10 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 308</title>
-      <link>https://www.densediscovery.com/issues/308/</link>
-      <pubDate>Tue, 01 Oct 2024 08:27:03 +0000</pubDate>
+      <title>Dense Discovery – Issue 309</title>
+      <link>https://www.densediscovery.com/issues/309/</link>
+      <pubDate>Tue, 08 Oct 2024 08:26:21 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 306</title>
-      <link>https://www.densediscovery.com/issues/306/</link>
-      <pubDate>Tue, 17 Sep 2024 08:25:37 +0000</pubDate>
+      <title>Dense Discovery – Issue 307</title>
+      <link>https://www.densediscovery.com/issues/307/</link>
+      <pubDate>Tue, 24 Sep 2024 08:26:41 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 304</title>
-      <link>https://www.densediscovery.com/issues/304/</link>
-      <pubDate>Tue, 03 Sep 2024 08:24:22 +0000</pubDate>
+      <title>Dense Discovery – Issue 305</title>
+      <link>https://www.densediscovery.com/issues/305/</link>
+      <pubDate>Tue, 10 Sep 2024 08:24:50 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 302</title>
-      <link>https://www.densediscovery.com/issues/302/</link>
-      <pubDate>Tue, 20 Aug 2024 08:23:45 +0000</pubDate>
+      <title>Dense Discovery – Issue 303</title>
+      <link>https://www.densediscovery.com/issues/303/</link>
+      <pubDate>Tue, 27 Aug 2024 08:24:07 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 300</title>
-      <link>https://www.densediscovery.com/issues/300/</link>
-      <pubDate>Tue, 06 Aug 2024 08:22:13 +0000</pubDate>
+      <title>Dense Discovery – Issue 301</title>
+      <link>https://www.densediscovery.com/issues/301/</link>
+      <pubDate>Tue, 13 Aug 2024 08:22:46 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 298</title>
-      <link>https://www.densediscovery.com/issues/298/</link>
-      <pubDate>Tue, 23 Jul 2024 08:23:53 +0000</pubDate>
+      <title>Dense Discovery – Issue templates</title>
+      <link>https://www.densediscovery.com/issues/templates/</link>
+      <pubDate>Tue, 30 Jul 2024 08:21:57 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 296</title>
-      <link>https://www.densediscovery.com/issues/296/</link>
-      <pubDate>Tue, 09 Jul 2024 08:21:16 +0000</pubDate>
+      <title>Dense Discovery – Issue 299</title>
+      <link>https://www.densediscovery.com/issues/299/</link>
+      <pubDate>Tue, 30 Jul 2024 08:21:57 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 294</title>
-      <link>https://www.densediscovery.com/issues/294/</link>
-      <pubDate>Tue, 25 Jun 2024 08:22:21 +0000</pubDate>
+      <title>Dense Discovery – Issue 297</title>
+      <link>https://www.densediscovery.com/issues/297/</link>
+      <pubDate>Tue, 16 Jul 2024 08:23:16 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 292</title>
-      <link>https://www.densediscovery.com/issues/292/</link>
-      <pubDate>Tue, 11 Jun 2024 08:22:33 +0000</pubDate>
+      <title>Dense Discovery – Issue 295</title>
+      <link>https://www.densediscovery.com/issues/295/</link>
+      <pubDate>Tue, 02 Jul 2024 08:22:13 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 290</title>
-      <link>https://www.densediscovery.com/issues/290/</link>
-      <pubDate>Tue, 28 May 2024 08:23:00 +0000</pubDate>
+      <title>Dense Discovery – Issue 293</title>
+      <link>https://www.densediscovery.com/issues/293/</link>
+      <pubDate>Tue, 18 Jun 2024 08:22:50 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 288</title>
-      <link>https://www.densediscovery.com/issues/288/</link>
-      <pubDate>Tue, 14 May 2024 08:22:26 +0000</pubDate>
+      <title>Dense Discovery – Issue 291</title>
+      <link>https://www.densediscovery.com/issues/291/</link>
+      <pubDate>Tue, 04 Jun 2024 08:21:37 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 286</title>
-      <link>https://www.densediscovery.com/issues/286/</link>
-      <pubDate>Tue, 30 Apr 2024 08:20:59 +0000</pubDate>
+      <title>Dense Discovery – Issue 289</title>
+      <link>https://www.densediscovery.com/issues/289/</link>
+      <pubDate>Tue, 21 May 2024 08:21:32 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 284</title>
-      <link>https://www.densediscovery.com/issues/284/</link>
-      <pubDate>Tue, 16 Apr 2024 08:19:43 +0000</pubDate>
+      <title>Dense Discovery – Issue 287</title>
+      <link>https://www.densediscovery.com/issues/287/</link>
+      <pubDate>Tue, 07 May 2024 08:20:10 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 282</title>
-      <link>https://www.densediscovery.com/issues/282/</link>
-      <pubDate>Tue, 02 Apr 2024 08:19:50 +0000</pubDate>
+      <title>Dense Discovery – Issue 285</title>
+      <link>https://www.densediscovery.com/issues/285/</link>
+      <pubDate>Tue, 23 Apr 2024 08:20:03 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 280</title>
-      <link>https://www.densediscovery.com/issues/280/</link>
-      <pubDate>Tue, 19 Mar 2024 08:19:17 +0000</pubDate>
+      <title>Dense Discovery – Issue 283</title>
+      <link>https://www.densediscovery.com/issues/283/</link>
+      <pubDate>Tue, 09 Apr 2024 08:19:51 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 278</title>
-      <link>https://www.densediscovery.com/issues/278/</link>
-      <pubDate>Tue, 05 Mar 2024 08:19:34 +0000</pubDate>
+      <title>Dense Discovery – Issue 281</title>
+      <link>https://www.densediscovery.com/issues/281/</link>
+      <pubDate>Tue, 26 Mar 2024 08:19:10 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 276</title>
-      <link>https://www.densediscovery.com/issues/276/</link>
-      <pubDate>Tue, 20 Feb 2024 08:19:04 +0000</pubDate>
+      <title>Dense Discovery – Issue 279</title>
+      <link>https://www.densediscovery.com/issues/279/</link>
+      <pubDate>Tue, 12 Mar 2024 08:19:01 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 275</title>
-      <link>https://www.densediscovery.com/issues/275/</link>
-      <pubDate>Mon, 12 Feb 2024 21:24:45 +0000</pubDate>
+      <title>Dense Discovery – Issue 277</title>
+      <link>https://www.densediscovery.com/issues/277/</link>
+      <pubDate>Tue, 27 Feb 2024 08:18:55 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 273</title>
-      <link>https://www.densediscovery.com/issues/273/</link>
-      <pubDate>Tue, 30 Jan 2024 08:18:56 +0000</pubDate>
+      <title>Dense Discovery – Issue 274</title>
+      <link>https://www.densediscovery.com/issues/274/</link>
+      <pubDate>Tue, 06 Feb 2024 08:19:30 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 271</title>
-      <link>https://www.densediscovery.com/issues/271/</link>
-      <pubDate>Tue, 16 Jan 2024 08:21:06 +0000</pubDate>
+      <title>Dense Discovery – Issue 272</title>
+      <link>https://www.densediscovery.com/issues/272/</link>
+      <pubDate>Tue, 23 Jan 2024 08:21:21 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 269</title>
-      <link>https://www.densediscovery.com/issues/269/</link>
-      <pubDate>Tue, 19 Dec 2023 08:30:14 +0000</pubDate>
+      <title>Dense Discovery – Issue 270</title>
+      <link>https://www.densediscovery.com/issues/270/</link>
+      <pubDate>Tue, 09 Jan 2024 08:20:50 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 0</title>
-      <link>https://www.densediscovery.com/issues/0/</link>
-      <pubDate>Mon, 11 Dec 2023 08:31:48 +0000</pubDate>
+      <title>Dense Discovery – Issue 268</title>
+      <link>https://www.densediscovery.com/issues/268/</link>
+      <pubDate>Tue, 12 Dec 2023 08:30:55 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 266</title>
-      <link>https://www.densediscovery.com/issues/266/</link>
-      <pubDate>Wed, 06 Dec 2023 23:14:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 267</title>
-      <link>https://www.densediscovery.com/issues/267/</link>
-      <pubDate>Wed, 06 Dec 2023 23:14:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 1</title>
-      <link>https://www.densediscovery.com/issues/1/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 2</title>
-      <link>https://www.densediscovery.com/issues/2/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 3</title>
-      <link>https://www.densediscovery.com/issues/3/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 4</title>
-      <link>https://www.densediscovery.com/issues/4/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 5</title>
-      <link>https://www.densediscovery.com/issues/5/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 6</title>
-      <link>https://www.densediscovery.com/issues/6/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 7</title>
-      <link>https://www.densediscovery.com/issues/7/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 8</title>
-      <link>https://www.densediscovery.com/issues/8/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 9</title>
-      <link>https://www.densediscovery.com/issues/9/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 10</title>
-      <link>https://www.densediscovery.com/issues/10/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 11</title>
-      <link>https://www.densediscovery.com/issues/11/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 12</title>
-      <link>https://www.densediscovery.com/issues/12/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 13</title>
-      <link>https://www.densediscovery.com/issues/13/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 14</title>
-      <link>https://www.densediscovery.com/issues/14/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 15</title>
-      <link>https://www.densediscovery.com/issues/15/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 16</title>
-      <link>https://www.densediscovery.com/issues/16/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 17</title>
-      <link>https://www.densediscovery.com/issues/17/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 18</title>
-      <link>https://www.densediscovery.com/issues/18/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 19</title>
-      <link>https://www.densediscovery.com/issues/19/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 20</title>
-      <link>https://www.densediscovery.com/issues/20/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 21</title>
-      <link>https://www.densediscovery.com/issues/21/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 22</title>
-      <link>https://www.densediscovery.com/issues/22/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 23</title>
-      <link>https://www.densediscovery.com/issues/23/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 24</title>
-      <link>https://www.densediscovery.com/issues/24/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 25</title>
-      <link>https://www.densediscovery.com/issues/25/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 26</title>
-      <link>https://www.densediscovery.com/issues/26/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 27</title>
-      <link>https://www.densediscovery.com/issues/27/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 28</title>
-      <link>https://www.densediscovery.com/issues/28/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 29</title>
-      <link>https://www.densediscovery.com/issues/29/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 30</title>
-      <link>https://www.densediscovery.com/issues/30/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 31</title>
-      <link>https://www.densediscovery.com/issues/31/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 32</title>
-      <link>https://www.densediscovery.com/issues/32/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 33</title>
-      <link>https://www.densediscovery.com/issues/33/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 34</title>
-      <link>https://www.densediscovery.com/issues/34/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 35</title>
-      <link>https://www.densediscovery.com/issues/35/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 36</title>
-      <link>https://www.densediscovery.com/issues/36/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 37</title>
-      <link>https://www.densediscovery.com/issues/37/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 38</title>
-      <link>https://www.densediscovery.com/issues/38/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 39</title>
-      <link>https://www.densediscovery.com/issues/39/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 40</title>
-      <link>https://www.densediscovery.com/issues/40/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 41</title>
-      <link>https://www.densediscovery.com/issues/41/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 42</title>
-      <link>https://www.densediscovery.com/issues/42/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 43</title>
-      <link>https://www.densediscovery.com/issues/43/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 44</title>
-      <link>https://www.densediscovery.com/issues/44/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 45</title>
-      <link>https://www.densediscovery.com/issues/45/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 46</title>
-      <link>https://www.densediscovery.com/issues/46/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 47</title>
-      <link>https://www.densediscovery.com/issues/47/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 48</title>
-      <link>https://www.densediscovery.com/issues/48/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 49</title>
-      <link>https://www.densediscovery.com/issues/49/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 50</title>
-      <link>https://www.densediscovery.com/issues/50/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 51</title>
-      <link>https://www.densediscovery.com/issues/51/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 52</title>
-      <link>https://www.densediscovery.com/issues/52/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 53</title>
-      <link>https://www.densediscovery.com/issues/53/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 54</title>
-      <link>https://www.densediscovery.com/issues/54/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 55</title>
-      <link>https://www.densediscovery.com/issues/55/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 56</title>
-      <link>https://www.densediscovery.com/issues/56/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 57</title>
-      <link>https://www.densediscovery.com/issues/57/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 58</title>
-      <link>https://www.densediscovery.com/issues/58/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 59</title>
-      <link>https://www.densediscovery.com/issues/59/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 60</title>
-      <link>https://www.densediscovery.com/issues/60/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 61</title>
-      <link>https://www.densediscovery.com/issues/61/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 62</title>
-      <link>https://www.densediscovery.com/issues/62/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 63</title>
-      <link>https://www.densediscovery.com/issues/63/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 64</title>
-      <link>https://www.densediscovery.com/issues/64/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 65</title>
-      <link>https://www.densediscovery.com/issues/65/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 66</title>
-      <link>https://www.densediscovery.com/issues/66/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 67</title>
-      <link>https://www.densediscovery.com/issues/67/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 68</title>
-      <link>https://www.densediscovery.com/issues/68/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 69</title>
-      <link>https://www.densediscovery.com/issues/69/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 70</title>
-      <link>https://www.densediscovery.com/issues/70/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 71</title>
-      <link>https://www.densediscovery.com/issues/71/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 72</title>
-      <link>https://www.densediscovery.com/issues/72/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 73</title>
-      <link>https://www.densediscovery.com/issues/73/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 74</title>
-      <link>https://www.densediscovery.com/issues/74/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 75</title>
-      <link>https://www.densediscovery.com/issues/75/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 76</title>
-      <link>https://www.densediscovery.com/issues/76/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 77</title>
-      <link>https://www.densediscovery.com/issues/77/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 78</title>
-      <link>https://www.densediscovery.com/issues/78/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 79</title>
-      <link>https://www.densediscovery.com/issues/79/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 80</title>
-      <link>https://www.densediscovery.com/issues/80/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 81</title>
-      <link>https://www.densediscovery.com/issues/81/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 82</title>
-      <link>https://www.densediscovery.com/issues/82/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 83</title>
-      <link>https://www.densediscovery.com/issues/83/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 84</title>
-      <link>https://www.densediscovery.com/issues/84/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 85</title>
-      <link>https://www.densediscovery.com/issues/85/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 86</title>
-      <link>https://www.densediscovery.com/issues/86/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 87</title>
-      <link>https://www.densediscovery.com/issues/87/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 88</title>
-      <link>https://www.densediscovery.com/issues/88/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 89</title>
-      <link>https://www.densediscovery.com/issues/89/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 90</title>
-      <link>https://www.densediscovery.com/issues/90/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 91</title>
-      <link>https://www.densediscovery.com/issues/91/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 92</title>
-      <link>https://www.densediscovery.com/issues/92/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 93</title>
-      <link>https://www.densediscovery.com/issues/93/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 94</title>
-      <link>https://www.densediscovery.com/issues/94/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 95</title>
-      <link>https://www.densediscovery.com/issues/95/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 96</title>
-      <link>https://www.densediscovery.com/issues/96/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 97</title>
-      <link>https://www.densediscovery.com/issues/97/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 98</title>
-      <link>https://www.densediscovery.com/issues/98/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 99</title>
-      <link>https://www.densediscovery.com/issues/99/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 100</title>
-      <link>https://www.densediscovery.com/issues/100/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 101</title>
-      <link>https://www.densediscovery.com/issues/101/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 102</title>
-      <link>https://www.densediscovery.com/issues/102/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 103</title>
-      <link>https://www.densediscovery.com/issues/103/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 104</title>
-      <link>https://www.densediscovery.com/issues/104/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 105</title>
-      <link>https://www.densediscovery.com/issues/105/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 106</title>
-      <link>https://www.densediscovery.com/issues/106/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 107</title>
-      <link>https://www.densediscovery.com/issues/107/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 108</title>
-      <link>https://www.densediscovery.com/issues/108/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 109</title>
-      <link>https://www.densediscovery.com/issues/109/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 110</title>
-      <link>https://www.densediscovery.com/issues/110/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 111</title>
-      <link>https://www.densediscovery.com/issues/111/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 112</title>
-      <link>https://www.densediscovery.com/issues/112/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 113</title>
-      <link>https://www.densediscovery.com/issues/113/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 114</title>
-      <link>https://www.densediscovery.com/issues/114/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 115</title>
-      <link>https://www.densediscovery.com/issues/115/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 116</title>
-      <link>https://www.densediscovery.com/issues/116/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 117</title>
-      <link>https://www.densediscovery.com/issues/117/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 118</title>
-      <link>https://www.densediscovery.com/issues/118/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 119</title>
-      <link>https://www.densediscovery.com/issues/119/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 120</title>
-      <link>https://www.densediscovery.com/issues/120/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 121</title>
-      <link>https://www.densediscovery.com/issues/121/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 122</title>
-      <link>https://www.densediscovery.com/issues/122/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 123</title>
-      <link>https://www.densediscovery.com/issues/123/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 124</title>
-      <link>https://www.densediscovery.com/issues/124/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 125</title>
-      <link>https://www.densediscovery.com/issues/125/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 126</title>
-      <link>https://www.densediscovery.com/issues/126/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 127</title>
-      <link>https://www.densediscovery.com/issues/127/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 128</title>
-      <link>https://www.densediscovery.com/issues/128/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 129</title>
-      <link>https://www.densediscovery.com/issues/129/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 130</title>
-      <link>https://www.densediscovery.com/issues/130/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 131</title>
-      <link>https://www.densediscovery.com/issues/131/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 132</title>
-      <link>https://www.densediscovery.com/issues/132/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 133</title>
-      <link>https://www.densediscovery.com/issues/133/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 134</title>
-      <link>https://www.densediscovery.com/issues/134/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 135</title>
-      <link>https://www.densediscovery.com/issues/135/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 136</title>
-      <link>https://www.densediscovery.com/issues/136/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 137</title>
-      <link>https://www.densediscovery.com/issues/137/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 138</title>
-      <link>https://www.densediscovery.com/issues/138/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 139</title>
-      <link>https://www.densediscovery.com/issues/139/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 140</title>
-      <link>https://www.densediscovery.com/issues/140/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 141</title>
-      <link>https://www.densediscovery.com/issues/141/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 142</title>
-      <link>https://www.densediscovery.com/issues/142/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 143</title>
-      <link>https://www.densediscovery.com/issues/143/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 144</title>
-      <link>https://www.densediscovery.com/issues/144/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 145</title>
-      <link>https://www.densediscovery.com/issues/145/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 146</title>
-      <link>https://www.densediscovery.com/issues/146/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 147</title>
-      <link>https://www.densediscovery.com/issues/147/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 148</title>
-      <link>https://www.densediscovery.com/issues/148/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 149</title>
-      <link>https://www.densediscovery.com/issues/149/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 150</title>
-      <link>https://www.densediscovery.com/issues/150/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 151</title>
-      <link>https://www.densediscovery.com/issues/151/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 152</title>
-      <link>https://www.densediscovery.com/issues/152/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 153</title>
-      <link>https://www.densediscovery.com/issues/153/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 154</title>
-      <link>https://www.densediscovery.com/issues/154/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 155</title>
-      <link>https://www.densediscovery.com/issues/155/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 156</title>
-      <link>https://www.densediscovery.com/issues/156/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 157</title>
-      <link>https://www.densediscovery.com/issues/157/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 158</title>
-      <link>https://www.densediscovery.com/issues/158/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 159</title>
-      <link>https://www.densediscovery.com/issues/159/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 160</title>
-      <link>https://www.densediscovery.com/issues/160/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 161</title>
-      <link>https://www.densediscovery.com/issues/161/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 162</title>
-      <link>https://www.densediscovery.com/issues/162/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 163</title>
-      <link>https://www.densediscovery.com/issues/163/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 164</title>
-      <link>https://www.densediscovery.com/issues/164/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 165</title>
-      <link>https://www.densediscovery.com/issues/165/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 166</title>
-      <link>https://www.densediscovery.com/issues/166/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 167</title>
-      <link>https://www.densediscovery.com/issues/167/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 168</title>
-      <link>https://www.densediscovery.com/issues/168/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 169</title>
-      <link>https://www.densediscovery.com/issues/169/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 170</title>
-      <link>https://www.densediscovery.com/issues/170/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 171</title>
-      <link>https://www.densediscovery.com/issues/171/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 172</title>
-      <link>https://www.densediscovery.com/issues/172/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 173</title>
-      <link>https://www.densediscovery.com/issues/173/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 174</title>
-      <link>https://www.densediscovery.com/issues/174/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 175</title>
-      <link>https://www.densediscovery.com/issues/175/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 176</title>
-      <link>https://www.densediscovery.com/issues/176/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 177</title>
-      <link>https://www.densediscovery.com/issues/177/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 178</title>
-      <link>https://www.densediscovery.com/issues/178/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 179</title>
-      <link>https://www.densediscovery.com/issues/179/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 180</title>
-      <link>https://www.densediscovery.com/issues/180/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 181</title>
-      <link>https://www.densediscovery.com/issues/181/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 182</title>
-      <link>https://www.densediscovery.com/issues/182/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 183</title>
-      <link>https://www.densediscovery.com/issues/183/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 184</title>
-      <link>https://www.densediscovery.com/issues/184/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 185</title>
-      <link>https://www.densediscovery.com/issues/185/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 186</title>
-      <link>https://www.densediscovery.com/issues/186/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 187</title>
-      <link>https://www.densediscovery.com/issues/187/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 188</title>
-      <link>https://www.densediscovery.com/issues/188/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 189</title>
-      <link>https://www.densediscovery.com/issues/189/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 190</title>
-      <link>https://www.densediscovery.com/issues/190/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 191</title>
-      <link>https://www.densediscovery.com/issues/191/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 192</title>
-      <link>https://www.densediscovery.com/issues/192/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 193</title>
-      <link>https://www.densediscovery.com/issues/193/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 194</title>
-      <link>https://www.densediscovery.com/issues/194/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 195</title>
-      <link>https://www.densediscovery.com/issues/195/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 196</title>
-      <link>https://www.densediscovery.com/issues/196/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 197</title>
-      <link>https://www.densediscovery.com/issues/197/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 198</title>
-      <link>https://www.densediscovery.com/issues/198/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 199</title>
-      <link>https://www.densediscovery.com/issues/199/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 200</title>
-      <link>https://www.densediscovery.com/issues/200/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 201</title>
-      <link>https://www.densediscovery.com/issues/201/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 202</title>
-      <link>https://www.densediscovery.com/issues/202/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 203</title>
-      <link>https://www.densediscovery.com/issues/203/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 204</title>
-      <link>https://www.densediscovery.com/issues/204/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 205</title>
-      <link>https://www.densediscovery.com/issues/205/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 206</title>
-      <link>https://www.densediscovery.com/issues/206/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 207</title>
-      <link>https://www.densediscovery.com/issues/207/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 208</title>
-      <link>https://www.densediscovery.com/issues/208/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 209</title>
-      <link>https://www.densediscovery.com/issues/209/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 210</title>
-      <link>https://www.densediscovery.com/issues/210/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 211</title>
-      <link>https://www.densediscovery.com/issues/211/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 212</title>
-      <link>https://www.densediscovery.com/issues/212/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 213</title>
-      <link>https://www.densediscovery.com/issues/213/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 214</title>
-      <link>https://www.densediscovery.com/issues/214/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 215</title>
-      <link>https://www.densediscovery.com/issues/215/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 216</title>
-      <link>https://www.densediscovery.com/issues/216/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 217</title>
-      <link>https://www.densediscovery.com/issues/217/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 218</title>
-      <link>https://www.densediscovery.com/issues/218/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 219</title>
-      <link>https://www.densediscovery.com/issues/219/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 220</title>
-      <link>https://www.densediscovery.com/issues/220/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 221</title>
-      <link>https://www.densediscovery.com/issues/221/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 222</title>
-      <link>https://www.densediscovery.com/issues/222/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 223</title>
-      <link>https://www.densediscovery.com/issues/223/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 224</title>
-      <link>https://www.densediscovery.com/issues/224/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 225</title>
-      <link>https://www.densediscovery.com/issues/225/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 226</title>
-      <link>https://www.densediscovery.com/issues/226/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 227</title>
-      <link>https://www.densediscovery.com/issues/227/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 228</title>
-      <link>https://www.densediscovery.com/issues/228/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 229</title>
-      <link>https://www.densediscovery.com/issues/229/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 230</title>
-      <link>https://www.densediscovery.com/issues/230/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 231</title>
-      <link>https://www.densediscovery.com/issues/231/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 232</title>
-      <link>https://www.densediscovery.com/issues/232/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 233</title>
-      <link>https://www.densediscovery.com/issues/233/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 234</title>
-      <link>https://www.densediscovery.com/issues/234/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 235</title>
-      <link>https://www.densediscovery.com/issues/235/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 236</title>
-      <link>https://www.densediscovery.com/issues/236/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 237</title>
-      <link>https://www.densediscovery.com/issues/237/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 238</title>
-      <link>https://www.densediscovery.com/issues/238/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 239</title>
-      <link>https://www.densediscovery.com/issues/239/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 240</title>
-      <link>https://www.densediscovery.com/issues/240/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 241</title>
-      <link>https://www.densediscovery.com/issues/241/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 242</title>
-      <link>https://www.densediscovery.com/issues/242/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 243</title>
-      <link>https://www.densediscovery.com/issues/243/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 244</title>
-      <link>https://www.densediscovery.com/issues/244/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 245</title>
-      <link>https://www.densediscovery.com/issues/245/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 246</title>
-      <link>https://www.densediscovery.com/issues/246/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 247</title>
-      <link>https://www.densediscovery.com/issues/247/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 248</title>
-      <link>https://www.densediscovery.com/issues/248/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 249</title>
-      <link>https://www.densediscovery.com/issues/249/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 250</title>
-      <link>https://www.densediscovery.com/issues/250/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 251</title>
-      <link>https://www.densediscovery.com/issues/251/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 252</title>
-      <link>https://www.densediscovery.com/issues/252/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 253</title>
-      <link>https://www.densediscovery.com/issues/253/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 254</title>
-      <link>https://www.densediscovery.com/issues/254/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 255</title>
-      <link>https://www.densediscovery.com/issues/255/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 256</title>
-      <link>https://www.densediscovery.com/issues/256/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 257</title>
-      <link>https://www.densediscovery.com/issues/257/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 258</title>
-      <link>https://www.densediscovery.com/issues/258/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 259</title>
-      <link>https://www.densediscovery.com/issues/259/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 260</title>
-      <link>https://www.densediscovery.com/issues/260/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 261</title>
-      <link>https://www.densediscovery.com/issues/261/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 262</title>
-      <link>https://www.densediscovery.com/issues/262/</link>
-      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dense Discovery – Issue 263</title>
-      <link>https://www.densediscovery.com/issues/263/</link>
+      <title>Dense Discovery – Issue 265</title>
+      <link>https://www.densediscovery.com/issues/265/</link>
       <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
@@ -1458,129 +138,1449 @@
       <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 265</title>
-      <link>https://www.densediscovery.com/issues/265/</link>
+      <title>Dense Discovery – Issue 263</title>
+      <link>https://www.densediscovery.com/issues/263/</link>
       <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 268</title>
-      <link>https://www.densediscovery.com/issues/268/</link>
-      <pubDate>Tue, 12 Dec 2023 08:30:55 +0000</pubDate>
+      <title>Dense Discovery – Issue 262</title>
+      <link>https://www.densediscovery.com/issues/262/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 270</title>
-      <link>https://www.densediscovery.com/issues/270/</link>
-      <pubDate>Tue, 09 Jan 2024 08:20:50 +0000</pubDate>
+      <title>Dense Discovery – Issue 261</title>
+      <link>https://www.densediscovery.com/issues/261/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 272</title>
-      <link>https://www.densediscovery.com/issues/272/</link>
-      <pubDate>Tue, 23 Jan 2024 08:21:21 +0000</pubDate>
+      <title>Dense Discovery – Issue 260</title>
+      <link>https://www.densediscovery.com/issues/260/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 274</title>
-      <link>https://www.densediscovery.com/issues/274/</link>
-      <pubDate>Tue, 06 Feb 2024 08:19:30 +0000</pubDate>
+      <title>Dense Discovery – Issue 259</title>
+      <link>https://www.densediscovery.com/issues/259/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 277</title>
-      <link>https://www.densediscovery.com/issues/277/</link>
-      <pubDate>Tue, 27 Feb 2024 08:18:55 +0000</pubDate>
+      <title>Dense Discovery – Issue 258</title>
+      <link>https://www.densediscovery.com/issues/258/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 279</title>
-      <link>https://www.densediscovery.com/issues/279/</link>
-      <pubDate>Tue, 12 Mar 2024 08:19:01 +0000</pubDate>
+      <title>Dense Discovery – Issue 257</title>
+      <link>https://www.densediscovery.com/issues/257/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 281</title>
-      <link>https://www.densediscovery.com/issues/281/</link>
-      <pubDate>Tue, 26 Mar 2024 08:19:10 +0000</pubDate>
+      <title>Dense Discovery – Issue 256</title>
+      <link>https://www.densediscovery.com/issues/256/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 283</title>
-      <link>https://www.densediscovery.com/issues/283/</link>
-      <pubDate>Tue, 09 Apr 2024 08:19:51 +0000</pubDate>
+      <title>Dense Discovery – Issue 255</title>
+      <link>https://www.densediscovery.com/issues/255/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 285</title>
-      <link>https://www.densediscovery.com/issues/285/</link>
-      <pubDate>Tue, 23 Apr 2024 08:20:03 +0000</pubDate>
+      <title>Dense Discovery – Issue 254</title>
+      <link>https://www.densediscovery.com/issues/254/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 287</title>
-      <link>https://www.densediscovery.com/issues/287/</link>
-      <pubDate>Tue, 07 May 2024 08:20:10 +0000</pubDate>
+      <title>Dense Discovery – Issue 253</title>
+      <link>https://www.densediscovery.com/issues/253/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 289</title>
-      <link>https://www.densediscovery.com/issues/289/</link>
-      <pubDate>Tue, 21 May 2024 08:21:32 +0000</pubDate>
+      <title>Dense Discovery – Issue 252</title>
+      <link>https://www.densediscovery.com/issues/252/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 291</title>
-      <link>https://www.densediscovery.com/issues/291/</link>
-      <pubDate>Tue, 04 Jun 2024 08:21:37 +0000</pubDate>
+      <title>Dense Discovery – Issue 251</title>
+      <link>https://www.densediscovery.com/issues/251/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 293</title>
-      <link>https://www.densediscovery.com/issues/293/</link>
-      <pubDate>Tue, 18 Jun 2024 08:22:50 +0000</pubDate>
+      <title>Dense Discovery – Issue 250</title>
+      <link>https://www.densediscovery.com/issues/250/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 295</title>
-      <link>https://www.densediscovery.com/issues/295/</link>
-      <pubDate>Tue, 02 Jul 2024 08:22:13 +0000</pubDate>
+      <title>Dense Discovery – Issue 249</title>
+      <link>https://www.densediscovery.com/issues/249/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 297</title>
-      <link>https://www.densediscovery.com/issues/297/</link>
-      <pubDate>Tue, 16 Jul 2024 08:23:16 +0000</pubDate>
+      <title>Dense Discovery – Issue 248</title>
+      <link>https://www.densediscovery.com/issues/248/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 299</title>
-      <link>https://www.densediscovery.com/issues/299/</link>
-      <pubDate>Tue, 30 Jul 2024 08:21:57 +0000</pubDate>
+      <title>Dense Discovery – Issue 247</title>
+      <link>https://www.densediscovery.com/issues/247/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue templates</title>
-      <link>https://www.densediscovery.com/issues/templates/</link>
-      <pubDate>Tue, 30 Jul 2024 08:21:57 +0000</pubDate>
+      <title>Dense Discovery – Issue 246</title>
+      <link>https://www.densediscovery.com/issues/246/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 301</title>
-      <link>https://www.densediscovery.com/issues/301/</link>
-      <pubDate>Tue, 13 Aug 2024 08:22:46 +0000</pubDate>
+      <title>Dense Discovery – Issue 245</title>
+      <link>https://www.densediscovery.com/issues/245/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 303</title>
-      <link>https://www.densediscovery.com/issues/303/</link>
-      <pubDate>Tue, 27 Aug 2024 08:24:07 +0000</pubDate>
+      <title>Dense Discovery – Issue 244</title>
+      <link>https://www.densediscovery.com/issues/244/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 305</title>
-      <link>https://www.densediscovery.com/issues/305/</link>
-      <pubDate>Tue, 10 Sep 2024 08:24:50 +0000</pubDate>
+      <title>Dense Discovery – Issue 243</title>
+      <link>https://www.densediscovery.com/issues/243/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 307</title>
-      <link>https://www.densediscovery.com/issues/307/</link>
-      <pubDate>Tue, 24 Sep 2024 08:26:41 +0000</pubDate>
+      <title>Dense Discovery – Issue 242</title>
+      <link>https://www.densediscovery.com/issues/242/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 309</title>
-      <link>https://www.densediscovery.com/issues/309/</link>
-      <pubDate>Tue, 08 Oct 2024 08:26:21 +0000</pubDate>
+      <title>Dense Discovery – Issue 241</title>
+      <link>https://www.densediscovery.com/issues/241/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 312</title>
-      <link>https://www.densediscovery.com/issues/312/</link>
-      <pubDate>Tue, 29 Oct 2024 08:26:10 +0000</pubDate>
+      <title>Dense Discovery – Issue 240</title>
+      <link>https://www.densediscovery.com/issues/240/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Dense Discovery – Issue 313</title>
-      <link>https://www.densediscovery.com/issues/313/</link>
-      <pubDate>Mon, 04 Nov 2024 08:26:26 +0000</pubDate>
+      <title>Dense Discovery – Issue 239</title>
+      <link>https://www.densediscovery.com/issues/239/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 238</title>
+      <link>https://www.densediscovery.com/issues/238/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 237</title>
+      <link>https://www.densediscovery.com/issues/237/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 236</title>
+      <link>https://www.densediscovery.com/issues/236/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 235</title>
+      <link>https://www.densediscovery.com/issues/235/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 234</title>
+      <link>https://www.densediscovery.com/issues/234/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 233</title>
+      <link>https://www.densediscovery.com/issues/233/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 232</title>
+      <link>https://www.densediscovery.com/issues/232/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 231</title>
+      <link>https://www.densediscovery.com/issues/231/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 230</title>
+      <link>https://www.densediscovery.com/issues/230/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 229</title>
+      <link>https://www.densediscovery.com/issues/229/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 228</title>
+      <link>https://www.densediscovery.com/issues/228/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 227</title>
+      <link>https://www.densediscovery.com/issues/227/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 226</title>
+      <link>https://www.densediscovery.com/issues/226/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 225</title>
+      <link>https://www.densediscovery.com/issues/225/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 224</title>
+      <link>https://www.densediscovery.com/issues/224/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 223</title>
+      <link>https://www.densediscovery.com/issues/223/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 222</title>
+      <link>https://www.densediscovery.com/issues/222/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 221</title>
+      <link>https://www.densediscovery.com/issues/221/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 220</title>
+      <link>https://www.densediscovery.com/issues/220/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 219</title>
+      <link>https://www.densediscovery.com/issues/219/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 218</title>
+      <link>https://www.densediscovery.com/issues/218/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 217</title>
+      <link>https://www.densediscovery.com/issues/217/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 216</title>
+      <link>https://www.densediscovery.com/issues/216/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 215</title>
+      <link>https://www.densediscovery.com/issues/215/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 214</title>
+      <link>https://www.densediscovery.com/issues/214/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 213</title>
+      <link>https://www.densediscovery.com/issues/213/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 212</title>
+      <link>https://www.densediscovery.com/issues/212/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 211</title>
+      <link>https://www.densediscovery.com/issues/211/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 210</title>
+      <link>https://www.densediscovery.com/issues/210/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 209</title>
+      <link>https://www.densediscovery.com/issues/209/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 208</title>
+      <link>https://www.densediscovery.com/issues/208/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 207</title>
+      <link>https://www.densediscovery.com/issues/207/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 206</title>
+      <link>https://www.densediscovery.com/issues/206/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 205</title>
+      <link>https://www.densediscovery.com/issues/205/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 204</title>
+      <link>https://www.densediscovery.com/issues/204/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 203</title>
+      <link>https://www.densediscovery.com/issues/203/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 202</title>
+      <link>https://www.densediscovery.com/issues/202/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 201</title>
+      <link>https://www.densediscovery.com/issues/201/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 200</title>
+      <link>https://www.densediscovery.com/issues/200/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 199</title>
+      <link>https://www.densediscovery.com/issues/199/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 198</title>
+      <link>https://www.densediscovery.com/issues/198/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 197</title>
+      <link>https://www.densediscovery.com/issues/197/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 196</title>
+      <link>https://www.densediscovery.com/issues/196/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 195</title>
+      <link>https://www.densediscovery.com/issues/195/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 194</title>
+      <link>https://www.densediscovery.com/issues/194/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 193</title>
+      <link>https://www.densediscovery.com/issues/193/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 192</title>
+      <link>https://www.densediscovery.com/issues/192/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 191</title>
+      <link>https://www.densediscovery.com/issues/191/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 190</title>
+      <link>https://www.densediscovery.com/issues/190/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 189</title>
+      <link>https://www.densediscovery.com/issues/189/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 188</title>
+      <link>https://www.densediscovery.com/issues/188/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 187</title>
+      <link>https://www.densediscovery.com/issues/187/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 186</title>
+      <link>https://www.densediscovery.com/issues/186/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 185</title>
+      <link>https://www.densediscovery.com/issues/185/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 184</title>
+      <link>https://www.densediscovery.com/issues/184/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 183</title>
+      <link>https://www.densediscovery.com/issues/183/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 182</title>
+      <link>https://www.densediscovery.com/issues/182/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 181</title>
+      <link>https://www.densediscovery.com/issues/181/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 180</title>
+      <link>https://www.densediscovery.com/issues/180/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 179</title>
+      <link>https://www.densediscovery.com/issues/179/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 178</title>
+      <link>https://www.densediscovery.com/issues/178/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 177</title>
+      <link>https://www.densediscovery.com/issues/177/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 176</title>
+      <link>https://www.densediscovery.com/issues/176/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 175</title>
+      <link>https://www.densediscovery.com/issues/175/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 174</title>
+      <link>https://www.densediscovery.com/issues/174/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 173</title>
+      <link>https://www.densediscovery.com/issues/173/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 172</title>
+      <link>https://www.densediscovery.com/issues/172/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 171</title>
+      <link>https://www.densediscovery.com/issues/171/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 170</title>
+      <link>https://www.densediscovery.com/issues/170/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 169</title>
+      <link>https://www.densediscovery.com/issues/169/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 168</title>
+      <link>https://www.densediscovery.com/issues/168/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 167</title>
+      <link>https://www.densediscovery.com/issues/167/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 166</title>
+      <link>https://www.densediscovery.com/issues/166/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 165</title>
+      <link>https://www.densediscovery.com/issues/165/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 164</title>
+      <link>https://www.densediscovery.com/issues/164/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 163</title>
+      <link>https://www.densediscovery.com/issues/163/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 162</title>
+      <link>https://www.densediscovery.com/issues/162/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 161</title>
+      <link>https://www.densediscovery.com/issues/161/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 160</title>
+      <link>https://www.densediscovery.com/issues/160/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 159</title>
+      <link>https://www.densediscovery.com/issues/159/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 158</title>
+      <link>https://www.densediscovery.com/issues/158/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 157</title>
+      <link>https://www.densediscovery.com/issues/157/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 156</title>
+      <link>https://www.densediscovery.com/issues/156/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 155</title>
+      <link>https://www.densediscovery.com/issues/155/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 154</title>
+      <link>https://www.densediscovery.com/issues/154/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 153</title>
+      <link>https://www.densediscovery.com/issues/153/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 152</title>
+      <link>https://www.densediscovery.com/issues/152/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 151</title>
+      <link>https://www.densediscovery.com/issues/151/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 150</title>
+      <link>https://www.densediscovery.com/issues/150/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 149</title>
+      <link>https://www.densediscovery.com/issues/149/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 148</title>
+      <link>https://www.densediscovery.com/issues/148/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 147</title>
+      <link>https://www.densediscovery.com/issues/147/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 146</title>
+      <link>https://www.densediscovery.com/issues/146/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 145</title>
+      <link>https://www.densediscovery.com/issues/145/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 144</title>
+      <link>https://www.densediscovery.com/issues/144/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 143</title>
+      <link>https://www.densediscovery.com/issues/143/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 142</title>
+      <link>https://www.densediscovery.com/issues/142/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 141</title>
+      <link>https://www.densediscovery.com/issues/141/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 140</title>
+      <link>https://www.densediscovery.com/issues/140/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 139</title>
+      <link>https://www.densediscovery.com/issues/139/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 138</title>
+      <link>https://www.densediscovery.com/issues/138/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 137</title>
+      <link>https://www.densediscovery.com/issues/137/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 136</title>
+      <link>https://www.densediscovery.com/issues/136/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 135</title>
+      <link>https://www.densediscovery.com/issues/135/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 134</title>
+      <link>https://www.densediscovery.com/issues/134/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 133</title>
+      <link>https://www.densediscovery.com/issues/133/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 132</title>
+      <link>https://www.densediscovery.com/issues/132/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 131</title>
+      <link>https://www.densediscovery.com/issues/131/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 130</title>
+      <link>https://www.densediscovery.com/issues/130/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 129</title>
+      <link>https://www.densediscovery.com/issues/129/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 128</title>
+      <link>https://www.densediscovery.com/issues/128/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 127</title>
+      <link>https://www.densediscovery.com/issues/127/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 126</title>
+      <link>https://www.densediscovery.com/issues/126/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 125</title>
+      <link>https://www.densediscovery.com/issues/125/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 124</title>
+      <link>https://www.densediscovery.com/issues/124/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 123</title>
+      <link>https://www.densediscovery.com/issues/123/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 122</title>
+      <link>https://www.densediscovery.com/issues/122/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 121</title>
+      <link>https://www.densediscovery.com/issues/121/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 120</title>
+      <link>https://www.densediscovery.com/issues/120/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 119</title>
+      <link>https://www.densediscovery.com/issues/119/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 118</title>
+      <link>https://www.densediscovery.com/issues/118/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 117</title>
+      <link>https://www.densediscovery.com/issues/117/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 116</title>
+      <link>https://www.densediscovery.com/issues/116/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 115</title>
+      <link>https://www.densediscovery.com/issues/115/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 114</title>
+      <link>https://www.densediscovery.com/issues/114/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 113</title>
+      <link>https://www.densediscovery.com/issues/113/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 112</title>
+      <link>https://www.densediscovery.com/issues/112/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 111</title>
+      <link>https://www.densediscovery.com/issues/111/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 110</title>
+      <link>https://www.densediscovery.com/issues/110/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 109</title>
+      <link>https://www.densediscovery.com/issues/109/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 108</title>
+      <link>https://www.densediscovery.com/issues/108/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 107</title>
+      <link>https://www.densediscovery.com/issues/107/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 106</title>
+      <link>https://www.densediscovery.com/issues/106/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 105</title>
+      <link>https://www.densediscovery.com/issues/105/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 104</title>
+      <link>https://www.densediscovery.com/issues/104/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 103</title>
+      <link>https://www.densediscovery.com/issues/103/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 102</title>
+      <link>https://www.densediscovery.com/issues/102/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 101</title>
+      <link>https://www.densediscovery.com/issues/101/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 100</title>
+      <link>https://www.densediscovery.com/issues/100/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 99</title>
+      <link>https://www.densediscovery.com/issues/99/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 98</title>
+      <link>https://www.densediscovery.com/issues/98/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 97</title>
+      <link>https://www.densediscovery.com/issues/97/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 96</title>
+      <link>https://www.densediscovery.com/issues/96/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 95</title>
+      <link>https://www.densediscovery.com/issues/95/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 94</title>
+      <link>https://www.densediscovery.com/issues/94/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 93</title>
+      <link>https://www.densediscovery.com/issues/93/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 92</title>
+      <link>https://www.densediscovery.com/issues/92/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 91</title>
+      <link>https://www.densediscovery.com/issues/91/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 90</title>
+      <link>https://www.densediscovery.com/issues/90/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 89</title>
+      <link>https://www.densediscovery.com/issues/89/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 88</title>
+      <link>https://www.densediscovery.com/issues/88/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 87</title>
+      <link>https://www.densediscovery.com/issues/87/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 86</title>
+      <link>https://www.densediscovery.com/issues/86/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 85</title>
+      <link>https://www.densediscovery.com/issues/85/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 84</title>
+      <link>https://www.densediscovery.com/issues/84/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 83</title>
+      <link>https://www.densediscovery.com/issues/83/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 82</title>
+      <link>https://www.densediscovery.com/issues/82/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 81</title>
+      <link>https://www.densediscovery.com/issues/81/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 80</title>
+      <link>https://www.densediscovery.com/issues/80/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 79</title>
+      <link>https://www.densediscovery.com/issues/79/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 78</title>
+      <link>https://www.densediscovery.com/issues/78/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 77</title>
+      <link>https://www.densediscovery.com/issues/77/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 76</title>
+      <link>https://www.densediscovery.com/issues/76/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 75</title>
+      <link>https://www.densediscovery.com/issues/75/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 74</title>
+      <link>https://www.densediscovery.com/issues/74/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 73</title>
+      <link>https://www.densediscovery.com/issues/73/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 72</title>
+      <link>https://www.densediscovery.com/issues/72/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 71</title>
+      <link>https://www.densediscovery.com/issues/71/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 70</title>
+      <link>https://www.densediscovery.com/issues/70/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 69</title>
+      <link>https://www.densediscovery.com/issues/69/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 68</title>
+      <link>https://www.densediscovery.com/issues/68/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 67</title>
+      <link>https://www.densediscovery.com/issues/67/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 66</title>
+      <link>https://www.densediscovery.com/issues/66/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 65</title>
+      <link>https://www.densediscovery.com/issues/65/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 64</title>
+      <link>https://www.densediscovery.com/issues/64/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 63</title>
+      <link>https://www.densediscovery.com/issues/63/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 62</title>
+      <link>https://www.densediscovery.com/issues/62/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 61</title>
+      <link>https://www.densediscovery.com/issues/61/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 60</title>
+      <link>https://www.densediscovery.com/issues/60/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 59</title>
+      <link>https://www.densediscovery.com/issues/59/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 58</title>
+      <link>https://www.densediscovery.com/issues/58/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 57</title>
+      <link>https://www.densediscovery.com/issues/57/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 56</title>
+      <link>https://www.densediscovery.com/issues/56/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 55</title>
+      <link>https://www.densediscovery.com/issues/55/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 54</title>
+      <link>https://www.densediscovery.com/issues/54/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 53</title>
+      <link>https://www.densediscovery.com/issues/53/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 52</title>
+      <link>https://www.densediscovery.com/issues/52/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 51</title>
+      <link>https://www.densediscovery.com/issues/51/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 50</title>
+      <link>https://www.densediscovery.com/issues/50/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 49</title>
+      <link>https://www.densediscovery.com/issues/49/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 48</title>
+      <link>https://www.densediscovery.com/issues/48/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 47</title>
+      <link>https://www.densediscovery.com/issues/47/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 46</title>
+      <link>https://www.densediscovery.com/issues/46/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 45</title>
+      <link>https://www.densediscovery.com/issues/45/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 44</title>
+      <link>https://www.densediscovery.com/issues/44/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 43</title>
+      <link>https://www.densediscovery.com/issues/43/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 42</title>
+      <link>https://www.densediscovery.com/issues/42/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 41</title>
+      <link>https://www.densediscovery.com/issues/41/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 40</title>
+      <link>https://www.densediscovery.com/issues/40/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 39</title>
+      <link>https://www.densediscovery.com/issues/39/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 38</title>
+      <link>https://www.densediscovery.com/issues/38/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 37</title>
+      <link>https://www.densediscovery.com/issues/37/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 36</title>
+      <link>https://www.densediscovery.com/issues/36/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 35</title>
+      <link>https://www.densediscovery.com/issues/35/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 34</title>
+      <link>https://www.densediscovery.com/issues/34/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 33</title>
+      <link>https://www.densediscovery.com/issues/33/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 32</title>
+      <link>https://www.densediscovery.com/issues/32/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 31</title>
+      <link>https://www.densediscovery.com/issues/31/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 30</title>
+      <link>https://www.densediscovery.com/issues/30/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 29</title>
+      <link>https://www.densediscovery.com/issues/29/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 28</title>
+      <link>https://www.densediscovery.com/issues/28/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 27</title>
+      <link>https://www.densediscovery.com/issues/27/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 26</title>
+      <link>https://www.densediscovery.com/issues/26/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 25</title>
+      <link>https://www.densediscovery.com/issues/25/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 24</title>
+      <link>https://www.densediscovery.com/issues/24/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 23</title>
+      <link>https://www.densediscovery.com/issues/23/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 22</title>
+      <link>https://www.densediscovery.com/issues/22/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 21</title>
+      <link>https://www.densediscovery.com/issues/21/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 20</title>
+      <link>https://www.densediscovery.com/issues/20/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 19</title>
+      <link>https://www.densediscovery.com/issues/19/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 18</title>
+      <link>https://www.densediscovery.com/issues/18/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 17</title>
+      <link>https://www.densediscovery.com/issues/17/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 16</title>
+      <link>https://www.densediscovery.com/issues/16/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 15</title>
+      <link>https://www.densediscovery.com/issues/15/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 14</title>
+      <link>https://www.densediscovery.com/issues/14/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 13</title>
+      <link>https://www.densediscovery.com/issues/13/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 12</title>
+      <link>https://www.densediscovery.com/issues/12/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 11</title>
+      <link>https://www.densediscovery.com/issues/11/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 10</title>
+      <link>https://www.densediscovery.com/issues/10/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 9</title>
+      <link>https://www.densediscovery.com/issues/9/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 8</title>
+      <link>https://www.densediscovery.com/issues/8/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 7</title>
+      <link>https://www.densediscovery.com/issues/7/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 6</title>
+      <link>https://www.densediscovery.com/issues/6/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 5</title>
+      <link>https://www.densediscovery.com/issues/5/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 4</title>
+      <link>https://www.densediscovery.com/issues/4/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 3</title>
+      <link>https://www.densediscovery.com/issues/3/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 2</title>
+      <link>https://www.densediscovery.com/issues/2/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 1</title>
+      <link>https://www.densediscovery.com/issues/1/</link>
+      <pubDate>Sun, 26 Nov 2023 04:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 267</title>
+      <link>https://www.densediscovery.com/issues/267/</link>
+      <pubDate>Wed, 06 Dec 2023 23:14:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 266</title>
+      <link>https://www.densediscovery.com/issues/266/</link>
+      <pubDate>Wed, 06 Dec 2023 23:14:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 0</title>
+      <link>https://www.densediscovery.com/issues/0/</link>
+      <pubDate>Mon, 11 Dec 2023 08:31:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 269</title>
+      <link>https://www.densediscovery.com/issues/269/</link>
+      <pubDate>Tue, 19 Dec 2023 08:30:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 271</title>
+      <link>https://www.densediscovery.com/issues/271/</link>
+      <pubDate>Tue, 16 Jan 2024 08:21:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 273</title>
+      <link>https://www.densediscovery.com/issues/273/</link>
+      <pubDate>Tue, 30 Jan 2024 08:18:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 275</title>
+      <link>https://www.densediscovery.com/issues/275/</link>
+      <pubDate>Mon, 12 Feb 2024 21:24:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 276</title>
+      <link>https://www.densediscovery.com/issues/276/</link>
+      <pubDate>Tue, 20 Feb 2024 08:19:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 278</title>
+      <link>https://www.densediscovery.com/issues/278/</link>
+      <pubDate>Tue, 05 Mar 2024 08:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 280</title>
+      <link>https://www.densediscovery.com/issues/280/</link>
+      <pubDate>Tue, 19 Mar 2024 08:19:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 282</title>
+      <link>https://www.densediscovery.com/issues/282/</link>
+      <pubDate>Tue, 02 Apr 2024 08:19:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 284</title>
+      <link>https://www.densediscovery.com/issues/284/</link>
+      <pubDate>Tue, 16 Apr 2024 08:19:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 286</title>
+      <link>https://www.densediscovery.com/issues/286/</link>
+      <pubDate>Tue, 30 Apr 2024 08:20:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 288</title>
+      <link>https://www.densediscovery.com/issues/288/</link>
+      <pubDate>Tue, 14 May 2024 08:22:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 290</title>
+      <link>https://www.densediscovery.com/issues/290/</link>
+      <pubDate>Tue, 28 May 2024 08:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 292</title>
+      <link>https://www.densediscovery.com/issues/292/</link>
+      <pubDate>Tue, 11 Jun 2024 08:22:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 294</title>
+      <link>https://www.densediscovery.com/issues/294/</link>
+      <pubDate>Tue, 25 Jun 2024 08:22:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 296</title>
+      <link>https://www.densediscovery.com/issues/296/</link>
+      <pubDate>Tue, 09 Jul 2024 08:21:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 298</title>
+      <link>https://www.densediscovery.com/issues/298/</link>
+      <pubDate>Tue, 23 Jul 2024 08:23:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 300</title>
+      <link>https://www.densediscovery.com/issues/300/</link>
+      <pubDate>Tue, 06 Aug 2024 08:22:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 302</title>
+      <link>https://www.densediscovery.com/issues/302/</link>
+      <pubDate>Tue, 20 Aug 2024 08:23:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 304</title>
+      <link>https://www.densediscovery.com/issues/304/</link>
+      <pubDate>Tue, 03 Sep 2024 08:24:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 306</title>
+      <link>https://www.densediscovery.com/issues/306/</link>
+      <pubDate>Tue, 17 Sep 2024 08:25:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 308</title>
+      <link>https://www.densediscovery.com/issues/308/</link>
+      <pubDate>Tue, 01 Oct 2024 08:27:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 310</title>
+      <link>https://www.densediscovery.com/issues/310/</link>
+      <pubDate>Tue, 15 Oct 2024 08:26:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Discovery – Issue 311</title>
+      <link>https://www.densediscovery.com/issues/311/</link>
+      <pubDate>Tue, 22 Oct 2024 08:26:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
