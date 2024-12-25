@@ -79,3 +79,12 @@ class MolinaFeed(Feed):
                 name='munoz-molina-elpais',
                 url ='https://elpais.com/autor/antonio-munoz-molina/',
                 )
+
+
+class HancockFeed(Feed):
+
+        def __init__(self):
+            super().__init__(
+                name='rubio-hancock-elpais',
+                url ='https://elpais.com/autor/jaime-rubio-hancock/',
+                )
