@@ -22,16 +22,16 @@ class Feed(BaseFeed):
     def update(self):
 
         # Find missing feeds in ori and add them back (with new date)
-        ori_titles = set([e['title'] for e in self.feed['entries']])
+        ori_titles = set([e['title'].strip() for e in self.feed['entries']])
 
         response = session.get(self.url, verify=True)
         soup = BeautifulSoup(response.text, "html.parser")
 
-        articles = soup.find_all(name="article")
+        articles = soup.find_all(name="article", attrs={"class": "c-d"})
         for article in articles:
-            e = article.find(name="a", attrs={"class": "archive-article-link"})
             e = article.find(attrs={"class": "c_t"})
-            if e.text not in ori_titles:
+            title = e.text.strip()
+            if title not in ori_titles:
                 link = e.find('a')['href']
                 date = re.search(r'\d{4}-\d{2}-\d{2}', link).group()
                 desc = article.find(attrs={"class": "c_d"}).text
