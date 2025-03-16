@@ -6,960 +6,12 @@
     <description>This is a cool feed!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Mar 2025 08:25:04 +0000</lastBuildDate>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Por qué el fenómeno de los estoicos no tiene fin</title>
-      <link>https://elpais.com/ideas/2025-01-12/por-que-el-fenomeno-de-los-estoicos-no-tiene-fin.html</link>
-      <description>El éxito de los libros sobre estoicisimo responde a la búsqueda de valores en un contexto en el que sentimos que no tenemos control sobre nuestras vidas. Pero sus ideas filosóficas también se han simplificado y se intentan convertir en material de autoayuda que ‘influencers’ y emprendedores venden como un remedio para aguantar el estrés</description>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Su próximo CEO será un robot</title>
-      <link>https://elpais.com/opinion/2023-11-21/su-proximo-ceo-sera-un-robot.html</link>
-      <description>Una propuesta recorre las redes sociales: ¿y si sustituimos a los directivos por una inteligencia artificial?</description>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>En defensa del cuñado</title>
-      <link>https://elpais.com/opinion/2023-12-05/en-defensa-del-cunado.html</link>
-      <description>Esta figura casi mitológica sigue vigente en X gracias a memes y chistes</description>
-      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Las ventajas del miedo</title>
-      <link>https://elpais.com/eps/2023-12-18/las-ventajas-del-miedo.html</link>
-      <description>Lo que nos asusta tiene una parte inmutable que nos acompaña desde la Biblia y otra cultural, que va mutando con los vaivenes sociales y económicos. Casi siempre es útil para defendernos, casi nunca es legítimo para atacarnos.</description>
-      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Terrazas sin humo y con fentanilo</title>
-      <link>https://elpais.com/opinion/2023-12-19/terrazas-sin-humo-y-con-fentanilo.html</link>
-      <description>Gracias a las redes sociales, podemos recuperar discusiones clásicas, como esa de la libertad y el tabaco</description>
-      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La libertad de censurar libros</title>
-      <link>https://elpais.com/opinion/2024-01-02/la-libertad-de-censurar-libros.html</link>
-      <description>Desde 2021, más de 5.800 obras han quedado prohibidas en escuelas y bibliotecas de Estados Unidos</description>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Una biografía’, de Chumy Chúmez: pura ficción sobre la memoria, la historia y cualquier presente</title>
-      <link>https://elpais.com/babelia/2024-01-02/una-biografia-pura-ficcion-sobre-la-memoria-la-historia-y-cualquier-presente.html</link>
-      <description>El libro del fallecido humorista y escritor sorprende y fascina medio siglo después de su publicación</description>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>De Arévalo a Chiquito de la Calzada y la explosión de los monologuistas: cómo ha cambiado el humor en España</title>
-      <link>https://elpais.com/cultura/2024-01-07/de-arevalo-a-chiquito-de-la-calzada-y-la-explosion-de-los-monologuistas-como-ha-cambiado-el-humor-en-espana.html</link>
-      <description>Los chistes de “gangosos y mariquitas” que hicieron popular en los ochenta al cómico fallecido el martes suenan ajenos en una sociedad que ha cambiado en paralelo a la comedia</description>
-      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los luditas defendían su trabajo frente al de las máquinas, ¿qué podemos aprender de ellos?</title>
-      <link>https://elpais.com/ideas/2024-01-09/los-luditas-defendian-su-trabajo-frente-al-de-las-maquinas-que-podemos-aprender-de-ellos.html</link>
-      <description>Este movimiento que destruía telares mecánicos a principios del siglo XIX nos ayuda a identificar retos de un futuro que se nos dice inevitable</description>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chistes de mal gusto</title>
-      <link>https://elpais.com/opinion/2024-01-16/chistes-de-mal-gusto.html</link>
-      <description>El humor negro, incluidos los memes sobre ‘La sociedad de la nieve’, nos ayuda a enfrentarnos a nuestros temores</description>
-      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pero tenemos Fórmula 1</title>
-      <link>https://elpais.com/opinion/2024-01-27/pero-tenemos-formula-1.html</link>
-      <description>El anuncio de un Gran Premio en Madrid hace temer pérdidas millonarias como las de Valencia</description>
-      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comer es de pobres, ‘bro’</title>
-      <link>https://elpais.com/opinion/2024-02-15/comer-es-de-pobres-bro.html</link>
-      <description>Un estudio convertido en meme muestra los riesgos de ser leal a la empresa</description>
-      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¡Todos al Grupo Mixto!</title>
-      <link>https://elpais.com/opinion/2024-02-29/todos-al-grupo-mixto.html</link>
-      <description>El grupo parlamentario de esta legislatura no es ni el más numeroso ni el más variado de la historia, pero al menos tiene a dos exministros</description>
-      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La foto de Kate Middleton que nos convirtió en conspiranoicos</title>
-      <link>https://elpais.com/opinion/2024-03-14/la-foto-de-kate-middleton-que-nos-convirtio-en-conspiranoicos.html</link>
-      <description>El lío de la foto de la princesa de Gales tiene antecedentes en una felicitación navideña de la Casa Real española</description>
-      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Mongolia’ contraataca</title>
-      <link>https://elpais.com/opinion/2024-03-28/mongolia-contraataca.html</link>
-      <description>La revista presentará una querella contra la asociación Abogados Cristianos por fraude procesal</description>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>De ‘El señor de los anillos’ a ‘Dune’: cómo se crea una lengua</title>
-      <link>https://elpais.com/cultura/2024-03-31/de-el-senor-de-los-anillos-a-dune-como-se-crea-una-lengua.html</link>
-      <description>Los constructores de nuevos vocabularios para historias de ficción detallan cómo se han inventado el chakobsa o el valyrio</description>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No quiero leer tu novela, ChatGPT</title>
-      <link>https://elpais.com/opinion/2024-04-11/no-quiero-leer-tu-novela-chatgpt.html</link>
-      <description>La inteligencia artificial se dedica a pintar cuadros y a escribir y nos deja los trabajos más repetitivos y peor pagados</description>
-      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pedro Sánchez deja X unos días (entre otras cosas)</title>
-      <link>https://elpais.com/opinion/2024-04-25/pedro-sanchez-deja-x-unos-dias-entre-otras-cosas.html</link>
-      <description>Los tuiteros analizan la decisión del presidente de parar y reflexionar. Y también hacen algún que otro chiste</description>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kierkegaard, el filósofo de la ansiedad que no se casó para poder dedicarse a pensar</title>
-      <link>https://elpais.com/ideas/2024-05-03/kierkegaard-el-filosofo-de-la-ansiedad-que-no-se-caso-para-poder-dedicarse-a-pensar.html</link>
-      <description>Pionero en el estudio de la angustia, el pensador danés rompió su compromiso de matrimonio para poder escribir. Una reciente biografía da fe de la vigencia de su obra</description>
-      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿De verdad estamos estancados?</title>
-      <link>https://elpais.com/opinion/2024-05-09/de-verdad-estamos-estancados.html</link>
-      <description>Una idea gana fuerza desde hace años: los algoritmos frenan la innovación cultural</description>
-      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scarlett Johansson y Escarlata Juánez</title>
-      <link>https://elpais.com/opinion/2024-05-23/scarlett-johansson-y-escarlata-juanez.html</link>
-      <description>La inteligencia artificial también está empeñada en moverse rápido y mover cosas, pese a que suele salir regular</description>
-      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Newsletter’ a la ciudadanía</title>
-      <link>https://elpais.com/opinion/2024-06-06/newsletter-a-la-ciudadania.html</link>
-      <description>Pedro Sánchez nos asustó a todos con una nueva epístola a los españoles que, por suerte, no abrió ningún periodo de reflexión</description>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Cómo? ¿El asesino psicópata y fascista no es el bueno de la serie?</title>
-      <link>https://elpais.com/opinion/2024-06-20/como-el-asesino-psicopata-y-fascista-no-es-el-bueno-de-la-serie.html</link>
-      <description>Vuelve ‘The Boys’ y renace en las redes el debate sobre el significado de la serie y su sátira</description>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Antiguo y barbudo</title>
-      <link>https://elpais.com/opinion/2024-07-18/antiguo-y-barbudo.html</link>
-      <description>J. D. Vance es el primer candidato a la presidencia o vicepresidencia de Estados Unidos que lleva barba en más de un siglo</description>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La nueva línea de ataque demócrata: Trump y Vance son raros</title>
-      <link>https://elpais.com/opinion/2024-08-01/la-nueva-linea-de-ataque-democrata-trump-y-vance-son-raros.html</link>
-      <description>Tim Walz, gobernador de Minnesota y posible candidato a vicepresidente de Harris, ha popularizado el mensaje</description>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘El hombre unidimensional’ cumple 60 años sin pensar en jubilarse (ni dejar de consumir)</title>
-      <link>https://elpais.com/ideas/2024-08-05/el-hombre-unidimensional-cumple-60-anos-sin-pensar-en-jubilarse-ni-dejar-de-consumir.html</link>
-      <description>La obra que convirtió a Herbert Marcuse en un referente de crítica al consumismo, el conformismo político y los nuevos fascismos sigue vigente más de medio siglo después de su publicación</description>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Los Simpson’ y ‘Futurama’: detrás de las risas</title>
-      <link>https://elpais.com/television/2024-08-11/los-simpson-y-futurama-detras-de-las-risas.html</link>
-      <description>Las series de Matt Groening abrieron un camino de humor complejo y lleno de referencias culturales en la animación</description>
-      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Repeticiones. Repeticiones. Repeticiones</title>
-      <link>https://elpais.com/opinion/2024-08-15/repeticiones-repeticiones-repeticiones.html</link>
-      <description>La reiteración puede ser una herramienta humorística o una metáfora deprimente</description>
-      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Qué pensarán los extraterrestres de nosotros?</title>
-      <link>https://elpais.com/opinion/2024-08-29/que-pensaran-los-extraterrestres-de-nosotros.html</link>
-      <description>Alejo Vidal-Quadras, exdirigente del PP y de Vox, sugiere que le estamos haciendo quedar mal ante los alienígenas</description>
-      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mickey Mouse es nazi en X</title>
-      <link>https://elpais.com/opinion/2024-09-05/mickey-mouse-es-nazi-en-x.html</link>
-      <description>Elon Musk ya no sabe qué hacer para que los estadounidenses voten a Trump</description>
-      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Todo vuelve. Incluso la mili</title>
-      <link>https://elpais.com/opinion/2024-09-19/todo-vuelve-incluso-la-mili.html</link>
-      <description>Lo mismo se ponen de moda una vez más los pantalones de campana y los pactos entre PP y los nacionalistas catalanes</description>
-      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Un perrito caliente es un bocadillo?</title>
-      <link>https://elpais.com/opinion/2024-10-03/un-perrito-caliente-es-un-bocadillo.html</link>
-      <description>Una (inexistente) tesis doctoral nos recuerda algunos debates tuiteros clásicos, incluido, cómo no, el de la cebolla en la tortilla</description>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La vivienda, el caldero de Freud y Jack el Destripador</title>
-      <link>https://elpais.com/opinion/2024-10-17/la-vivienda-el-caldero-de-freud-y-jack-el-destripador.html</link>
-      <description>La respuesta del Gobierno al problema de los alquileres sigue la misma lógica de un chiste viejísimo</description>
-      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Karl Popper, el hombre que defendía los cambios graduales frente a las revoluciones</title>
-      <link>https://elpais.com/ideas/2024-10-19/karl-popper-el-hombre-que-defendia-los-cambios-graduales-frente-a-las-revoluciones.html</link>
-      <description>Fue un defensor de las sociedades abiertas y uno de los pensadores que sentó las bases de las políticas de derechas de la segunda mitad del siglo XX. Se acaban de cumplir 30 años de su muerte</description>
-      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los traductores de Trump</title>
-      <link>https://elpais.com/opinion/2024-10-31/los-traductores-de-trump.html</link>
-      <description>Los únicos que entienden al candidato republicano son sus votantes y su equipo. O eso parece</description>
-      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Libertad: una palabra y 200 significados</title>
-      <link>https://elpais.com/ideas/2024-11-10/libertad-una-palabra-y-200-significados.html</link>
-      <description>El filósofo Isaiah Berlin popularizó la distinción entre la libertad negativa, la ausencia de prohibiciones, y la libertad positiva, que intenta poner los medios para alcanzar nuestros objetivos</description>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los leopardos de Trump nos van a comer la cara</title>
-      <link>https://elpais.com/opinion/2024-11-14/los-leopardos-de-trump-nos-van-a-comer-la-cara.html</link>
-      <description>La historia de 2016 se repite: ya tenemos aquí los lamentos y los análisis tras la derrota demócrata y, cómo no, a los primeros arrepentidos de su voto</description>
-      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No me apetece luchar contra el fascismo mientras espero al autobús</title>
-      <link>https://elpais.com/opinion/2024-11-28/no-me-apetece-luchar-contra-el-fascismo-mientras-espero-al-autobus.html</link>
-      <description>Las redes sociales son la vida real, pero también tienen mucho de simulacro y de disfraz de Mortadelo</description>
-      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Breaking Bad’, pero en España</title>
-      <link>https://elpais.com/opinion/2024-12-12/breaking-bad-pero-en-espana.html</link>
-      <description>La sanidad pública es un buen invento: merece la pena defenderla y mejorarla</description>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lo admito, la Tierra es esférica</title>
-      <link>https://elpais.com/opinion/2024-12-25/lo-admito-la-tierra-es-esferica.html</link>
-      <description>No es buena idea confundir la coherencia con la cabezonería, y no hace falta viajar a la Antártida para comprobar que el planeta no es un disco</description>
-      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lo que hacía Elon Musk era parar un taxi</title>
-      <link>https://elpais.com/opinion/2025-01-23/lo-que-hacia-elon-musk-era-parar-un-taxi.html</link>
-      <description>Trump y sus aliados captan nuestra atención con mensajes delirantes mientras el presidente firma decretos que nos perjudicarán a todos</description>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canadá, nuevo miembro de la UE</title>
-      <link>https://elpais.com/opinion/2025-02-06/canada-nuevo-miembro-de-la-ue.html</link>
-      <description>Una idea de ‘The Economist’ parece cada vez menos disparatada: ampliar la Unión Europea al continente americano como defensa ante los vaivenes de Trump</description>
-      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenlandia siempre ha sido americana</title>
-      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
-      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una breve historia de la mentira</title>
-      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
-      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
-      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
-      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk es un reclamo para osos</title>
-      <link>https://elpais.com/opinion/2025-02-20/elon-musk-es-un-reclamo-para-osos.html</link>
-      <description>El millonario aplica en el Gobierno el mismo plan que llevó a cabo en X, como si eso hubiese salido bien</description>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Mar 2025 08:24:21 +0000</lastBuildDate>
+    <item>
+      <title>Por qué hay que llevar reloj</title>
+      <link>https://elpais.com/opinion/2025-03-06/por-que-hay-que-llevar-reloj.html</link>
+      <description>Sacar el móvil del bolsillo supone un riesgo innecesario: podríamos cometer el error de leer un tuit de Trump</description>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>El procesamiento judicial de Quequé: cómo convertir un chiste en una amenaza</title>
@@ -968,10 +20,958 @@
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Por qué hay que llevar reloj</title>
-      <link>https://elpais.com/opinion/2025-03-06/por-que-hay-que-llevar-reloj.html</link>
-      <description>Sacar el móvil del bolsillo supone un riesgo innecesario: podríamos cometer el error de leer un tuit de Trump</description>
-      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <title>Elon Musk es un reclamo para osos</title>
+      <link>https://elpais.com/opinion/2025-02-20/elon-musk-es-un-reclamo-para-osos.html</link>
+      <description>El millonario aplica en el Gobierno el mismo plan que llevó a cabo en X, como si eso hubiese salido bien</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canadá, nuevo miembro de la UE</title>
+      <link>https://elpais.com/opinion/2025-02-06/canada-nuevo-miembro-de-la-ue.html</link>
+      <description>Una idea de ‘The Economist’ parece cada vez menos disparatada: ampliar la Unión Europea al continente americano como defensa ante los vaivenes de Trump</description>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lo que hacía Elon Musk era parar un taxi</title>
+      <link>https://elpais.com/opinion/2025-01-23/lo-que-hacia-elon-musk-era-parar-un-taxi.html</link>
+      <description>Trump y sus aliados captan nuestra atención con mensajes delirantes mientras el presidente firma decretos que nos perjudicarán a todos</description>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lo admito, la Tierra es esférica</title>
+      <link>https://elpais.com/opinion/2024-12-25/lo-admito-la-tierra-es-esferica.html</link>
+      <description>No es buena idea confundir la coherencia con la cabezonería, y no hace falta viajar a la Antártida para comprobar que el planeta no es un disco</description>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Breaking Bad’, pero en España</title>
+      <link>https://elpais.com/opinion/2024-12-12/breaking-bad-pero-en-espana.html</link>
+      <description>La sanidad pública es un buen invento: merece la pena defenderla y mejorarla</description>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>No me apetece luchar contra el fascismo mientras espero al autobús</title>
+      <link>https://elpais.com/opinion/2024-11-28/no-me-apetece-luchar-contra-el-fascismo-mientras-espero-al-autobus.html</link>
+      <description>Las redes sociales son la vida real, pero también tienen mucho de simulacro y de disfraz de Mortadelo</description>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los leopardos de Trump nos van a comer la cara</title>
+      <link>https://elpais.com/opinion/2024-11-14/los-leopardos-de-trump-nos-van-a-comer-la-cara.html</link>
+      <description>La historia de 2016 se repite: ya tenemos aquí los lamentos y los análisis tras la derrota demócrata y, cómo no, a los primeros arrepentidos de su voto</description>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Libertad: una palabra y 200 significados</title>
+      <link>https://elpais.com/ideas/2024-11-10/libertad-una-palabra-y-200-significados.html</link>
+      <description>El filósofo Isaiah Berlin popularizó la distinción entre la libertad negativa, la ausencia de prohibiciones, y la libertad positiva, que intenta poner los medios para alcanzar nuestros objetivos</description>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los traductores de Trump</title>
+      <link>https://elpais.com/opinion/2024-10-31/los-traductores-de-trump.html</link>
+      <description>Los únicos que entienden al candidato republicano son sus votantes y su equipo. O eso parece</description>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Karl Popper, el hombre que defendía los cambios graduales frente a las revoluciones</title>
+      <link>https://elpais.com/ideas/2024-10-19/karl-popper-el-hombre-que-defendia-los-cambios-graduales-frente-a-las-revoluciones.html</link>
+      <description>Fue un defensor de las sociedades abiertas y uno de los pensadores que sentó las bases de las políticas de derechas de la segunda mitad del siglo XX. Se acaban de cumplir 30 años de su muerte</description>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La vivienda, el caldero de Freud y Jack el Destripador</title>
+      <link>https://elpais.com/opinion/2024-10-17/la-vivienda-el-caldero-de-freud-y-jack-el-destripador.html</link>
+      <description>La respuesta del Gobierno al problema de los alquileres sigue la misma lógica de un chiste viejísimo</description>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Un perrito caliente es un bocadillo?</title>
+      <link>https://elpais.com/opinion/2024-10-03/un-perrito-caliente-es-un-bocadillo.html</link>
+      <description>Una (inexistente) tesis doctoral nos recuerda algunos debates tuiteros clásicos, incluido, cómo no, el de la cebolla en la tortilla</description>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Todo vuelve. Incluso la mili</title>
+      <link>https://elpais.com/opinion/2024-09-19/todo-vuelve-incluso-la-mili.html</link>
+      <description>Lo mismo se ponen de moda una vez más los pantalones de campana y los pactos entre PP y los nacionalistas catalanes</description>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mickey Mouse es nazi en X</title>
+      <link>https://elpais.com/opinion/2024-09-05/mickey-mouse-es-nazi-en-x.html</link>
+      <description>Elon Musk ya no sabe qué hacer para que los estadounidenses voten a Trump</description>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Qué pensarán los extraterrestres de nosotros?</title>
+      <link>https://elpais.com/opinion/2024-08-29/que-pensaran-los-extraterrestres-de-nosotros.html</link>
+      <description>Alejo Vidal-Quadras, exdirigente del PP y de Vox, sugiere que le estamos haciendo quedar mal ante los alienígenas</description>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Repeticiones. Repeticiones. Repeticiones</title>
+      <link>https://elpais.com/opinion/2024-08-15/repeticiones-repeticiones-repeticiones.html</link>
+      <description>La reiteración puede ser una herramienta humorística o una metáfora deprimente</description>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Los Simpson’ y ‘Futurama’: detrás de las risas</title>
+      <link>https://elpais.com/television/2024-08-11/los-simpson-y-futurama-detras-de-las-risas.html</link>
+      <description>Las series de Matt Groening abrieron un camino de humor complejo y lleno de referencias culturales en la animación</description>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘El hombre unidimensional’ cumple 60 años sin pensar en jubilarse (ni dejar de consumir)</title>
+      <link>https://elpais.com/ideas/2024-08-05/el-hombre-unidimensional-cumple-60-anos-sin-pensar-en-jubilarse-ni-dejar-de-consumir.html</link>
+      <description>La obra que convirtió a Herbert Marcuse en un referente de crítica al consumismo, el conformismo político y los nuevos fascismos sigue vigente más de medio siglo después de su publicación</description>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La nueva línea de ataque demócrata: Trump y Vance son raros</title>
+      <link>https://elpais.com/opinion/2024-08-01/la-nueva-linea-de-ataque-democrata-trump-y-vance-son-raros.html</link>
+      <description>Tim Walz, gobernador de Minnesota y posible candidato a vicepresidente de Harris, ha popularizado el mensaje</description>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Antiguo y barbudo</title>
+      <link>https://elpais.com/opinion/2024-07-18/antiguo-y-barbudo.html</link>
+      <description>J. D. Vance es el primer candidato a la presidencia o vicepresidencia de Estados Unidos que lleva barba en más de un siglo</description>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Cómo? ¿El asesino psicópata y fascista no es el bueno de la serie?</title>
+      <link>https://elpais.com/opinion/2024-06-20/como-el-asesino-psicopata-y-fascista-no-es-el-bueno-de-la-serie.html</link>
+      <description>Vuelve ‘The Boys’ y renace en las redes el debate sobre el significado de la serie y su sátira</description>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Newsletter’ a la ciudadanía</title>
+      <link>https://elpais.com/opinion/2024-06-06/newsletter-a-la-ciudadania.html</link>
+      <description>Pedro Sánchez nos asustó a todos con una nueva epístola a los españoles que, por suerte, no abrió ningún periodo de reflexión</description>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scarlett Johansson y Escarlata Juánez</title>
+      <link>https://elpais.com/opinion/2024-05-23/scarlett-johansson-y-escarlata-juanez.html</link>
+      <description>La inteligencia artificial también está empeñada en moverse rápido y mover cosas, pese a que suele salir regular</description>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿De verdad estamos estancados?</title>
+      <link>https://elpais.com/opinion/2024-05-09/de-verdad-estamos-estancados.html</link>
+      <description>Una idea gana fuerza desde hace años: los algoritmos frenan la innovación cultural</description>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kierkegaard, el filósofo de la ansiedad que no se casó para poder dedicarse a pensar</title>
+      <link>https://elpais.com/ideas/2024-05-03/kierkegaard-el-filosofo-de-la-ansiedad-que-no-se-caso-para-poder-dedicarse-a-pensar.html</link>
+      <description>Pionero en el estudio de la angustia, el pensador danés rompió su compromiso de matrimonio para poder escribir. Una reciente biografía da fe de la vigencia de su obra</description>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pedro Sánchez deja X unos días (entre otras cosas)</title>
+      <link>https://elpais.com/opinion/2024-04-25/pedro-sanchez-deja-x-unos-dias-entre-otras-cosas.html</link>
+      <description>Los tuiteros analizan la decisión del presidente de parar y reflexionar. Y también hacen algún que otro chiste</description>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>No quiero leer tu novela, ChatGPT</title>
+      <link>https://elpais.com/opinion/2024-04-11/no-quiero-leer-tu-novela-chatgpt.html</link>
+      <description>La inteligencia artificial se dedica a pintar cuadros y a escribir y nos deja los trabajos más repetitivos y peor pagados</description>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>De ‘El señor de los anillos’ a ‘Dune’: cómo se crea una lengua</title>
+      <link>https://elpais.com/cultura/2024-03-31/de-el-senor-de-los-anillos-a-dune-como-se-crea-una-lengua.html</link>
+      <description>Los constructores de nuevos vocabularios para historias de ficción detallan cómo se han inventado el chakobsa o el valyrio</description>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Mongolia’ contraataca</title>
+      <link>https://elpais.com/opinion/2024-03-28/mongolia-contraataca.html</link>
+      <description>La revista presentará una querella contra la asociación Abogados Cristianos por fraude procesal</description>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La foto de Kate Middleton que nos convirtió en conspiranoicos</title>
+      <link>https://elpais.com/opinion/2024-03-14/la-foto-de-kate-middleton-que-nos-convirtio-en-conspiranoicos.html</link>
+      <description>El lío de la foto de la princesa de Gales tiene antecedentes en una felicitación navideña de la Casa Real española</description>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¡Todos al Grupo Mixto!</title>
+      <link>https://elpais.com/opinion/2024-02-29/todos-al-grupo-mixto.html</link>
+      <description>El grupo parlamentario de esta legislatura no es ni el más numeroso ni el más variado de la historia, pero al menos tiene a dos exministros</description>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comer es de pobres, ‘bro’</title>
+      <link>https://elpais.com/opinion/2024-02-15/comer-es-de-pobres-bro.html</link>
+      <description>Un estudio convertido en meme muestra los riesgos de ser leal a la empresa</description>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pero tenemos Fórmula 1</title>
+      <link>https://elpais.com/opinion/2024-01-27/pero-tenemos-formula-1.html</link>
+      <description>El anuncio de un Gran Premio en Madrid hace temer pérdidas millonarias como las de Valencia</description>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chistes de mal gusto</title>
+      <link>https://elpais.com/opinion/2024-01-16/chistes-de-mal-gusto.html</link>
+      <description>El humor negro, incluidos los memes sobre ‘La sociedad de la nieve’, nos ayuda a enfrentarnos a nuestros temores</description>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los luditas defendían su trabajo frente al de las máquinas, ¿qué podemos aprender de ellos?</title>
+      <link>https://elpais.com/ideas/2024-01-09/los-luditas-defendian-su-trabajo-frente-al-de-las-maquinas-que-podemos-aprender-de-ellos.html</link>
+      <description>Este movimiento que destruía telares mecánicos a principios del siglo XIX nos ayuda a identificar retos de un futuro que se nos dice inevitable</description>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>De Arévalo a Chiquito de la Calzada y la explosión de los monologuistas: cómo ha cambiado el humor en España</title>
+      <link>https://elpais.com/cultura/2024-01-07/de-arevalo-a-chiquito-de-la-calzada-y-la-explosion-de-los-monologuistas-como-ha-cambiado-el-humor-en-espana.html</link>
+      <description>Los chistes de “gangosos y mariquitas” que hicieron popular en los ochenta al cómico fallecido el martes suenan ajenos en una sociedad que ha cambiado en paralelo a la comedia</description>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Una biografía’, de Chumy Chúmez: pura ficción sobre la memoria, la historia y cualquier presente</title>
+      <link>https://elpais.com/babelia/2024-01-02/una-biografia-pura-ficcion-sobre-la-memoria-la-historia-y-cualquier-presente.html</link>
+      <description>El libro del fallecido humorista y escritor sorprende y fascina medio siglo después de su publicación</description>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La libertad de censurar libros</title>
+      <link>https://elpais.com/opinion/2024-01-02/la-libertad-de-censurar-libros.html</link>
+      <description>Desde 2021, más de 5.800 obras han quedado prohibidas en escuelas y bibliotecas de Estados Unidos</description>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Terrazas sin humo y con fentanilo</title>
+      <link>https://elpais.com/opinion/2023-12-19/terrazas-sin-humo-y-con-fentanilo.html</link>
+      <description>Gracias a las redes sociales, podemos recuperar discusiones clásicas, como esa de la libertad y el tabaco</description>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Las ventajas del miedo</title>
+      <link>https://elpais.com/eps/2023-12-18/las-ventajas-del-miedo.html</link>
+      <description>Lo que nos asusta tiene una parte inmutable que nos acompaña desde la Biblia y otra cultural, que va mutando con los vaivenes sociales y económicos. Casi siempre es útil para defendernos, casi nunca es legítimo para atacarnos.</description>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En defensa del cuñado</title>
+      <link>https://elpais.com/opinion/2023-12-05/en-defensa-del-cunado.html</link>
+      <description>Esta figura casi mitológica sigue vigente en X gracias a memes y chistes</description>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Su próximo CEO será un robot</title>
+      <link>https://elpais.com/opinion/2023-11-21/su-proximo-ceo-sera-un-robot.html</link>
+      <description>Una propuesta recorre las redes sociales: ¿y si sustituimos a los directivos por una inteligencia artificial?</description>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Por qué el fenómeno de los estoicos no tiene fin</title>
+      <link>https://elpais.com/ideas/2025-01-12/por-que-el-fenomeno-de-los-estoicos-no-tiene-fin.html</link>
+      <description>El éxito de los libros sobre estoicisimo responde a la búsqueda de valores en un contexto en el que sentimos que no tenemos control sobre nuestras vidas. Pero sus ideas filosóficas también se han simplificado y se intentan convertir en material de autoayuda que ‘influencers’ y emprendedores venden como un remedio para aguantar el estrés</description>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Groenlandia siempre ha sido americana</title>
+      <link>https://elpais.com/opinion/2025-01-09/groenlandia-siempre-ha-sido-americana.html</link>
+      <description>En redes podemos encontrar argumentos para cualquier ocurrencia, por disparatada que sea. Solo hay que buscar un poco</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una breve historia de la mentira</title>
+      <link>https://elpais.com/eps/2024-12-26/una-breve-historia-de-la-mentira.html</link>
+      <description>Llevamos siglos tragándonos noticias falsas y teorías de la conspiración, que se aprovechan de nuestros sesgos y prejuicios. Pero hay buenas noticias: no somos tan crédulos como parece</description>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Es mejor un chiste que una promesa electoral? Cómo usan los políticos el humor</title>
+      <link>https://elpais.com/ideas/2024-10-11/es-mejor-un-chiste-que-una-promesa-electoral-como-usan-los-politicos-el-humor.html</link>
+      <description>El humor siempre se ha usado en campañas y debates políticos. Puede ser eficaz para ganarse al votante, pero también puede aumentar la división y el enfrentamiento</description>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
