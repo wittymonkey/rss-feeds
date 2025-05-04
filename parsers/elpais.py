@@ -88,3 +88,11 @@ class HancockFeed(Feed):
                 name='rubio-hancock-elpais',
                 url ='https://elpais.com/autor/jaime-rubio-hancock/',
                 )
+
+class TorrijosFeed(Feed):
+
+        def __init__(self):
+            super().__init__(
+                name='pedro-torrijos-elpais',
+                url ='https://elpais.com/autor/pedro-torrijos-leon/',
+                )
