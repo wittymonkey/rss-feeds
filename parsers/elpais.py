@@ -33,7 +33,13 @@ class Feed(BaseFeed):
             title = e.text.strip()
             if title not in ori_titles:
                 link = e.find('a')['href']
-                date = re.search(r'\d{4}-\d{2}-\d{2}', link).group()
+                if m := re.search(r'\d{4}-\d{2}-\d{2}', link):
+                    date = m.group()
+                elif m := re.search(r'\d{4}/\d{2}/\d{2}', link):
+                    # old articles (before Nov 2020) have different URL date pattern
+                    date = m.group()
+                else:
+                    raise Exception('Could not find date pattern')
                 desc = article.find(attrs={"class": "c_d"}).text
                 self.feed['entries'].append(
                     {
