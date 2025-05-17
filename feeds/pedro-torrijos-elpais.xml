@@ -6,198 +6,12 @@
     <description>This is a cool feed!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 May 2025 08:30:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 08:26:49 +0000</lastBuildDate>
     <item>
-      <title>Un arquitecto español firma el rascacielos más alto de África (y no está en Wakanda)</title>
-      <link>https://elpais.com/elpais/2019/06/02/icon_design/1559472027_427872.html</link>
-      <description>El estudio de Rafael de La-Hoz trabaja en la Tour Mohamed VI, proclamada como la de mayor altura del continente. ¿Serán los rascacielos africanos objetos inocentes, basados en metáforas figurativas e inspirados por utopías afrofuturistas como la de la ciudad de Marvel?</description>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La consecuencia de que el 85% de los edificios no tenga planta 13</title>
-      <link>https://elpais.com/elpais/2019/07/10/icon_design/1562785104_116689.html</link>
-      <description>La superstición también afecta a disciplinas en apariencia escépticas como la arquitectura. La triscaidecafobia no es el único miedo irracional a un número que ha trastocado la construcción de edificios por todo el mundo, complicando los rescates en caso de incendio y los primeros auxilios. Hay más</description>
-      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La calle de Barcelona diseñada para practicar el noble arte de sentarse a la fresca (y con las mejores vistas)</title>
-      <link>https://elpais.com/elpais/2019/08/20/icon_design/1566324542_062882.html</link>
-      <description>En la capital catalana apenas quedan espacios libres de turistas, pero esta premiada rehabilitación de un antiguo barrio de barracas, obra de Ramon Bosch y Bet Capdeferro, es un ejemplo de arquitectura pensada para la vecindad</description>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El curioso caso de las ventanas antibrujas de Nueva Inglaterra (que aún hoy se construyen)</title>
-      <link>https://elpais.com/elpais/2019/09/17/icon_design/1568726748_052184.html</link>
-      <description>Varias leyendas giran en torno a estas ventanas inclinadas 45 grados sobre su eje. Qué fue primero, ¿la arquitectura o el folclore?</description>
-      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Deberían negarse los arquitectos a construir más urbanizaciones? Una reflexión sobre el miedo y la soledad</title>
-      <link>https://elpais.com/elpais/2019/09/23/icon_design/1569242140_915235.html</link>
-      <description>Inauguramos con este artículo una serie sobre la soledad, la epidemia del siglo XXI, y una reflexión sobre nuestras ciudades. ¿De qué manera la arquitectura y el urbanismo pueden contribuir al problema o a la solución?</description>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El rascacielos que estuvo a punto de destruir medio Manhattan (de no ser por una estudiante)</title>
-      <link>https://elpais.com/elpais/2019/10/02/icon_design/1570041356_078765.html</link>
-      <description>Un error de cálculo pudo haber provocado una de las mayores catástrofes de EE UU. Así fue el plan secreto para evitarlo, en plena temporada de huracanes</description>
-      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Por qué el edificio que mejor define Barcelona es la torre de Collserola (y no la Sagrada Familia)</title>
-      <link>https://elpais.com/elpais/2019/10/10/icon_design/1570716084_671956.html</link>
-      <description>Este elegante fuste de hormigón, distinguible por un centenar de antenas parabólicas, es el perfecto resumen de lo que quiso ser la capital catalana en su reconversión con la llegada de los Juegos Olímpicos de 1992</description>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El gran engaño de California City: cómo 15.000 incautos acabaron viviendo en una inmensa ciudad en mitad del desierto</title>
-      <link>https://elpais.com/elpais/2019/11/19/icon_design/1574153138_979770.html</link>
-      <description>Su promotor, un sociólogo que quiso reproducir en California el éxito de Las Vegas pero sin ningún atractivo especial, se libró de los juicios posteriores por fraude</description>
-      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La paradoja del Muro de Berlín: ¿por qué Estados Unidos copió la arquitectura comunista?</title>
-      <link>https://elpais.com/elpais/2019/12/31/icon_design/1577787841_369146.html</link>
-      <description>Este año que despedimos se cumplieron 30 años de la caída del Muro que no logró parar la modernidad arquitectónica a uno y otro lado, pero tampoco detuvo el influjo de la arquitectura prefabricada</description>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Verdad incómoda: el mejor ejemplo arquitectónico de Vigo son sus luces de Navidad</title>
-      <link>https://elpais.com/elpais/2020/01/06/icon_design/1578305524_185363.html</link>
-      <description>Su iluminación festiva la representa tanto como un gol de Iago Aspas en la última jornada de Liga</description>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Edificios-cosa: 10 imágenes que explican por qué algunos son una idea brillante y otros una mera ocurrencia</title>
-      <link>https://elpais.com/elpais/2020/04/18/icon_design/1587208556_714462.html</link>
-      <description>Hay que diferenciar entre una idea y una ocurrencia y, sintiéndolo mucho, por cuquis y divertidas que nos parezcan algunas de ellas no son más que ocurrencias</description>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moisés Puente: “La crítica de arquitectura ha dejado de hacer crítica, parece que huyen del tema”</title>
-      <link>https://elpais.com/icon-design/arquitectura/2020-11-14/moises-puente-la-critica-de-arquitectura-ha-dejado-de-hacer-critica-parece-que-estan-huyendo-del-tema.html</link>
-      <description>El arquitecto leonés acaba de publicar ‘Cháchara y otras historias de arquitectura’, un compendio de textos donde camina por algunos de los paisajes mentales más relevantes de la arquitectura moderna. El crítico y también arquitecto Pedro Torrijos lo entrevista</description>
-      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Parador Ariston, la triste historia de una joya de la arquitectura que agoniza en los acantilados de Mar del Plata</title>
-      <link>https://elpais.com/icon-design/arquitectura/2021-03-22/parador-ariston-la-triste-historia-de-una-joya-de-la-arquitectura-mundial-que-agoniza-en-los-acantilados-de-mar-del-plata.html</link>
-      <description>Marcel Breuer diseñó el edificio por encargo de la facultad de Arquitectura, Diseño y Urbanismo de Buenos Aires, Argentina, en 1947. Con este proyecto en forma de trébol de hormigón y fachadas de vidrio sinuoso, el arquitecto se anticipó a la propia modernidad, pues no se había visto algo así en ningún otro lugar</description>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Manhattan del desierto: la ciudad yemení que en el siglo XVI inventó los rascacielos</title>
-      <link>https://elpais.com/icon-design/arquitectura/2021-04-08/la-manhattan-del-desierto-la-ciudad-yemeni-que-en-el-siglo-xvi-invento-los-rascacielos.html</link>
-      <description>En Oriente Medio, en medio del desierto, se encuentra Shibam, un lugar lleno de torres esbeltas, juntas y apretadas que desafían en altura al resto de edificaciones vecinas. Ni son modernas ni son de acero, se construyeron hace más de cuatrocientos años con adobe y cal</description>
-      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La rocambolesca historia del Triángulo de Hess, el solar edificable más pequeño y más caro del mundo</title>
-      <link>https://elpais.com/icon-design/arquitectura/2021-04-13/la-rocambolesca-historia-del-triangulo-de-hess-el-solar-edificable-mas-pequeno-y-mas-caro-del-mundo.html</link>
-      <description>Este lugar, cuyo valor es de 68.000 dólares por metro cuadrado, aparece en casi todas las guías de Manhattan y hasta el ‘New Yorker’ le dedicó un cómic. Sin embargo, aún pasa bastante desapercibido entre los turistas, quizá porque se han olvidado de mirar hacia el suelo</description>
-      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La siniestra historia de los pueblos ovni de Taiwán</title>
-      <link>https://elpais.com/icon-design/arquitectura/2021-08-26/accidentes-mortales-maldiciones-y-bancarrotas-la-siniestra-historia-de-los-pueblos-ovni-de-taiwan.html</link>
-      <description>En 1978 empezaron a construirse en Sanzhi 126 viviendas ovnis pero las obras se paralizaron cuando los obreros entraron en pánico a causa de una leyenda local. El lugar quedó abandonado y las imágenes que regala un paseo entre naves extraterrestres sucias parecen extraídas del futuro</description>
-      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cómo una plataforma de 500 metros cuadrados en mitad del mar se convirtió en el país más pequeño del mundo</title>
-      <link>https://elpais.com/icon-design/arquitectura/2021-09-15/un-rehen-un-james-bond-de-marca-blanca-y-varias-ocupaciones-piratas-asi-se-creo-el-pais-mas-pequeno-del-mundo.html</link>
-      <description>El Principado de Sealand, fundado por Roy y Joan Bates, redactó en 1975 su propia Constitución y creó su moneda, su bandera, su himno e, incluso, su pasaporte y su escudo de armas</description>
-      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Por qué un pueblo australiano decidió enterrarse en el desierto</title>
-      <link>https://elpais.com/icon-design/arquitectura/2021-09-29/por-que-un-pueblo-australiano-decidio-enterrarse-en-el-desierto.html</link>
-      <description>Un grupo de mineros en busca de fortuna fundó en 1915 Coober Pedy. Allí hallaron ópalo y excavaron 250.000 hoyos. En esas madrigueras humanas, que se conservaban a 22 grados frente a los 45 de la superficie, residen sus 1.700 habitantes censados (y tal vez alguno más)</description>
-      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alberto Campo Baeza: “Un arquitecto tiene que intentar hacer la casa más hermosa del mundo. Con lo que tenga, mucho o poco”</title>
-      <link>https://elpais.com/icon-design/arquitectura/2021-11-06/alberto-campo-baeza-un-arquitecto-tiene-que-intentar-hacer-la-casa-mas-hermosa-del-mundo-con-lo-que-tenga-mucho-o-poco.html</link>
-      <description>El Premio Nacional de Arquitectura tiene fama de amable y talento de fábula. Muestra ambos en esta conversación que tuvo lugar en la pequeñísima y a la vez formidable azotea de su estudio madrileño</description>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“No fueron hombres, fueron los ángeles”: así se esculpieron en piedra las majestuosas iglesias de Lalibela</title>
-      <link>https://elpais.com/icon-design/arquitectura/2022-04-08/no-fueron-hombres-fueron-los-angeles-asi-se-esculpieron-en-piedra-las-majestuosas-iglesias-de-lalibela.html</link>
-      <description>En 1978 estos templos etíopes fueron declarados Patrimonio de la Humanidad por la Unesco. A día de hoy son uno de los centros de peregrinación más importantes de África y quienes los visitan aseguran que son tan asombrosos que desafían a la razón</description>
-      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Por qué hay apartamentos de 150 millones en los rascacielos más altos de Nueva York en los que no vive nadie</title>
-      <link>https://elpais.com/icon-design/2023-03-02/por-que-hay-apartamentos-de-150-millones-en-los-rascacielos-mas-altos-de-nueva-york-en-los-que-no-vive-nadie.html</link>
-      <description>Manhattan se ha llenado de edificios residenciales que alcanzan alturas de vértigo gracias a subterfugios legales y que están llenos de residencias compradas a precios desorbitados pero permanecen vacías</description>
-      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El Museo Nacional de Zúrich, o por qué la mejor forma de hacer arquitectura junto a un edificio histórico es no parecerse en nada a él</title>
-      <link>https://elpais.com/icon-design/2023-04-06/el-museo-nacional-de-zurich-o-por-que-la-mejor-forma-de-hacer-arquitectura-junto-a-un-edificio-historico-es-no-parecerse-en-nada-a-el.html</link>
-      <description>El proyecto de los jóvenes arquitectos Emanuel Christ y Christoph Gantenbeim, concluido en 2016, es un prisma de hormigón que evoca la sede decimonónica del museo y el paisaje de los Alpes suizos</description>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La retorcida historia del “país” de ocho metros de diámetro que descansa en un parque de Viena</title>
-      <link>https://elpais.com/icon-design/2023-05-13/la-retorcida-historia-del-pais-de-ocho-metros-de-diametro-que-descansa-en-un-parque-de-viena.html</link>
-      <description>El artista Edwin Lipburger declaró la independencia de la República de Kugelmugel tras una disputa con las autoridades austriacas sobre el permiso para la construcción de una vivienda de forma esférica</description>
-      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Quién fue Fazlur Khan? El hombre que salvó los rascacielos con caña de bambú</title>
-      <link>https://elpais.com/icon-design/2023-11-23/quien-fue-fazlur-khan-el-hombre-que-salvo-los-rascacielos-con-cana-de-bambu.html</link>
-      <description>Gracias al económico sistema de estructura tubular ideado por el ingeniero en 1962 se construyeron las Torres Gemelas, el Citicorp Center, o el novísimo rascacielos de Rafael Viñoly, y se rescató del hundimiento al John Hancock Center</description>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cómo Boeing convirtió una nave de 10 hectáreas en un pueblo falso en plena II Guerra Mundial</title>
-      <link>https://elpais.com/icon-design/2024-01-23/como-boeing-convirtio-una-nave-de-diez-hectareas-en-un-pueblo-falso-en-plena-segunda-guerra-mundial.html</link>
-      <description>Tras el bombardeo de Pearl Harbour, los empleados de la compañía se centraron en simular que su nave de ensamblaje era un barrio residencial para protegerse de posibles ataques. Lo consiguieron empleando los métodos del cine: pinturas, decorados y tramoyas</description>
-      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Puentes que no cruzan nada y un millonario jugador de béisbol fracasado: la verdadera historia de la arquitectura inútil</title>
-      <link>https://elpais.com/icon-design/2024-04-11/puentes-que-no-cruzan-nada-y-un-millonario-jugador-de-beisbol-fracasado-la-verdadera-historia-de-la-arquitectura-inutil.html</link>
-      <description>El japonés Katsuhiko Akasegawa llamó a las configuraciones imposibles que encontraba repartidas por la ciudad ‘thomasson’, las convirtió en arte y les dedicó una revista. Así surgió todo</description>
-      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El caso de ‘la pirámide del fin de mundo’, el monumento de hormigón que pudo haber acabado con millones de vidas</title>
-      <link>https://elpais.com/icon-design/2024-06-11/el-caso-de-la-piramide-del-fin-de-mundo-el-monumento-de-hormigon-que-pudo-haber-acabado-con-millones-de-vidas.html</link>
-      <description>La Pirámide de Nekoma formaba parte del Complejo Stanley R. Mickelsen de Salvaguardia Antimisiles y su objetivo era proteger los misiles nucleares balísticos norteamericanos a pesar de que ello supusiera la aniquilación total</description>
-      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qué no hacer en una reforma, según un arquitecto que se está haciendo su casa</title>
-      <link>https://elpais.com/icon-design/2024-07-18/que-no-hacer-en-una-reforma-segun-un-arquitecto-que-se-esta-haciendo-su-casa.html</link>
-      <description>El arquitecto y divulgador Pedro Torrijos da en este artículo algunos consejos a aquellos que se plantean renovar su hogar. Pero no dirá lo que hay que hacer, sino lo que no se debe hacer. Ya se lo agradecerá más tarde</description>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cómo 350 mujeres reconstruyeron el londinense Puente de Waterloo bajo las bombas nazis</title>
-      <link>https://elpais.com/icon-design/2024-09-17/como-350-mujeres-reconstruyeron-el-londinense-puente-de-waterloo-bajo-las-bombas-nazis.html</link>
-      <description>Su increíble labor casi fue borrada de la Historia, pero el documental ‘The Ladies Bridge’ y las ganas de hacer justicia de las cineastas Karen Livesey y Jo Wiser y de la historiadora Christine Wall han logrado reconocerlas oficialmente</description>
-      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cómo el apellido del casero más odioso de la historia acabó convertido en un popular verbo</title>
-      <link>https://elpais.com/icon-design/2024-09-28/como-el-apellido-del-casero-mas-odioso-de-la-historia-acabo-convertido-en-un-popular-verbo.html</link>
-      <description>A mediados del siglo XIX, un administrador inglés dedicó su vida a reprender y multar a los arrendatarios por prácticamente todo hasta que la Land League logró ponerle en su sitio, además de dejar para la posteridad una palabra con la que sin saberlo rememoramos su nombre</description>
-      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La rocambolesca historia del estafador que vendió la Torre Eiffel (dos veces)</title>
-      <link>https://elpais.com/icon-design/2024-10-22/la-rocambolesca-historia-del-estafador-que-vendio-la-torre-eiffel-dos-veces.html</link>
-      <description>El Conde Victor Lustig –un hombre austrohúngaro que en realidad tenía poco de conde– llegó a París en 1925 dispuesto a ejecutar el timo definitivo</description>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Por qué en Estados Unidos siguen construyendo las casas con madera?</title>
-      <link>https://elpais.com/icon-design/2025-01-18/por-que-en-estados-unidos-siguen-construyendo-las-casas-con-madera.html</link>
-      <description>Tras los incendios de Los Ángeles, tan devastadores que también han arrasado con varios edificios de otros materiales, no sería extraño que la normativa de varios condados de California cambiara para introducir tratamientos ignífugos</description>
-      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <title>Por qué las Torres KIO son un ejemplo de mala arquitectura: así se distingue un buen edificio de uno malo</title>
+      <link>https://elpais.com/icon-design/2025-03-20/por-que-las-torres-kio-son-un-ejemplo-de-mala-arquitectura-asi-se-distingue-un-buen-edificio-de-uno-malo.html</link>
+      <description>Estos rascacielos, obra tardía de Philip Johnson, demuestran que las modas arquitectónicas no deberían ser efímeras, aunque con frecuencia lo sean</description>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Las trampas de la “arquitectura civil bonita” que promueve Donald Trump</title>
@@ -206,10 +20,196 @@
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Por qué las Torres KIO son un ejemplo de mala arquitectura: así se distingue un buen edificio de uno malo</title>
-      <link>https://elpais.com/icon-design/2025-03-20/por-que-las-torres-kio-son-un-ejemplo-de-mala-arquitectura-asi-se-distingue-un-buen-edificio-de-uno-malo.html</link>
-      <description>Estos rascacielos, obra tardía de Philip Johnson, demuestran que las modas arquitectónicas no deberían ser efímeras, aunque con frecuencia lo sean</description>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <title>¿Por qué en Estados Unidos siguen construyendo las casas con madera?</title>
+      <link>https://elpais.com/icon-design/2025-01-18/por-que-en-estados-unidos-siguen-construyendo-las-casas-con-madera.html</link>
+      <description>Tras los incendios de Los Ángeles, tan devastadores que también han arrasado con varios edificios de otros materiales, no sería extraño que la normativa de varios condados de California cambiara para introducir tratamientos ignífugos</description>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La rocambolesca historia del estafador que vendió la Torre Eiffel (dos veces)</title>
+      <link>https://elpais.com/icon-design/2024-10-22/la-rocambolesca-historia-del-estafador-que-vendio-la-torre-eiffel-dos-veces.html</link>
+      <description>El Conde Victor Lustig –un hombre austrohúngaro que en realidad tenía poco de conde– llegó a París en 1925 dispuesto a ejecutar el timo definitivo</description>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cómo el apellido del casero más odioso de la historia acabó convertido en un popular verbo</title>
+      <link>https://elpais.com/icon-design/2024-09-28/como-el-apellido-del-casero-mas-odioso-de-la-historia-acabo-convertido-en-un-popular-verbo.html</link>
+      <description>A mediados del siglo XIX, un administrador inglés dedicó su vida a reprender y multar a los arrendatarios por prácticamente todo hasta que la Land League logró ponerle en su sitio, además de dejar para la posteridad una palabra con la que sin saberlo rememoramos su nombre</description>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cómo 350 mujeres reconstruyeron el londinense Puente de Waterloo bajo las bombas nazis</title>
+      <link>https://elpais.com/icon-design/2024-09-17/como-350-mujeres-reconstruyeron-el-londinense-puente-de-waterloo-bajo-las-bombas-nazis.html</link>
+      <description>Su increíble labor casi fue borrada de la Historia, pero el documental ‘The Ladies Bridge’ y las ganas de hacer justicia de las cineastas Karen Livesey y Jo Wiser y de la historiadora Christine Wall han logrado reconocerlas oficialmente</description>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qué no hacer en una reforma, según un arquitecto que se está haciendo su casa</title>
+      <link>https://elpais.com/icon-design/2024-07-18/que-no-hacer-en-una-reforma-segun-un-arquitecto-que-se-esta-haciendo-su-casa.html</link>
+      <description>El arquitecto y divulgador Pedro Torrijos da en este artículo algunos consejos a aquellos que se plantean renovar su hogar. Pero no dirá lo que hay que hacer, sino lo que no se debe hacer. Ya se lo agradecerá más tarde</description>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El caso de ‘la pirámide del fin de mundo’, el monumento de hormigón que pudo haber acabado con millones de vidas</title>
+      <link>https://elpais.com/icon-design/2024-06-11/el-caso-de-la-piramide-del-fin-de-mundo-el-monumento-de-hormigon-que-pudo-haber-acabado-con-millones-de-vidas.html</link>
+      <description>La Pirámide de Nekoma formaba parte del Complejo Stanley R. Mickelsen de Salvaguardia Antimisiles y su objetivo era proteger los misiles nucleares balísticos norteamericanos a pesar de que ello supusiera la aniquilación total</description>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Puentes que no cruzan nada y un millonario jugador de béisbol fracasado: la verdadera historia de la arquitectura inútil</title>
+      <link>https://elpais.com/icon-design/2024-04-11/puentes-que-no-cruzan-nada-y-un-millonario-jugador-de-beisbol-fracasado-la-verdadera-historia-de-la-arquitectura-inutil.html</link>
+      <description>El japonés Katsuhiko Akasegawa llamó a las configuraciones imposibles que encontraba repartidas por la ciudad ‘thomasson’, las convirtió en arte y les dedicó una revista. Así surgió todo</description>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cómo Boeing convirtió una nave de 10 hectáreas en un pueblo falso en plena II Guerra Mundial</title>
+      <link>https://elpais.com/icon-design/2024-01-23/como-boeing-convirtio-una-nave-de-diez-hectareas-en-un-pueblo-falso-en-plena-segunda-guerra-mundial.html</link>
+      <description>Tras el bombardeo de Pearl Harbour, los empleados de la compañía se centraron en simular que su nave de ensamblaje era un barrio residencial para protegerse de posibles ataques. Lo consiguieron empleando los métodos del cine: pinturas, decorados y tramoyas</description>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Quién fue Fazlur Khan? El hombre que salvó los rascacielos con caña de bambú</title>
+      <link>https://elpais.com/icon-design/2023-11-23/quien-fue-fazlur-khan-el-hombre-que-salvo-los-rascacielos-con-cana-de-bambu.html</link>
+      <description>Gracias al económico sistema de estructura tubular ideado por el ingeniero en 1962 se construyeron las Torres Gemelas, el Citicorp Center, o el novísimo rascacielos de Rafael Viñoly, y se rescató del hundimiento al John Hancock Center</description>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La retorcida historia del “país” de ocho metros de diámetro que descansa en un parque de Viena</title>
+      <link>https://elpais.com/icon-design/2023-05-13/la-retorcida-historia-del-pais-de-ocho-metros-de-diametro-que-descansa-en-un-parque-de-viena.html</link>
+      <description>El artista Edwin Lipburger declaró la independencia de la República de Kugelmugel tras una disputa con las autoridades austriacas sobre el permiso para la construcción de una vivienda de forma esférica</description>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El Museo Nacional de Zúrich, o por qué la mejor forma de hacer arquitectura junto a un edificio histórico es no parecerse en nada a él</title>
+      <link>https://elpais.com/icon-design/2023-04-06/el-museo-nacional-de-zurich-o-por-que-la-mejor-forma-de-hacer-arquitectura-junto-a-un-edificio-historico-es-no-parecerse-en-nada-a-el.html</link>
+      <description>El proyecto de los jóvenes arquitectos Emanuel Christ y Christoph Gantenbeim, concluido en 2016, es un prisma de hormigón que evoca la sede decimonónica del museo y el paisaje de los Alpes suizos</description>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Por qué hay apartamentos de 150 millones en los rascacielos más altos de Nueva York en los que no vive nadie</title>
+      <link>https://elpais.com/icon-design/2023-03-02/por-que-hay-apartamentos-de-150-millones-en-los-rascacielos-mas-altos-de-nueva-york-en-los-que-no-vive-nadie.html</link>
+      <description>Manhattan se ha llenado de edificios residenciales que alcanzan alturas de vértigo gracias a subterfugios legales y que están llenos de residencias compradas a precios desorbitados pero permanecen vacías</description>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“No fueron hombres, fueron los ángeles”: así se esculpieron en piedra las majestuosas iglesias de Lalibela</title>
+      <link>https://elpais.com/icon-design/arquitectura/2022-04-08/no-fueron-hombres-fueron-los-angeles-asi-se-esculpieron-en-piedra-las-majestuosas-iglesias-de-lalibela.html</link>
+      <description>En 1978 estos templos etíopes fueron declarados Patrimonio de la Humanidad por la Unesco. A día de hoy son uno de los centros de peregrinación más importantes de África y quienes los visitan aseguran que son tan asombrosos que desafían a la razón</description>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alberto Campo Baeza: “Un arquitecto tiene que intentar hacer la casa más hermosa del mundo. Con lo que tenga, mucho o poco”</title>
+      <link>https://elpais.com/icon-design/arquitectura/2021-11-06/alberto-campo-baeza-un-arquitecto-tiene-que-intentar-hacer-la-casa-mas-hermosa-del-mundo-con-lo-que-tenga-mucho-o-poco.html</link>
+      <description>El Premio Nacional de Arquitectura tiene fama de amable y talento de fábula. Muestra ambos en esta conversación que tuvo lugar en la pequeñísima y a la vez formidable azotea de su estudio madrileño</description>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Por qué un pueblo australiano decidió enterrarse en el desierto</title>
+      <link>https://elpais.com/icon-design/arquitectura/2021-09-29/por-que-un-pueblo-australiano-decidio-enterrarse-en-el-desierto.html</link>
+      <description>Un grupo de mineros en busca de fortuna fundó en 1915 Coober Pedy. Allí hallaron ópalo y excavaron 250.000 hoyos. En esas madrigueras humanas, que se conservaban a 22 grados frente a los 45 de la superficie, residen sus 1.700 habitantes censados (y tal vez alguno más)</description>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cómo una plataforma de 500 metros cuadrados en mitad del mar se convirtió en el país más pequeño del mundo</title>
+      <link>https://elpais.com/icon-design/arquitectura/2021-09-15/un-rehen-un-james-bond-de-marca-blanca-y-varias-ocupaciones-piratas-asi-se-creo-el-pais-mas-pequeno-del-mundo.html</link>
+      <description>El Principado de Sealand, fundado por Roy y Joan Bates, redactó en 1975 su propia Constitución y creó su moneda, su bandera, su himno e, incluso, su pasaporte y su escudo de armas</description>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La siniestra historia de los pueblos ovni de Taiwán</title>
+      <link>https://elpais.com/icon-design/arquitectura/2021-08-26/accidentes-mortales-maldiciones-y-bancarrotas-la-siniestra-historia-de-los-pueblos-ovni-de-taiwan.html</link>
+      <description>En 1978 empezaron a construirse en Sanzhi 126 viviendas ovnis pero las obras se paralizaron cuando los obreros entraron en pánico a causa de una leyenda local. El lugar quedó abandonado y las imágenes que regala un paseo entre naves extraterrestres sucias parecen extraídas del futuro</description>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La rocambolesca historia del Triángulo de Hess, el solar edificable más pequeño y más caro del mundo</title>
+      <link>https://elpais.com/icon-design/arquitectura/2021-04-13/la-rocambolesca-historia-del-triangulo-de-hess-el-solar-edificable-mas-pequeno-y-mas-caro-del-mundo.html</link>
+      <description>Este lugar, cuyo valor es de 68.000 dólares por metro cuadrado, aparece en casi todas las guías de Manhattan y hasta el ‘New Yorker’ le dedicó un cómic. Sin embargo, aún pasa bastante desapercibido entre los turistas, quizá porque se han olvidado de mirar hacia el suelo</description>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Manhattan del desierto: la ciudad yemení que en el siglo XVI inventó los rascacielos</title>
+      <link>https://elpais.com/icon-design/arquitectura/2021-04-08/la-manhattan-del-desierto-la-ciudad-yemeni-que-en-el-siglo-xvi-invento-los-rascacielos.html</link>
+      <description>En Oriente Medio, en medio del desierto, se encuentra Shibam, un lugar lleno de torres esbeltas, juntas y apretadas que desafían en altura al resto de edificaciones vecinas. Ni son modernas ni son de acero, se construyeron hace más de cuatrocientos años con adobe y cal</description>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parador Ariston, la triste historia de una joya de la arquitectura que agoniza en los acantilados de Mar del Plata</title>
+      <link>https://elpais.com/icon-design/arquitectura/2021-03-22/parador-ariston-la-triste-historia-de-una-joya-de-la-arquitectura-mundial-que-agoniza-en-los-acantilados-de-mar-del-plata.html</link>
+      <description>Marcel Breuer diseñó el edificio por encargo de la facultad de Arquitectura, Diseño y Urbanismo de Buenos Aires, Argentina, en 1947. Con este proyecto en forma de trébol de hormigón y fachadas de vidrio sinuoso, el arquitecto se anticipó a la propia modernidad, pues no se había visto algo así en ningún otro lugar</description>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moisés Puente: “La crítica de arquitectura ha dejado de hacer crítica, parece que huyen del tema”</title>
+      <link>https://elpais.com/icon-design/arquitectura/2020-11-14/moises-puente-la-critica-de-arquitectura-ha-dejado-de-hacer-critica-parece-que-estan-huyendo-del-tema.html</link>
+      <description>El arquitecto leonés acaba de publicar ‘Cháchara y otras historias de arquitectura’, un compendio de textos donde camina por algunos de los paisajes mentales más relevantes de la arquitectura moderna. El crítico y también arquitecto Pedro Torrijos lo entrevista</description>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Edificios-cosa: 10 imágenes que explican por qué algunos son una idea brillante y otros una mera ocurrencia</title>
+      <link>https://elpais.com/elpais/2020/04/18/icon_design/1587208556_714462.html</link>
+      <description>Hay que diferenciar entre una idea y una ocurrencia y, sintiéndolo mucho, por cuquis y divertidas que nos parezcan algunas de ellas no son más que ocurrencias</description>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Verdad incómoda: el mejor ejemplo arquitectónico de Vigo son sus luces de Navidad</title>
+      <link>https://elpais.com/elpais/2020/01/06/icon_design/1578305524_185363.html</link>
+      <description>Su iluminación festiva la representa tanto como un gol de Iago Aspas en la última jornada de Liga</description>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La paradoja del Muro de Berlín: ¿por qué Estados Unidos copió la arquitectura comunista?</title>
+      <link>https://elpais.com/elpais/2019/12/31/icon_design/1577787841_369146.html</link>
+      <description>Este año que despedimos se cumplieron 30 años de la caída del Muro que no logró parar la modernidad arquitectónica a uno y otro lado, pero tampoco detuvo el influjo de la arquitectura prefabricada</description>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El gran engaño de California City: cómo 15.000 incautos acabaron viviendo en una inmensa ciudad en mitad del desierto</title>
+      <link>https://elpais.com/elpais/2019/11/19/icon_design/1574153138_979770.html</link>
+      <description>Su promotor, un sociólogo que quiso reproducir en California el éxito de Las Vegas pero sin ningún atractivo especial, se libró de los juicios posteriores por fraude</description>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Por qué el edificio que mejor define Barcelona es la torre de Collserola (y no la Sagrada Familia)</title>
+      <link>https://elpais.com/elpais/2019/10/10/icon_design/1570716084_671956.html</link>
+      <description>Este elegante fuste de hormigón, distinguible por un centenar de antenas parabólicas, es el perfecto resumen de lo que quiso ser la capital catalana en su reconversión con la llegada de los Juegos Olímpicos de 1992</description>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El rascacielos que estuvo a punto de destruir medio Manhattan (de no ser por una estudiante)</title>
+      <link>https://elpais.com/elpais/2019/10/02/icon_design/1570041356_078765.html</link>
+      <description>Un error de cálculo pudo haber provocado una de las mayores catástrofes de EE UU. Así fue el plan secreto para evitarlo, en plena temporada de huracanes</description>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Deberían negarse los arquitectos a construir más urbanizaciones? Una reflexión sobre el miedo y la soledad</title>
+      <link>https://elpais.com/elpais/2019/09/23/icon_design/1569242140_915235.html</link>
+      <description>Inauguramos con este artículo una serie sobre la soledad, la epidemia del siglo XXI, y una reflexión sobre nuestras ciudades. ¿De qué manera la arquitectura y el urbanismo pueden contribuir al problema o a la solución?</description>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El curioso caso de las ventanas antibrujas de Nueva Inglaterra (que aún hoy se construyen)</title>
+      <link>https://elpais.com/elpais/2019/09/17/icon_design/1568726748_052184.html</link>
+      <description>Varias leyendas giran en torno a estas ventanas inclinadas 45 grados sobre su eje. Qué fue primero, ¿la arquitectura o el folclore?</description>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La calle de Barcelona diseñada para practicar el noble arte de sentarse a la fresca (y con las mejores vistas)</title>
+      <link>https://elpais.com/elpais/2019/08/20/icon_design/1566324542_062882.html</link>
+      <description>En la capital catalana apenas quedan espacios libres de turistas, pero esta premiada rehabilitación de un antiguo barrio de barracas, obra de Ramon Bosch y Bet Capdeferro, es un ejemplo de arquitectura pensada para la vecindad</description>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La consecuencia de que el 85% de los edificios no tenga planta 13</title>
+      <link>https://elpais.com/elpais/2019/07/10/icon_design/1562785104_116689.html</link>
+      <description>La superstición también afecta a disciplinas en apariencia escépticas como la arquitectura. La triscaidecafobia no es el único miedo irracional a un número que ha trastocado la construcción de edificios por todo el mundo, complicando los rescates en caso de incendio y los primeros auxilios. Hay más</description>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un arquitecto español firma el rascacielos más alto de África (y no está en Wakanda)</title>
+      <link>https://elpais.com/elpais/2019/06/02/icon_design/1559472027_427872.html</link>
+      <description>El estudio de Rafael de La-Hoz trabaja en la Tour Mohamed VI, proclamada como la de mayor altura del continente. ¿Serán los rascacielos africanos objetos inocentes, basados en metáforas figurativas e inspirados por utopías afrofuturistas como la de la ciudad de Marvel?</description>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
