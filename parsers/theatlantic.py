@@ -29,7 +29,7 @@ class Feed(BaseFeed):
 
         articles = soup.find_all(name="article")
         for article in articles:
-            title = article.find(name='h2', attrs={"data-event-element": "title"}).text
+            title = article.find(name='a', attrs={"data-event-element": "title"}).text
             if title not in ori_titles:
                 link = article.find('a')['href']
                 desc = article.find('p').text
