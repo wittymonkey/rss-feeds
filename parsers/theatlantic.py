@@ -32,7 +32,7 @@ class Feed(BaseFeed):
             title = article.find(name='a', attrs={"data-event-element": "title"}).text
             if title not in ori_titles:
                 link = article.find('a')['href']
-                desc = article.find('p').text
+                desc = p.text if (p := article.find('p')) else ""
                 date = article.find('time')
                 if not date:
                     date = arrow.utcnow().format()
