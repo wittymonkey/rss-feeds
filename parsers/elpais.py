@@ -31,7 +31,7 @@ class Feed(BaseFeed):
         for article in articles:
             e = article.find(attrs={"class": "c_t"})
             title = e.text.strip()
-            if title not in ori_titles:
+            if title and title not in ori_titles:
                 link = e.find('a')['href']
                 if m := re.search(r'\d{4}-\d{2}-\d{2}', link):
                     date = m.group()

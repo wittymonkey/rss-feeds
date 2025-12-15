@@ -30,7 +30,7 @@ class Feed(BaseFeed):
         articles = soup.find_all(name="article")
         for article in articles:
             title = article.find(name='a', attrs={"data-event-element": "title"}).text
-            if title not in ori_titles:
+            if title and title not in ori_titles:
                 link = article.find('a')['href']
                 desc = p.text if (p := article.find('p')) else ""
                 date = article.find('time')
