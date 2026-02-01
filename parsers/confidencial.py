@@ -6,12 +6,8 @@ import re
 
 import arrow
 from bs4 import BeautifulSoup
-import requests
 
 from base import BaseFeed
-
-
-session = requests.Session()
 
 
 class Feed(BaseFeed):
@@ -23,7 +19,7 @@ class Feed(BaseFeed):
         # Find missing feeds in ori and add them back (with new date)
         ori_titles = set([e["title"] for e in self.feed["entries"]])
 
-        response = session.get(self.url, verify=True)
+        response = self.session.get(self.url, verify=True)
         soup = BeautifulSoup(response.text, "html.parser")
 
         articles = soup.find_all(name="article", attrs={"class": "archive-article"})

@@ -1,4 +1,4 @@
-from parsers import dense_discovery, confidencial, elpais, theatlantic
+from parsers import dense_discovery, confidencial, elpais, theatlantic, abc
 
 
 feeds = [
@@ -6,6 +6,7 @@ feeds = [
     confidencial.BarnesFeed(),
     confidencial.OlmosFeed(),
     confidencial.SotoFeed(),
+    abc.SotoFeed(),
     elpais.ArnauFeed(),
     elpais.FanjulFeed(),
     elpais.JuegoCienciaFeed(),
@@ -26,7 +27,4 @@ for feed in feeds:
 
 # Raise an Exception for the Github Action fail status
 if failures:
-    raise Exception(
-        "The following parsers failed: \n" \
-        f"    {failures}"
-    )
+    raise Exception(f"The following parsers failed: \n    {failures}")
