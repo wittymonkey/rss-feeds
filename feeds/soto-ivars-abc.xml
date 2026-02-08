@@ -6,42 +6,18 @@
     <description>This is a cool feed!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Feb 2026 08:37:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 08:37:50 +0000</lastBuildDate>
     <item>
-      <title>Quién quiere volver al 36</title>
-      <link>https://archive.ph/https://www.abc.es/opinion/juan-soto-ivars-quiere-volver-20260131130016-nt.html</link>
-      <description>Todo esto deja un regusto muy amargo. Nos habla del estado de un país en el que la politización de la vida privada avanza en paralelo a los intereses de los extremistas. Y esto lo está provocando la izquierda</description>
-      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <title>Esteso y el coñazo</title>
+      <link>https://archive.ph/https://www.abc.es/opinion/juan-soto-ivars-esteso-conazo-20260202124014-nt.html</link>
+      <description>Hay que hablar de esa España que ya no existe: despreocupada, bromista, machista, simpaticorra</description>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El  mayor regalo que Venezuela ha hecho  a la izquierda radical</title>
-      <link>https://archive.ph/https://www.abc.es/opinion/juan-soto-ivars-mayor-regalo-venezuela-izquierda-radical-20260110195356-nt.html</link>
-      <description>Se supone que ocho millones de venezolanos de la diáspora son ricos, fascistas y compran pisos. Normal que Venezuela esté en la ruina si se han ido del país ocho millones de ricos, pero no entiendo que no se haya recuperado el país habiendo expulsado a ocho millones de fachas</description>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vivienda protegida hasta donde alcanza la vista</title>
-      <link>https://archive.ph/https://www.abc.es/opinion/juan-soto-ivars-vivienda-protegida-alcanza-vista-20260112154546-nt.html</link>
-      <description>Abrigados en la certeza de que nos gobiernan los buenos, hacemos planes de vida que sólo se romperán en caso de que un día gobierne la derecha</description>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Pendulazo de derechas en la cultura?</title>
-      <link>https://archive.ph/https://www.abc.es/cultura/cultural/pendulazo-derechas-cultura-20260115185348-nt.html</link>
-      <description>Valores conservadores como el arraigo, la seguridad, el vínculo e incluso la fe están aflorando en propuestas creativas recientes más allá de las ideas políticas de sus autores. ¿Se puede hablar de un cambio de ciclo en la hegemonía cultural?</description>
-      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hace treinta años que  enterraron a un hombre vivo</title>
-      <link>https://archive.ph/https://www.abc.es/opinion/juan-soto-ivars-hoy-treinta-anos-enterraron-hombre-vivo-20260117130020-nt.html</link>
-      <description>Hace treinta años, a Ortega Lara le quedaban 532 días allí dentro, pero él no lo sabía. Contaba el tiempo por el ruido de las máquinas de la fábrica: el parón le informaba de los festivos y los domingos, y así se consumió, como un prisionero de Auschwitz</description>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No politices la desgracia (que ya la politizo yo)</title>
-      <link>https://archive.ph/https://www.abc.es/opinion/juan-soto-ivars-politices-desgracia-politizo-20260119194132-nt.html</link>
-      <description>La recuerdo hablando día y noche del Ventorro, animando a cortar la vuelta ciclista por amor a Palestina</description>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <title>La boina toma las decisiones</title>
+      <link>https://archive.ph/https://www.abc.es/opinion/juan-soto-ivars-boina-toma-decisiones-20260126120410-nt.html</link>
+      <description>De Uclés me divierten más sus movimientos públicos que literarios. Hace unos días montó un pollo demencial en redes</description>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Bauticemos las anomalías ferroviarias como bautizamos las borrascas</title>
@@ -50,10 +26,40 @@
       <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La boina toma las decisiones</title>
-      <link>https://archive.ph/https://www.abc.es/opinion/juan-soto-ivars-boina-toma-decisiones-20260126120410-nt.html</link>
-      <description>De Uclés me divierten más sus movimientos públicos que literarios. Hace unos días montó un pollo demencial en redes</description>
-      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <title>No politices la desgracia (que ya la politizo yo)</title>
+      <link>https://archive.ph/https://www.abc.es/opinion/juan-soto-ivars-politices-desgracia-politizo-20260119194132-nt.html</link>
+      <description>La recuerdo hablando día y noche del Ventorro, animando a cortar la vuelta ciclista por amor a Palestina</description>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hace treinta años que  enterraron a un hombre vivo</title>
+      <link>https://archive.ph/https://www.abc.es/opinion/juan-soto-ivars-hoy-treinta-anos-enterraron-hombre-vivo-20260117130020-nt.html</link>
+      <description>Hace treinta años, a Ortega Lara le quedaban 532 días allí dentro, pero él no lo sabía. Contaba el tiempo por el ruido de las máquinas de la fábrica: el parón le informaba de los festivos y los domingos, y así se consumió, como un prisionero de Auschwitz</description>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Pendulazo de derechas en la cultura?</title>
+      <link>https://archive.ph/https://www.abc.es/cultura/cultural/pendulazo-derechas-cultura-20260115185348-nt.html</link>
+      <description>Valores conservadores como el arraigo, la seguridad, el vínculo e incluso la fe están aflorando en propuestas creativas recientes más allá de las ideas políticas de sus autores. ¿Se puede hablar de un cambio de ciclo en la hegemonía cultural?</description>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vivienda protegida hasta donde alcanza la vista</title>
+      <link>https://archive.ph/https://www.abc.es/opinion/juan-soto-ivars-vivienda-protegida-alcanza-vista-20260112154546-nt.html</link>
+      <description>Abrigados en la certeza de que nos gobiernan los buenos, hacemos planes de vida que sólo se romperán en caso de que un día gobierne la derecha</description>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El  mayor regalo que Venezuela ha hecho  a la izquierda radical</title>
+      <link>https://archive.ph/https://www.abc.es/opinion/juan-soto-ivars-mayor-regalo-venezuela-izquierda-radical-20260110195356-nt.html</link>
+      <description>Se supone que ocho millones de venezolanos de la diáspora son ricos, fascistas y compran pisos. Normal que Venezuela esté en la ruina si se han ido del país ocho millones de ricos, pero no entiendo que no se haya recuperado el país habiendo expulsado a ocho millones de fachas</description>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quién quiere volver al 36</title>
+      <link>https://archive.ph/https://www.abc.es/opinion/juan-soto-ivars-quiere-volver-20260131130016-nt.html</link>
+      <description>Todo esto deja un regusto muy amargo. Nos habla del estado de un país en el que la politización de la vida privada avanza en paralelo a los intereses de los extremistas. Y esto lo está provocando la izquierda</description>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
