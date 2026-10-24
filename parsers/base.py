@@ -10,6 +10,7 @@ from pathlib import Path
 from feedgen.feed import FeedGenerator
 import feedparser
 import requests
+import curl_cffi
 
 
 feeds_dir = Path(__file__).parents[1].resolve() / "feeds"
@@ -36,6 +37,10 @@ class BaseFeed:
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
             }
         )
+
+        # Create a session to bypass antibot detection
+        # This does not bypass JS challenges
+        self.antibot_session = curl_cffi.requests.Session(impersonate="chrome")
 
     def feed2dict(self, f):
         d = {

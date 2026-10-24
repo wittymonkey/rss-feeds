@@ -19,6 +19,7 @@ class Feed(BaseFeed):
         # Find missing feeds in ori and add them back (with new date)
         ori_titles = set([e["title"].strip() for e in self.feed["entries"]])
 
+        response = self.antibot_session.get(self.url, verify=True)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, "html.parser")
 
