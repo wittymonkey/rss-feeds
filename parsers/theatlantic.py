@@ -25,6 +25,8 @@ class Feed(BaseFeed):
         soup = BeautifulSoup(response.text, "html.parser")
 
         articles = soup.find_all(name="article")
+        if not articles:
+            raise Exception(f"{self.name}: ⚠️ No articles found, maybe you should update the parser.")
         for article in articles:
             title = article.find(name="a", attrs={"data-event-element": "title"}).text
             if title and title not in ori_titles:

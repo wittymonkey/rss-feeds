@@ -24,6 +24,8 @@ class Feed(BaseFeed):
         soup = BeautifulSoup(response.text, "html.parser")
 
         articles = soup.find_all(name="article", attrs={"class": "c-d"})
+        if not articles:
+            raise Exception(f"{self.name}: ⚠️ No articles found, maybe you should update the parser.")
         for article in articles:
             e = article.find(attrs={"class": "c_t"})
             title = e.text.strip()

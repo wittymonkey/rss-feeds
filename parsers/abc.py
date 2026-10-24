@@ -23,6 +23,8 @@ class Feed(BaseFeed):
         soup = BeautifulSoup(response.text, "html.parser")
 
         articles = soup.find_all(name="div", attrs={"class": "voc-article-container"})
+        if not articles:
+            raise Exception(f"{self.name}: ⚠️ No articles found, maybe you should update the parser.")
         for article in articles:
             e = article.find(name="h2", attrs={"class": "voc-title"})
             title = e.text.strip()
