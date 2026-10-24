@@ -19,6 +19,7 @@ class Feed(BaseFeed):
         ori_titles = set([e["title"] for e in self.feed["entries"]])
 
         response = self.session.get(self.url, verify=True)
+        response.raise_for_status()
         soup = BeautifulSoup(response.text, "html.parser")
 
         articles = soup.find_all(name="div", attrs={"class": "voc-article-container"})
