@@ -1,5 +1,8 @@
 """
 This parses TheAtlantic
+
+No longer needed since there is an official feed.
+https://www.theatlantic.com/feed/channel/technology/
 """
 
 import arrow
@@ -17,7 +20,8 @@ class Feed(BaseFeed):
         # Find missing feeds in ori and add them back (with new date)
         ori_titles = set([e["title"] for e in self.feed["entries"]])
 
-        response = self.session.get(self.url, verify=True)
+        response = self.antibot_session.get(self.url, verify=True)
+        response.raise_for_status()
         soup = BeautifulSoup(response.text, "html.parser")
 
         articles = soup.find_all(name="article")

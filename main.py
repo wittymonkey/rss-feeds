@@ -13,7 +13,6 @@ feeds = [
     elpais.MolinaFeed(),
     elpais.HancockFeed(),
     elpais.TorrijosFeed(),
-    theatlantic.technology(),
 ]
 failures = []
 
