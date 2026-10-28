@@ -3,10 +3,10 @@ from parsers import dense_discovery, confidencial, elpais, theatlantic, abc
 
 feeds = [
     dense_discovery.Feed(),
-    confidencial.BarnesFeed(),
-    confidencial.OlmosFeed(),
-    confidencial.SotoFeed(),
-    abc.SotoFeed(),
+    # confidencial.BarnesFeed(),
+    # confidencial.OlmosFeed(),
+    # confidencial.SotoFeed(),
+    # abc.SotoFeed(),
     elpais.ArnauFeed(),
     elpais.FanjulFeed(),
     elpais.JuegoCienciaFeed(),
