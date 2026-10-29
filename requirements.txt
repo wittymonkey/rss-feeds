@@ -3,3 +3,4 @@ beautifulsoup4
 feedgen
 feedparser
 requests
+curl_cffi
